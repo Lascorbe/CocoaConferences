@@ -18,6 +18,7 @@ All-English conferences for **cocoa** developers.
 
 ### Unknown | Last one was on...
 * [mdevcon](http://mdevcon.com/) | March 14-15, 2013 | Amsterdam, Netherland
+* [WWDC](https://developer.apple.com/wwdc/) | June 10-14, 2013 | San Francisco, California
 * [iOS Dev UK](http://www.iosdevuk.com/) | September 3-5, 2013 | Aberystwyth, Wales
 * [360iDev](http://360idev.com/) | September 8-11, 2013 | Denver, Colorado
 * [Objective-Cologne](http://objcgn.com/) | September 17-18, 2013 | Cologne, Germany
