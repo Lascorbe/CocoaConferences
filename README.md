@@ -12,7 +12,7 @@ All-English conferences for **cocoa** developers.
 * [Renaissance](http://renaissance.io/2014) | January 29-31 | San Francisco, California
 * [Snow*Mobile](http://2014.snow-mobile.org/) | Feb 21-22 | Madison, Wisconsin
 * [NSConference](http://nsconference.com/) | March 17-19 | Leicester, England
-* [úll](http://2013.ull.ie/) | April 28-30, 2013 | Dublin, Ireland
+* [úll](http://2014.ull.ie/) | April 28-30, 2013 | Dublin, Ireland
 * [UIKonf](http://www.uikonf.com/) | May 14-16 | Berlin, Germany
 * [NSSpain](http://nsspain.com/) | September 17-19 | Logroño, Spain
 
