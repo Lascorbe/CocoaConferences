@@ -16,8 +16,9 @@ All-English conferences for **cocoa** developers.
 * [UIKonf](http://www.uikonf.com/) | May 14-16 | Berlin, Germany
 * [NSSpain](http://nsspain.com/) | September 17-19 | Logroño, Spain
 
-### Unknown | Last one was on...
+### Unknown, last one was on...
 * [mdevcon](http://mdevcon.com/) | March 14-15, 2013 | Amsterdam, Netherland
+* [NSNorth](http://nsnorth.ca/) | April 19-21, 2013 | Ottawa, Canada
 * [WWDC](https://developer.apple.com/wwdc/) | June 10-14, 2013 | San Francisco, California
 * [iOS Dev UK](http://www.iosdevuk.com/) | September 3-5, 2013 | Aberystwyth, Wales
 * [360iDev](http://360idev.com/) | September 8-11, 2013 | Denver, Colorado
