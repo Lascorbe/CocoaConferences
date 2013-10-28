@@ -8,13 +8,13 @@ All-English conferences for **cocoa** developers.
 ### 2014
 * [Renaissance](http://renaissance.io/2014) | January 29-31 | San Francisco, California
 * [Snow*Mobile](http://2014.snow-mobile.org/) | Feb 21-22 | Madison, Wisconsin
+* [mdevcon](http://mdevcon.com/) | March 7-8 | Amsterdam, Netherland
 * [NSConference](http://nsconference.com/) | March 17-19 | Leicester, England
 * [úll](http://2014.ull.ie/) | April 28-30, 2013 | Dublin, Ireland
 * [UIKonf](http://www.uikonf.com/) | May 14-16 | Berlin, Germany
 * [NSSpain](http://nsspain.com/) | September 17-19 | Logroño, Spain
 
 ### To be confirmed, last was on...
-* [mdevcon](http://mdevcon.com/) | March 14-15, 2013 | Amsterdam, Netherland
 * [NSNorth](http://nsnorth.ca/) | April 19-21, 2013 | Ottawa, Canada
 * [WWDC](https://developer.apple.com/wwdc/) | June 10-14, 2013 | San Francisco, California
 * [iOS Dev UK](http://www.iosdevuk.com/) | September 3-5, 2013 | Aberystwyth, Wales
