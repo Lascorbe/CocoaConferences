@@ -6,6 +6,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2013/home) | **November 15-16** | Atlanta, Georgia
 
 ### 2014
+* [Mobile Central Europe](http://mobilecentraleurope.com) | **January 10-11** | Warsaw, Poland
 * [Renaissance](http://renaissance.io/2014) | **January 29-31** | San Francisco, California
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22** | Madison, Wisconsin
 * [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherland
