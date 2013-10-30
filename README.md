@@ -13,6 +13,7 @@ All-English conferences for **cocoa** developers.
 * [NSConference](http://nsconference.com/) | **March 17-19** | Leicester, England
 * [úll](http://2014.ull.ie/) | **April 28-30** | Dublin, Ireland
 * [UIKonf](http://www.uikonf.com/) | **May 14-16** | Berlin, Germany
+* [Objective-Cologne](http://objcgn.com/) | **September 23-25** | Cologne, Germany
 * [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 
 ### To be confirmed, last was on...
@@ -20,7 +21,6 @@ All-English conferences for **cocoa** developers.
 * [WWDC](https://developer.apple.com/wwdc/) | **June 10-14, 2013** | San Francisco, California
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 3-5, 2013** | Aberystwyth, Wales
 * [360iDev](http://360idev.com/) | **September 8-11, 2013** | Denver, Colorado
-* [Objective-Cologne](http://objcgn.com/) | **September 17-18, 2013** | Cologne, Germany
 * [Çingleton](http://cingleton.com/) | **October 11-13, 2013** | Montreal, Canada
 * [NSScotland](http://nsscotland.com/) | **October 19-20, 2013** | Edinburgh, Scotland
 * [CocoaConf Boston](http://cocoaconf.com/boston-2013/home) | **October 25-26, 2013** | Boston, Massachusetts
