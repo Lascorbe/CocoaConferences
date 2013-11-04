@@ -2,8 +2,14 @@
 All-English conferences for **cocoa** developers.
 
 ### 2013
+* [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **November 6-7** | Tokyo, Japan
 * [MacTechConf](http://mactech.com/conference) | **November 6-8** | Los Angeles, California
+* [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **November 12-13** | Shanghai, China
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2013/home) | **November 15-16** | Atlanta, Georgia
+* [Alt Tech Talks](http://www.alt-tech-talks.com) | **November 11** | Berlin, Germany
+* [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **November 12-13** | Berlin, Germany
+* [Alt Tech Talks](https://twitter.com/AltTechTalksLDN) | **November 16** | London, UK
+* [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **November 17-18** | London, UK
 
 ### 2014
 * [Mobile Central Europe](http://mobilecentraleurope.com) | **January 10-11** | Warsaw, Poland
