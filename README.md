@@ -8,7 +8,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2013/home) | **November 15-16** | Atlanta, Georgia
 * [Alt Tech Talks](http://www.alt-tech-talks.com) | **November 11** | Berlin, Germany
 * [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **November 12-13** | Berlin, Germany
-* [Alt Tech Talks](https://twitter.com/AltTechTalksLDN) | **November 16** | London, UK
+* [Alt Tech Talks](http://www.alttechtalks.com) | **November 16** | London, UK
 * [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **November 17-18** | London, UK
 
 ### 2014
