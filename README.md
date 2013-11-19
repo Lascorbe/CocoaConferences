@@ -2,14 +2,10 @@
 All-English conferences for **cocoa** developers.
 
 ### 2013
-* [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **November 6-7** | Tokyo, Japan
-* [MacTechConf](http://mactech.com/conference) | **November 6-8** | Los Angeles, California
-* [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **November 12-13** | Shanghai, China
-* [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2013/home) | **November 15-16** | Atlanta, Georgia
-* [Alt Tech Talks](http://www.alt-tech-talks.com) | **November 11** | Berlin, Germany
-* [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **November 12-13** | Berlin, Germany
-* [Alt Tech Talks](http://www.alttechtalks.com) | **November 16** | London, UK
-* [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **November 17-18** | London, UK
+* [Alt Tech Talks](http://www.alt-tech-talks.com) | **December 11** | Berlin, Germany
+* [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **December 12-13** | Berlin, Germany
+* [Alt Tech Talks](http://www.alttechtalks.com) | **December 16** | London, UK
+* [iOS Tech Talks](https://developer.apple.com/tech-talks/) | **December 17-18** | London, UK
 
 ### 2014
 * [Mobile Central Europe](http://mobilecentraleurope.com) | **January 10-11** | Warsaw, Poland
@@ -30,6 +26,8 @@ All-English conferences for **cocoa** developers.
 * [Çingleton](http://cingleton.com/) | **October 11-13, 2013** | Montreal, Canada
 * [NSScotland](http://nsscotland.com/) | **October 19-20, 2013** | Edinburgh, Scotland
 * [CocoaConf Boston](http://cocoaconf.com/boston-2013/home) | **October 25-26, 2013** | Boston, Massachusetts
+* [MacTechConf](http://mactech.com/conference) | **November 6-8, 2013** | Los Angeles, California
+* [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2013/home) | **November 15-16, 2013** | Atlanta, Georgia
 
 ### More
-If you want to add a conference to this list or edit the info, send a **pull request**, [ping me](https://twitter.com/lascorbe) on twitter or get in touch at [luis@nsspain.com](mailto:luis@nsspain.com). Thank you!
+If you want to add a conference to this list or edit the info, send a **pull request**, [ping me on twitter](https://twitter.com/lascorbe) or get in touch at [luis@nsspain.com](mailto:luis@nsspain.com). Thank you!
