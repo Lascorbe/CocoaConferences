@@ -7,7 +7,7 @@ All-English conferences for **cocoa** developers.
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22** | Madison, Wisconsin
 * [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherland
 * [NSConference](http://nsconference.com/) | **March 17-19** | Leicester, England
-* [úll](http://2014.ull.ie/) | **April 28-30** | Dublin, Ireland
+* [úll](http://2014.ull.ie/) | **April 28-30** | Kilkenny, Ireland
 * [UIKonf](http://www.uikonf.com/) | **May 14-16** | Berlin, Germany
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
 * [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
