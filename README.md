@@ -11,7 +11,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf DC](http://cocoaconf.com/dc-2014/home) | **March 28-29** | Herndon, Virginia
 * [CocoaConf Austin](http://cocoaconf.com/austin-2014/home) | **April 4-5** | Austin, Texas
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home) | **April 25-26** | San Jose, California
-* [úll](http://2014.ull.ie/) | **April 28-30** | Dublin, Ireland
+* [úll](http://2014.ull.ie/) | **April 28-30** | Kilkenny, Ireland
 * [CocoaConf Raleigh](http://cocoaconf.com/raleigh-2014/home) | **May 9-10** | Raleigh, North Carolina
 * [UIKonf](http://www.uikonf.com/) | **May 14-16** | Berlin, Germany
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
