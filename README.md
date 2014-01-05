@@ -18,14 +18,14 @@ All-English conferences for **cocoa** developers.
 * [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 * [Objective-Cologne](http://objcgn.com/) | **September 23-25** | Cologne, Germany
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
-
+* [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
+ 
 ### To be confirmed, last was on...
 * [NSNorth](http://nsnorth.ca/) | **April 19-21, 2013** | Ottawa, Canada
 * [WWDC](https://developer.apple.com/wwdc/) | **June 10-14, 2013** | San Francisco, California
 * [360iDev](http://360idev.com/) | **September 8-11, 2013** | Denver, Colorado
 * [NSScotland](http://nsscotland.com/) | **October 19-20, 2013** | Edinburgh, Scotland
 * [CocoaConf Boston](http://cocoaconf.com/boston-2013/home) | **October 25-26, 2013** | Boston, Massachusetts
-* [MacTechConf](http://mactech.com/conference) | **November 6-8, 2013** | Los Angeles, California
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2013/home) | **November 15-16, 2013** | Atlanta, Georgia
 * [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany
 * [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK
