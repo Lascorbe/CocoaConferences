@@ -33,6 +33,7 @@ All-English conferences for **cocoa** developers.
 * [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherland
 * [Mobile March](http://mobilemarchtc.com/) | **March 20, 2014** | Minneapolis, Minnesota
 * [úll](http://2014.ull.ie/) | **April 28-30** | Kilkenny, Ireland
+* [ValioCon](http://valiocon.com/) | **June 5-8** | San Diego, California
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
 * [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
  
