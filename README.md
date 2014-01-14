@@ -25,7 +25,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2013/home) | **November 15-16, 2013** | Atlanta, Georgia
 * [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany
 * [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK
-* 
+
 ## Mobile in general or interesting for Cocoa devs
 ### 2014
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **Feb 5-6** | San Francisco, California
