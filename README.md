@@ -30,7 +30,7 @@ All-English conferences for **cocoa** developers.
 ### 2014
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **Feb 5-6** | San Francisco, California
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22** | Madison, Wisconsin
-* [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherland
+* [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherlands
 * [Mobile March](http://mobilemarchtc.com/) | **March 20, 2014** | Minneapolis, Minnesota
 * [úll](http://2014.ull.ie/) | **April 28-30** | Kilkenny, Ireland
 * [ValioCon](http://valiocon.com/) | **June 5-8** | San Diego, California
