@@ -42,4 +42,7 @@ All-English conferences for **cocoa** developers.
 * [Mobile Central Europe](http://mobilecentraleurope.com) | **January 10-11, 2014** | Warsaw, Poland
 
 ### More
+
+A Twitter's list with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho) | [List](https://twitter.com/NeoNacho/lists/cocoaconferences)
+
 If you want to add a conference to this list or edit the info, send a **pull request**, [ping me on twitter](https://twitter.com/lascorbe) or get in touch at [luis@nsspain.com](mailto:luis@nsspain.com). Thank you!
