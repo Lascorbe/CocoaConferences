@@ -3,7 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [Renaissance](http://renaissance.io/2014) | **January 29-31** | San Francisco, California
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2014/home) | **March 7-8** | Chicago, Illinois
 * [NSConference](http://nsconference.com/) | **March 17-19** | Leicester, England
 * [CocoaConf DC](http://cocoaconf.com/dc-2014/home) | **March 28-29** | Herndon, Virginia
@@ -25,13 +24,16 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2013/home) | **November 15-16, 2013** | Atlanta, Georgia
 * [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany
 * [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK
+* [Renaissance](http://renaissance.io/2014) | **January 29-31, 2014** | San Francisco, California
 
 ## Mobile in general or interesting for Cocoa devs
 ### 2014
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **Feb 5-6** | San Francisco, California
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22** | Madison, Wisconsin
 * [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherlands
-* [Mobile March](http://mobilemarchtc.com/) | **March 20, 2014** | Minneapolis, Minnesota
+* [GDC](http://www.gdconf.com/) | **March 17-21** | San Francisco, California
+* [Mobile March](http://mobilemarchtc.com/) | **March 20** | Minneapolis, Minnesota
+* [iOS & RoR Conference](http://iosonrailsconf.eu//) | **April 17-18** | Alushta, Crimea
 * [úll](http://2014.ull.ie/) | **April 28-30** | Kilkenny, Ireland
 * [ValioCon](http://valiocon.com/) | **June 5-8** | San Diego, California
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28** | Amsterdam, Netherlands
