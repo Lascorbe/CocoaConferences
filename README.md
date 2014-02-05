@@ -20,6 +20,8 @@ All-English conferences for **cocoa** developers.
 * [WWDC](https://developer.apple.com/wwdc/) | **June 10-14, 2013** | San Francisco, California
 * [360iDev](http://360idev.com/) | **September 8-11, 2013** | Denver, Colorado
 * [NSScotland](http://nsscotland.com/) | **October 19-20, 2013** | Edinburgh, Scotland
+* [CocoaConf Porland](http://cocoaconf.com/portland-2013/home) | **August 15-16, 2013** | Porland, Oregon
+* [CocoaConf Columbus](http://cocoaconf.com/columbus-2013/home) | **September 27-28, 2013** | Columbus, Ohio
 * [CocoaConf Boston](http://cocoaconf.com/boston-2013/home) | **October 25-26, 2013** | Boston, Massachusetts
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2013/home) | **November 15-16, 2013** | Atlanta, Georgia
 * [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany
