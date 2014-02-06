@@ -32,6 +32,7 @@ All-English conferences for **cocoa** developers.
 ### 2014
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **Feb 5-6** | San Francisco, California
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22** | Madison, Wisconsin
+* [WIPJam at MWC](http://wip.org/wip-event/wipjam-mwc14/) | **Feb 24-27** | Barcelona, Spain
 * [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherlands
 * [GDC](http://www.gdconf.com/) | **March 17-21** | San Francisco, California
 * [Mobile March](http://mobilemarchtc.com/) | **March 20** | Minneapolis, Minnesota
