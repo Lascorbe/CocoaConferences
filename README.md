@@ -28,13 +28,12 @@ All-English conferences for **cocoa** developers.
 * [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK
 * [Renaissance](http://renaissance.io/2014) | **January 29-31, 2014** | San Francisco, California
 
-## Mobile in general or interesting for Cocoa devs
+## Related to Cocoa or Mobile in general
 ### 2014
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **Feb 5-6** | San Francisco, California
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22** | Madison, Wisconsin
 * [WIPJam at MWC](http://wip.org/wip-event/wipjam-mwc14/) | **Feb 24-27** | Barcelona, Spain
 * [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherlands
-* [GDC](http://www.gdconf.com/) | **March 17-21** | San Francisco, California
 * [Mobile March](http://mobilemarchtc.com/) | **March 20** | Minneapolis, Minnesota
 * [iOS & RoR Conference](http://iosonrailsconf.eu//) | **April 17-18** | Alushta, Crimea
 * [úll](http://2014.ull.ie/) | **April 28-30** | Kilkenny, Ireland
@@ -48,6 +47,6 @@ All-English conferences for **cocoa** developers.
 
 ### More
 
-A Twitter's list with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho) | [List](https://twitter.com/NeoNacho/lists/cocoaconferences)
+A [Twitter's list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
 
 If you want to add a conference to this list or edit the info, send a **pull request**, [ping me on twitter](https://twitter.com/lascorbe) or get in touch at [luis@nsspain.com](mailto:luis@nsspain.com). Thank you!
