@@ -7,6 +7,7 @@ All-English conferences for **cocoa** developers.
 * [NSConference](http://nsconference.com/) | **March 17-19** | Leicester, England
 * [CocoaConf DC](http://cocoaconf.com/dc-2014/home) | **March 28-29** | Herndon, Virginia
 * [CocoaConf Austin](http://cocoaconf.com/austin-2014/home) | **April 4-5** | Austin, Texas
+* [#iOSonRailsConf](http://http://iosonrailsconf.eu) | **April 18-20** | Crimea, Ukeraine
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home) | **April 25-26** | San Jose, California
 * [NSNorth](http://nsnorth.ca/) | **May 8-10** | Ottawa, Canada
 * [CocoaConf Raleigh](http://cocoaconf.com/raleigh-2014/home) | **May 9-10** | Raleigh, North Carolina
