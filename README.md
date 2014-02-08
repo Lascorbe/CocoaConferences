@@ -3,7 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [Renaissance](http://renaissance.io/2014) | **January 29-31** | San Francisco, California
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2014/home) | **March 7-8** | Chicago, Illinois
 * [NSConference](http://nsconference.com/) | **March 17-19** | Leicester, England
 * [CocoaConf DC](http://cocoaconf.com/dc-2014/home) | **March 28-29** | Herndon, Virginia
@@ -17,28 +16,38 @@ All-English conferences for **cocoa** developers.
 * [Objective-Cologne](http://objcgn.com/) | **September 23-25** | Cologne, Germany
 * [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
  
-### Last was on...
+### Has already happened...
 * [WWDC](https://developer.apple.com/wwdc/) | **June 10-14, 2013** | San Francisco, California
 * [360iDev](http://360idev.com/) | **September 8-11, 2013** | Denver, Colorado
 * [NSScotland](http://nsscotland.com/) | **October 19-20, 2013** | Edinburgh, Scotland
+* [CocoaConf Porland](http://cocoaconf.com/portland-2013/home) | **August 15-16, 2013** | Porland, Oregon
+* [CocoaConf Columbus](http://cocoaconf.com/columbus-2013/home) | **September 27-28, 2013** | Columbus, Ohio
 * [CocoaConf Boston](http://cocoaconf.com/boston-2013/home) | **October 25-26, 2013** | Boston, Massachusetts
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2013/home) | **November 15-16, 2013** | Atlanta, Georgia
 * [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany
 * [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK
+* [Renaissance](http://renaissance.io/2014) | **January 29-31, 2014** | San Francisco, California
 
-## Mobile in general or interesting for Cocoa devs
+## Related to Cocoa or Mobile in general
 ### 2014
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **Feb 5-6** | San Francisco, California
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22** | Madison, Wisconsin
-* [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherland
-* [Mobile March](http://mobilemarchtc.com/) | **March 20, 2014** | Minneapolis, Minnesota
+* [WIPJam at MWC](http://wip.org/wip-event/wipjam-mwc14/) | **Feb 24-27** | Barcelona, Spain
+* [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherlands
+* [Mobile March](http://mobilemarchtc.com/) | **March 20** | Minneapolis, Minnesota
+* [iOS & RoR Conference](http://iosonrailsconf.eu//) | **April 17-18** | Alushta, Crimea
 * [úll](http://2014.ull.ie/) | **April 28-30** | Kilkenny, Ireland
+* [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29** | San Francisco, California
 * [ValioCon](http://valiocon.com/) | **June 5-8** | San Diego, California
+* [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28** | Amsterdam, Netherlands
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
 * [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
  
-### Last was on...
+### Has already happened...
 * [Mobile Central Europe](http://mobilecentraleurope.com) | **January 10-11, 2014** | Warsaw, Poland
 
 ### More
+
+A [Twitter's list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
+
 If you want to add a conference to this list or edit the info, send a **pull request**, [ping me on twitter](https://twitter.com/lascorbe) or get in touch at [luis@nsspain.com](mailto:luis@nsspain.com). Thank you!
