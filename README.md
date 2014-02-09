@@ -14,6 +14,7 @@ All-English conferences for **cocoa** developers.
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
 * [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 * [Objective-Cologne](http://objcgn.com/) | **September 23-25** | Cologne, Germany
+* [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
 
 ### Has already happened...
 * [WWDC](https://developer.apple.com/wwdc/) | **June 10-14, 2013** | San Francisco, California
@@ -39,7 +40,6 @@ All-English conferences for **cocoa** developers.
 * [ValioCon](http://valiocon.com/) | **June 5-8** | San Diego, California
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28** | Amsterdam, Netherlands
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
-* [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
  
 ### Has already happened...
 * [Mobile Central Europe](http://mobilecentraleurope.com) | **January 10-11, 2014** | Warsaw, Poland
