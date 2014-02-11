@@ -11,6 +11,7 @@ All-English conferences for **cocoa** developers.
 * [NSNorth](http://nsnorth.ca/) | **May 8-10** | Ottawa, Canada
 * [CocoaConf Raleigh](http://cocoaconf.com/raleigh-2014/home) | **May 9-10** | Raleigh, North Carolina
 * [UIKonf](http://www.uikonf.com/) | **May 14-16** | Berlin, Germany
+* [iOScon](https://skillsmatter.com/conferences/1984-ios-exchange-2014) | **May 15-16** | London, UK
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
 * [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 * [Objective-Cologne](http://objcgn.com/) | **September 23-25** | Cologne, Germany
@@ -35,6 +36,7 @@ All-English conferences for **cocoa** developers.
 * [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherlands
 * [Mobile March](http://mobilemarchtc.com/) | **March 20** | Minneapolis, Minnesota
 * [#iOSonRailsConf](http://iosonrailsconf.eu/) | **April 17-18** | Alushta, Crimea
+* [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 28** | Istanbul, Turkey
 * [úll](http://2014.ull.ie/) | **April 28-30** | Kilkenny, Ireland
 * [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29** | San Francisco, California
 * [ValioCon](http://valiocon.com/) | **June 5-8** | San Diego, California
