@@ -19,6 +19,7 @@ All-English conferences for **cocoa** developers.
 
 ### Has already happened...
 * [WWDC](https://developer.apple.com/wwdc/) | **June 10-14, 2013** | San Francisco, California
+* [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
 * [360iDev](http://360idev.com/) | **September 8-11, 2013** | Denver, Colorado
 * [NSScotland](http://nsscotland.com/) | **October 19-20, 2013** | Edinburgh, Scotland
 * [CocoaConf Portland](http://cocoaconf.com/portland-2013/home) | **August 15-16, 2013** | Portland, Oregon
