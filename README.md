@@ -37,6 +37,7 @@ All-English conferences for **cocoa** developers.
 * [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherlands
 * [Mobile March](http://mobilemarchtc.com/) | **March 20** | Minneapolis, Minnesota
 * [#iOSonRailsConf](http://iosonrailsconf.eu/) | **April 17-18** | Alushta, Crimea
+* [Craft Conference](http://craft-conf.com/2014/) | **April 23-25** | Budapest, Hungary
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 28** | Istanbul, Turkey
 * [úll](http://2014.ull.ie/) | **April 28-30** | Kilkenny, Ireland
 * [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29** | San Francisco, California
