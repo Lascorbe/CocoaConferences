@@ -43,6 +43,7 @@ All-English conferences for **cocoa** developers.
 * [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29** | San Francisco, California
 * [ValioCon](http://valiocon.com/) | **June 5-8** | San Diego, California
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28** | Amsterdam, Netherlands
+* [Hybrid Conf](http://hybridconf.net/) | **August 21-22** | Stockholm, Sweden
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
  
 ### Has already happened...
