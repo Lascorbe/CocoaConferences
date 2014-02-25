@@ -16,6 +16,7 @@ All-English conferences for **cocoa** developers.
 * [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 * [Objective-Cologne](http://objcgn.com/) | **September 23-25** | Cologne, Germany
 * [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
+* [CocoaLove](http://cocoalove.org/) | **TBA** | Philadelphia, Pennsylvania
 
 ### Has already happened...
 * [WWDC](https://developer.apple.com/wwdc/) | **June 10-14, 2013** | San Francisco, California
@@ -32,7 +33,6 @@ All-English conferences for **cocoa** developers.
 
 ## Related to Cocoa or Mobile in general
 ### 2014
-* [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22** | Madison, Wisconsin
 * [WIPJam at MWC](http://wip.org/wip-event/wipjam-mwc14/) | **Feb 24-27** | Barcelona, Spain
 * [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherlands
 * [Mobile March](http://mobilemarchtc.com/) | **March 20** | Minneapolis, Minnesota
@@ -49,6 +49,7 @@ All-English conferences for **cocoa** developers.
 ### Has already happened...
 * [Mobile Central Europe](http://mobilecentraleurope.com) | **January 10-11, 2014** | Warsaw, Poland
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **Feb 5-6, 2014** | San Francisco, California
+* [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22** | Madison, Wisconsin
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
