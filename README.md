@@ -30,7 +30,7 @@ All-English conferences for **cocoa** developers.
 * [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK
 * [Renaissance](http://renaissance.io/2014) | **January 29-31, 2014** | San Francisco, California
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2014/home) | **March 7-8** | Chicago, Illinois
-* 
+
 ## Related to Cocoa or Mobile in general
 ### 2014
 * [Mobile March](http://mobilemarchtc.com/) | **March 20** | Minneapolis, Minnesota
