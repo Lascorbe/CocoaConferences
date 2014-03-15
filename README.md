@@ -50,7 +50,7 @@ All-English conferences for **cocoa** developers.
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22** | Madison, Wisconsin
 * [WIPJam at MWC](http://wip.org/wip-event/wipjam-mwc14/) | **Feb 24-27** | Barcelona, Spain
 * [mdevcon](http://mdevcon.com/) | **March 7-8** | Amsterdam, Netherlands
-* 
+
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
 
