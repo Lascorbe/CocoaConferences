@@ -3,8 +3,8 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [NSConference](http://nsconference.com/) | **March 17-19** | Leicester, England
 * [CocoaConf DC](http://cocoaconf.com/dc-2014/home) | **March 28-29** | Herndon, Virginia
+* [JailbreakCon](http://www.jailbreakcon.com/) | **April 12-13** | San Francisco, California
 * [CocoaConf Austin](http://cocoaconf.com/austin-2014/home) | **April 4-5** | Austin, Texas
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home) | **April 25-26** | San Jose, California
 * [NSNorth](http://nsnorth.ca/) | **May 8-10** | Ottawa, Canada
@@ -29,7 +29,8 @@ All-English conferences for **cocoa** developers.
 * [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany
 * [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK
 * [Renaissance](http://renaissance.io/2014) | **January 29-31, 2014** | San Francisco, California
-* [CocoaConf Chicago](http://cocoaconf.com/chicago-2014/home) | **March 7-8** | Chicago, Illinois
+* [CocoaConf Chicago](http://cocoaconf.com/chicago-2014/home) | **March 7-8, 2014** | Chicago, Illinois
+* [NSConference](http://nsconference.com/) | **March 17-19, 2014** | Leicester, England
 
 ## Related to Cocoa or Mobile in general
 ### 2014
