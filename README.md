@@ -11,6 +11,7 @@ All-English conferences for **cocoa** developers.
 * [UIKonf](http://www.uikonf.com/) | **May 14-16** | Berlin, Germany
 * [iOScon](https://skillsmatter.com/conferences/1984-ios-exchange-2014) | **May 15-16** | London, UK
 * [WWDC](https://developer.apple.com/wwdc/) | **June 2-6** | San Francisco, California
+* [AltConf](http://www.altconf.com/) | **June 2-6** | San Francisco, California
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
 * [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 * [Objective-Cologne](http://objcgn.com/) | **September 23-25** | Cologne, Germany
