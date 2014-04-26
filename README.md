@@ -45,7 +45,6 @@ All-English conferences for **cocoa** developers.
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
  
 ### Has already happened...
-* [SecondConf](http://www.secondconf.com/) | **September 27-29, 2013** | Chicago, Illinois
 * [Mobile Central Europe](http://mobilecentraleurope.com) | **January 10-11, 2014** | Warsaw, Poland
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **Feb 5-6, 2014** | San Francisco, California
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
