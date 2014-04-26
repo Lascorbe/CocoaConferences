@@ -3,9 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [JailbreakCon](http://www.jailbreakcon.com/) | **April 12-13** | San Francisco, California
-* [CocoaConf Austin](http://cocoaconf.com/austin-2014/home) | **April 4-5** | Austin, Texas
-* [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home) | **April 25-26** | San Jose, California
 * [NSNorth](http://nsnorth.ca/) | **May 8-10** | Ottawa, Canada
 * [CocoaConf Raleigh](http://cocoaconf.com/raleigh-2014/home) | **May 9-10** | Raleigh, North Carolina
 * [UIKonf](http://www.uikonf.com/) | **May 14-16** | Berlin, Germany
@@ -32,11 +29,12 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2014/home) | **March 7-8, 2014** | Chicago, Illinois
 * [NSConference](http://nsconference.com/) | **March 17-19, 2014** | Leicester, England
 * [CocoaConf DC](http://cocoaconf.com/dc-2014/home) | **March 28-29** | Herndon, Virginia
+* [CocoaConf Austin](http://cocoaconf.com/austin-2014/home) | **April 4-5** | Austin, Texas
+* [JailbreakCon](http://www.jailbreakcon.com/) | **April 12-13** | San Francisco, California
+* [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home) | **April 25-26** | San Jose, California
 
 ## Related to Cocoa or Mobile in general
 ### 2014
-* [#iOSonRailsConf](http://iosonrailsconf.eu/) | **April 17-18** | Alushta, Crimea
-* [Craft Conference](http://craft-conf.com/2014/) | **April 23-25** | Budapest, Hungary
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 28** | Istanbul, Turkey
 * [úll](http://2014.ull.ie/) | **April 28-30** | Kilkenny, Ireland
 * [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29** | San Francisco, California
@@ -53,6 +51,8 @@ All-English conferences for **cocoa** developers.
 * [WIPJam at MWC](http://wip.org/wip-event/wipjam-mwc14/) | **Feb 24-27, 2014** | Barcelona, Spain
 * [mdevcon](http://mdevcon.com/) | **March 7-8, 2014** | Amsterdam, Netherlands
 * [Mobile March](http://mobilemarchtc.com/) | **March 20** | Minneapolis, Minnesota
+* [#iOSonRailsConf](http://iosonrailsconf.eu/) | **April 17-18** | Alushta, Crimea
+* [Craft Conference](http://craft-conf.com/2014/) | **April 23-25** | Budapest, Hungary
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
