@@ -45,10 +45,10 @@ All-English conferences for **cocoa** developers.
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28** | Amsterdam, Netherlands
 * [Hybrid Conf](http://hybridconf.net/) | **August 21-22** | Stockholm, Sweden
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
+* [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14, 2015** | San Francisco, California
  
 ### Has already happened...
 * [Mobile Central Europe](http://mobilecentraleurope.com) | **January 10-11, 2014** | Warsaw, Poland
-* [AppsWorld](http://www.apps-world.net/northamerica/) | **Feb 5-6, 2014** | San Francisco, California
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
 * [WIPJam at MWC](http://wip.org/wip-event/wipjam-mwc14/) | **Feb 24-27, 2014** | Barcelona, Spain
 * [mdevcon](http://mdevcon.com/) | **March 7-8, 2014** | Amsterdam, Netherlands
