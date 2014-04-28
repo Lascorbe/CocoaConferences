@@ -20,8 +20,10 @@ All-English conferences for **cocoa** developers.
 * [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
 * [CocoaConf Boston](http://cocoaconf.com/boston-2014/home) | **November 14-15** | Boston, Massachusetts
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home) | **December 5-6** | Atlanta, Georgia
-* [CocoaLove](http://cocoalove.org/) | **TBA** | Philadelphia, Pennsylvania
-* [360|iDev](http://360idev.com/) | **August 23-26, 2015** | Denver, Colorado
+* [CocoaLove](http://cocoalove.org/) | **Fall, 2014** | Philadelphia, Pennsylvania
+
+### 2015
+* [360|iDev](http://360idev.com/) | **August 23-26** | Denver, Colorado
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
@@ -32,10 +34,10 @@ All-English conferences for **cocoa** developers.
 * [Renaissance](http://renaissance.io/2014) | **January 29-31, 2014** | San Francisco, California
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2014/home) | **March 7-8, 2014** | Chicago, Illinois
 * [NSConference](http://nsconference.com/) | **March 17-19, 2014** | Leicester, England
-* [CocoaConf DC](http://cocoaconf.com/dc-2014/home) | **March 28-29** | Herndon, Virginia
-* [CocoaConf Austin](http://cocoaconf.com/austin-2014/home) | **April 4-5** | Austin, Texas
-* [JailbreakCon](http://www.jailbreakcon.com/) | **April 12-13** | San Francisco, California
-* [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home) | **April 25-26** | San Jose, California
+* [CocoaConf DC](http://cocoaconf.com/dc-2014/home) | **March 28-29, 2014** | Herndon, Virginia
+* [CocoaConf Austin](http://cocoaconf.com/austin-2014/home) | **April 4-5, 2014** | Austin, Texas
+* [JailbreakCon](http://www.jailbreakcon.com/) | **April 12-13, 2014** | San Francisco, California
+* [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home) | **April 25-26, 2014** | San Jose, California
 
 ## Related to Cocoa or Mobile in general
 ### 2014
@@ -46,16 +48,18 @@ All-English conferences for **cocoa** developers.
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28** | Amsterdam, Netherlands
 * [Hybrid Conf](http://hybridconf.net/) | **August 21-22** | Stockholm, Sweden
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
-* [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14, 2015** | San Francisco, California
+
+### 2015
+* [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14** | San Francisco, California
  
 ### Has already happened...
 * [Mobile Central Europe](http://mobilecentraleurope.com) | **January 10-11, 2014** | Warsaw, Poland
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
 * [WIPJam at MWC](http://wip.org/wip-event/wipjam-mwc14/) | **Feb 24-27, 2014** | Barcelona, Spain
 * [mdevcon](http://mdevcon.com/) | **March 7-8, 2014** | Amsterdam, Netherlands
-* [Mobile March](http://mobilemarchtc.com/) | **March 20** | Minneapolis, Minnesota
-* [#iOSonRailsConf](http://iosonrailsconf.eu/) | **April 17-18** | Alushta, Crimea
-* [Craft Conference](http://craft-conf.com/2014/) | **April 23-25** | Budapest, Hungary
+* [Mobile March](http://mobilemarchtc.com/) | **March 20, 2014** | Minneapolis, Minnesota
+* [#iOSonRailsConf](http://iosonrailsconf.eu/) | **April 17-18, 2014** | Alushta, Crimea
+* [Craft Conference](http://craft-conf.com/2014/) | **April 23-25, 2014** | Budapest, Hungary
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
