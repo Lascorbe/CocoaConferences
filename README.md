@@ -17,10 +17,10 @@ All-English conferences for **cocoa** developers.
 * [Objective-Cologne](http://objcgn.com/) | **September 23-25** | Cologne, Germany
 * [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20** | Las Vegas, Nevada
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18** | Seattle, Washington
+* [CocoaLove](http://cocoalove.org) | **October 25** | Philadelphia, Pennsylvania
 * [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
 * [CocoaConf Boston](http://cocoaconf.com/boston-2014/home) | **November 14-15** | Boston, Massachusetts
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home) | **December 5-6** | Atlanta, Georgia
-* [CocoaLove](http://cocoalove.org/) | **Fall, 2014** | Philadelphia, Pennsylvania
 
 ### 2015
 * [360|iDev](http://360idev.com/) | **August 23-26** | Denver, Colorado
