@@ -3,8 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [NSNorth](http://nsnorth.ca/) | **May 8-10** | Ottawa, Canada
-* [CocoaConf Raleigh](http://cocoaconf.com/raleigh-2014/home) | **May 9-10** | Raleigh, North Carolina
 * [UIKonf](http://www.uikonf.com/) | **May 14-16** | Berlin, Germany
 * [iOScon](https://skillsmatter.com/conferences/1984-ios-exchange-2014) | **May 15-16** | London, UK
 * [WWDC](https://developer.apple.com/wwdc/) | **June 2-6** | San Francisco, California
@@ -38,11 +36,11 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Austin](http://cocoaconf.com/austin-2014/home) | **April 4-5, 2014** | Austin, Texas
 * [JailbreakCon](http://www.jailbreakcon.com/) | **April 12-13, 2014** | San Francisco, California
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home) | **April 25-26, 2014** | San Jose, California
+* [NSNorth](http://nsnorth.ca/) | **May 8-10. 2014** | Ottawa, Canada
+* [CocoaConf Raleigh](http://cocoaconf.com/raleigh-2014/home) | **May 9-10, 2014** | Raleigh, North Carolina
 
 ## Related to Cocoa or Mobile in general
 ### 2014
-* [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 28** | Istanbul, Turkey
-* [úll](http://2014.ull.ie/) | **April 28-30** | Kilkenny, Ireland
 * [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29** | San Francisco, California
 * [ValioCon](http://valiocon.com/) | **June 5-8** | San Diego, California
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28** | Amsterdam, Netherlands
@@ -60,6 +58,8 @@ All-English conferences for **cocoa** developers.
 * [Mobile March](http://mobilemarchtc.com/) | **March 20, 2014** | Minneapolis, Minnesota
 * [#iOSonRailsConf](http://iosonrailsconf.eu/) | **April 17-18, 2014** | Alushta, Crimea
 * [Craft Conference](http://craft-conf.com/2014/) | **April 23-25, 2014** | Budapest, Hungary
+* [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 28, 2014** | Istanbul, Turkey
+* [úll](http://2014.ull.ie/) | **April 28-30, 2014** | Kilkenny, Ireland
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
