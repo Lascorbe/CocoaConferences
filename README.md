@@ -3,8 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [UIKonf](http://www.uikonf.com/) | **May 14-16** | Berlin, Germany
-* [iOScon](https://skillsmatter.com/conferences/1984-ios-exchange-2014) | **May 15-16** | London, UK
 * [WWDC](https://developer.apple.com/wwdc/) | **June 2-6** | San Francisco, California
 * [AltConf](http://www.altconf.com/) | **June 2-6** | San Francisco, California
 * [FruitConf](http://fruitconf.co/) | **June** | UK
@@ -60,6 +58,8 @@ All-English conferences for **cocoa** developers.
 * [Craft Conference](http://craft-conf.com/2014/) | **April 23-25, 2014** | Budapest, Hungary
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 28, 2014** | Istanbul, Turkey
 * [úll](http://2014.ull.ie/) | **April 28-30, 2014** | Kilkenny, Ireland
+* [UIKonf](http://www.uikonf.com/) | **May 14-16** | Berlin, Germany
+* [iOScon](https://skillsmatter.com/conferences/1984-ios-exchange-2014) | **May 15-16** | London, UK
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
