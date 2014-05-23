@@ -5,7 +5,7 @@ All-English conferences for **cocoa** developers.
 ### 2014
 * [WWDC](https://developer.apple.com/wwdc/) | **June 2-6** | San Francisco, California
 * [AltConf](http://www.altconf.com/) | **June 2-6** | San Francisco, California
-* [FruitConf](http://fruitconf.co/) | **June** | UK
+* [FruitConf](http://fruitconf.co/) | **June 12-13** | UK
 * [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9** | Columbus, Ohio
 * [360|iDev](http://360idev.com/) | **August 24-27** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
@@ -36,6 +36,8 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home) | **April 25-26, 2014** | San Jose, California
 * [NSNorth](http://nsnorth.ca/) | **May 8-10. 2014** | Ottawa, Canada
 * [CocoaConf Raleigh](http://cocoaconf.com/raleigh-2014/home) | **May 9-10, 2014** | Raleigh, North Carolina
+* [UIKonf](http://www.uikonf.com/) | **May 14-16, 2014** | Berlin, Germany
+* [iOScon](https://skillsmatter.com/conferences/1984-ios-exchange-2014) | **May 15-16, 2014** | London, UK
 
 ## Related to Cocoa or Mobile in general
 ### 2014
@@ -58,8 +60,6 @@ All-English conferences for **cocoa** developers.
 * [Craft Conference](http://craft-conf.com/2014/) | **April 23-25, 2014** | Budapest, Hungary
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 28, 2014** | Istanbul, Turkey
 * [úll](http://2014.ull.ie/) | **April 28-30, 2014** | Kilkenny, Ireland
-* [UIKonf](http://www.uikonf.com/) | **May 14-16** | Berlin, Germany
-* [iOScon](https://skillsmatter.com/conferences/1984-ios-exchange-2014) | **May 15-16** | London, UK
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
