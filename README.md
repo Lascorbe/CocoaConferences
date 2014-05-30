@@ -12,6 +12,7 @@ All-English conferences for **cocoa** developers.
 * [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 * [Objective-Cologne](http://objcgn.com/) | **September 23-25** | Cologne, Germany
 * [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20** | Las Vegas, Nevada
+* [#Pragma Conference](http://pragmamark.org/eventi/pragma-conference-2014/) | **October 3-4** | Milan, Italy
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18** | Seattle, Washington
 * [CocoaLove](http://cocoalove.org) | **October 25** | Philadelphia, Pennsylvania
 * [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
@@ -41,7 +42,6 @@ All-English conferences for **cocoa** developers.
 
 ## Related to Cocoa or Mobile in general
 ### 2014
-* [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29** | San Francisco, California
 * [ValioCon](http://valiocon.com/) | **June 5-8** | San Diego, California
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28** | Amsterdam, Netherlands
 * [Hybrid Conf](http://hybridconf.net/) | **August 21-22** | Stockholm, Sweden
@@ -60,6 +60,7 @@ All-English conferences for **cocoa** developers.
 * [Craft Conference](http://craft-conf.com/2014/) | **April 23-25, 2014** | Budapest, Hungary
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 28, 2014** | Istanbul, Turkey
 * [úll](http://2014.ull.ie/) | **April 28-30, 2014** | Kilkenny, Ireland
+* [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29** | San Francisco, California
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
