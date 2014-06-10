@@ -3,8 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [WWDC](https://developer.apple.com/wwdc/) | **June 2-6** | San Francisco, California
-* [AltConf](http://www.altconf.com/) | **June 2-6** | San Francisco, California
 * [FruitConf](http://fruitconf.co/) | **June 12-13** | London, UK
 * [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9** | Columbus, Ohio
 * [360|iDev](http://360idev.com/) | **August 24-27** | Denver, Colorado
@@ -39,10 +37,11 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Raleigh](http://cocoaconf.com/raleigh-2014/home) | **May 9-10, 2014** | Raleigh, North Carolina
 * [UIKonf](http://www.uikonf.com/) | **May 14-16, 2014** | Berlin, Germany
 * [iOScon](https://skillsmatter.com/conferences/1984-ios-exchange-2014) | **May 15-16, 2014** | London, UK
+* [WWDC](https://developer.apple.com/wwdc/) | **June 2-6, 2014** | San Francisco, California
+* [AltConf](http://www.altconf.com/) | **June 2-6, 2014** | San Francisco, California
 
 ## Related to Cocoa or Mobile in general
 ### 2014
-* [ValioCon](http://valiocon.com/) | **June 5-8** | San Diego, California
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28** | Amsterdam, Netherlands
 * [Hybrid Conf](http://hybridconf.net/) | **August 21-22** | Stockholm, Sweden
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
@@ -60,7 +59,8 @@ All-English conferences for **cocoa** developers.
 * [Craft Conference](http://craft-conf.com/2014/) | **April 23-25, 2014** | Budapest, Hungary
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 28, 2014** | Istanbul, Turkey
 * [úll](http://2014.ull.ie/) | **April 28-30, 2014** | Kilkenny, Ireland
-* [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29** | San Francisco, California
+* [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29, 2014** | San Francisco, California
+* [ValioCon](http://valiocon.com/) | **June 5-8, 2014** | San Diego, California
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
