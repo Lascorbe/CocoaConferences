@@ -18,8 +18,8 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home) | **December 5-6** | Atlanta, Georgia
 
 ### 2015
-* [360|iDev](http://360idev.com/) | **August 23-26** | Denver, Colorado
 * [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, England
+* [360|iDev](http://360idev.com/) | **August 23-26** | Denver, Colorado
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
