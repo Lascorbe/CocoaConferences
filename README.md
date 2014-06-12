@@ -19,6 +19,7 @@ All-English conferences for **cocoa** developers.
 
 ### 2015
 * [360|iDev](http://360idev.com/) | **August 23-26** | Denver, Colorado
+* [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, England
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
@@ -28,7 +29,6 @@ All-English conferences for **cocoa** developers.
 * [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK
 * [Renaissance](http://renaissance.io/2014) | **January 29-31, 2014** | San Francisco, California
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2014/home) | **March 7-8, 2014** | Chicago, Illinois
-* [NSConference](http://nsconference.com/) | **March 17-19, 2014** | Leicester, England
 * [CocoaConf DC](http://cocoaconf.com/dc-2014/home) | **March 28-29, 2014** | Herndon, Virginia
 * [CocoaConf Austin](http://cocoaconf.com/austin-2014/home) | **April 4-5, 2014** | Austin, Texas
 * [JailbreakCon](http://www.jailbreakcon.com/) | **April 12-13, 2014** | San Francisco, California
