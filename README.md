@@ -3,7 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [FruitConf](http://fruitconf.co/) | **June 12-13** | London, UK
 * [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9** | Columbus, Ohio
 * [360|iDev](http://360idev.com/) | **August 24-27** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
@@ -39,6 +38,7 @@ All-English conferences for **cocoa** developers.
 * [iOScon](https://skillsmatter.com/conferences/1984-ios-exchange-2014) | **May 15-16, 2014** | London, UK
 * [WWDC](https://developer.apple.com/wwdc/) | **June 2-6, 2014** | San Francisco, California
 * [AltConf](http://www.altconf.com/) | **June 2-6, 2014** | San Francisco, California
+* [FruitConf](http://fruitconf.co/) | **June 12-13, 2014** | London, UK
 
 ## Related to Cocoa or Mobile in general
 ### 2014
