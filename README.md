@@ -12,6 +12,7 @@ All-English conferences for **cocoa** developers.
 * [#Pragma Conference](http://pragmamark.org/eventi/pragma-conference-2014/) | **October 3-4** | Milan, Italy
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18** | Seattle, Washington
 * [CocoaLove](http://cocoalove.org) | **October 25** | Philadelphia, Pennsylvania
+* [NSScotland](http://nsscotland.com/) | **October 25-26** | Edinburgh, Scotland
 * [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
 * [CocoaConf Boston](http://cocoaconf.com/boston-2014/home) | **November 14-15** | Boston, Massachusetts
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home) | **December 5-6** | Atlanta, Georgia
@@ -22,7 +23,6 @@ All-English conferences for **cocoa** developers.
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
-* [NSScotland](http://nsscotland.com/) | **October 19-20, 2013** | Edinburgh, Scotland
 * [CocoaConf Portland](http://cocoaconf.com/portland-2013/home) | **August 15-16, 2013** | Portland, Oregon
 * [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany
 * [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK
