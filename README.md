@@ -7,7 +7,6 @@ All-English conferences for **cocoa** developers.
 * [360|iDev](http://360idev.com/) | **August 24-27** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
 * [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
-* [Objective-Cologne](http://objcgn.com/) | **September 23-25** | Cologne, Germany
 * [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20** | Las Vegas, Nevada
 * [#Pragma Conference](http://pragmamark.org/eventi/pragma-conference-2014/) | **October 3-4** | Milan, Italy
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18** | Seattle, Washington
@@ -24,6 +23,7 @@ All-English conferences for **cocoa** developers.
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
 * [CocoaConf Portland](http://cocoaconf.com/portland-2013/home) | **August 15-16, 2013** | Portland, Oregon
+* [Objective-Cologne](http://objcgn.com/) | **September 18-19, 2013** | Cologne, Germany
 * [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany
 * [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK
 * [Renaissance](http://renaissance.io/2014) | **January 29-31, 2014** | San Francisco, California
@@ -42,7 +42,6 @@ All-English conferences for **cocoa** developers.
 
 ## Related to Cocoa or Mobile in general
 ### 2014
-* [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28** | Amsterdam, Netherlands
 * [Hybrid Conf](http://hybridconf.net/) | **August 21-22** | Stockholm, Sweden
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
 
@@ -61,6 +60,7 @@ All-English conferences for **cocoa** developers.
 * [úll](http://2014.ull.ie/) | **April 28-30, 2014** | Kilkenny, Ireland
 * [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29, 2014** | San Francisco, California
 * [ValioCon](http://valiocon.com/) | **June 5-8, 2014** | San Diego, California
+* [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28, 2014** | Amsterdam, Netherlands
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
