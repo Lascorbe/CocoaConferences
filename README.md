@@ -46,10 +46,10 @@ All-English conferences for **cocoa** developers.
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
 
 ### 2015
+* [Mobile Central Europe](http://mobilecentraleurope.com) | **February 4-6, 2015** | Warsaw, Poland
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14** | San Francisco, California
  
 ### Has already happened...
-* [Mobile Central Europe](http://mobilecentraleurope.com) | **January 10-11, 2014** | Warsaw, Poland
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
 * [WIPJam at MWC](http://wip.org/wip-event/wipjam-mwc14/) | **Feb 24-27, 2014** | Barcelona, Spain
 * [mdevcon](http://mdevcon.com/) | **March 7-8, 2014** | Amsterdam, Netherlands
