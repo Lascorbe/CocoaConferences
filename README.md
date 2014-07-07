@@ -10,7 +10,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20** | Las Vegas, Nevada
 * [#Pragma Conference](http://pragmamark.org/eventi/pragma-conference-2014/) | **October 3-4** | Milan, Italy
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18** | Seattle, Washington
-* [CocoaLove](http://cocoalove.org) | **October 25** | Philadelphia, Pennsylvania
+* [CocoaLove](http://cocoalove.org) | **October 24-26** | Philadelphia, Pennsylvania
 * [NSScotland](http://nsscotland.com/) | **October 25-26** | Edinburgh, Scotland
 * [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
 * [CocoaConf Boston](http://cocoaconf.com/boston-2014/home) | **November 14-15** | Boston, Massachusetts
