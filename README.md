@@ -12,6 +12,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18** | Seattle, Washington
 * Command R | **October 22-24** | London, UK
 * [CocoaLove](http://cocoalove.org) | **October 24-26** | Philadelphia, Pennsylvania
+* [NSZürich](http://www.nszurich.com) | **October 25** | Zürich, Switzerland
 * [NSScotland](http://nsscotland.com/) | **October 25-26** | Edinburgh, Scotland
 * [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
 * [CocoaConf Boston](http://cocoaconf.com/boston-2014/home) | **November 14-15** | Boston, Massachusetts
