@@ -3,6 +3,7 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
+* [iOSDevCampDC](http://iosdevcampdc.com/) | **August 1** | Tysons Corner, Virgina
 * [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9** | Columbus, Ohio
 * [360|iDev](http://360idev.com/) | **August 24-27** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
