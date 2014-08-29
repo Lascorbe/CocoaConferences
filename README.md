@@ -3,9 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [iOSDevCampDC](http://iosdevcampdc.com/) | **August 1** | Tysons Corner, Virgina
-* [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9** | Columbus, Ohio
-* [360|iDev](http://360idev.com/) | **August 24-27** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
 * [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 * [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20** | Las Vegas, Nevada
@@ -42,10 +39,13 @@ All-English conferences for **cocoa** developers.
 * [WWDC](https://developer.apple.com/wwdc/) | **June 2-6, 2014** | San Francisco, California
 * [AltConf](http://www.altconf.com/) | **June 2-6, 2014** | San Francisco, California
 * [FruitConf](http://fruitconf.co/) | **June 12-13, 2014** | London, UK
+* [iOSDevCampDC](http://iosdevcampdc.com/) | **August 1, 2014** | Tysons Corner, Virgina
+* [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9, 2014** | Columbus, Ohio
+* [360|iDev](http://360idev.com/) | **August 24-27, 2014** | Denver, Colorado
+* [A Swift Start](http://aswiftstart.com/) | **August 29, 2014** | New York, New York
 
 ## Related to Cocoa or Mobile in general
 ### 2014
-* [Hybrid Conf](http://hybridconf.net/) | **August 21-22** | Stockholm, Sweden
 * [mobiconf](http://www.mobiconf.org/) | **October 2-3** | Kraków, Poland
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
 
@@ -65,6 +65,7 @@ All-English conferences for **cocoa** developers.
 * [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29, 2014** | San Francisco, California
 * [ValioCon](http://valiocon.com/) | **June 5-8, 2014** | San Diego, California
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28, 2014** | Amsterdam, Netherlands
+* [Hybrid Conf](http://hybridconf.net/) | **August 21-22, 2014** | Stockholm, Sweden
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
