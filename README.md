@@ -50,7 +50,6 @@ All-English conferences for **cocoa** developers.
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
 
 ### 2015
-* [Mobile Central Europe](http://mobilecentraleurope.com) | **February 4-6** | Warsaw, Poland
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14** | San Francisco, California
  
 ### Has already happened...
