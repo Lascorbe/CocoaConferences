@@ -51,6 +51,7 @@ All-English conferences for **cocoa** developers.
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
 
 ### 2015
+* [úll](http://2015.ull.ie/) | **March 30 - April 1, 2015** | Kilkenny, Ireland
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14** | San Francisco, California
  
 ### Has already happened...
