@@ -3,8 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
-* [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 * [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20** | Las Vegas, Nevada
 * [#Pragma Conference](http://pragmamark.org/eventi/pragma-conference-2014/) | **October 3-4** | Milan, Italy
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18** | Seattle, Washington
@@ -44,6 +42,8 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9, 2014** | Columbus, Ohio
 * [360|iDev](http://360idev.com/) | **August 24-27, 2014** | Denver, Colorado
 * [A Swift Start](http://aswiftstart.com/) | **August 29, 2014** | New York, New York
+* [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
+* [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 
 ## Related to Cocoa or Mobile in general
 ### 2014
