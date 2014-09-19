@@ -18,6 +18,7 @@ All-English conferences for **cocoa** developers.
 
 ### 2015
 * [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, England
+* [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **April 20-23** | Yosemite National Park, CA
 * [360|iDev](http://360idev.com/) | **August 23-26** | Denver, Colorado
 
 ### Has already happened...
