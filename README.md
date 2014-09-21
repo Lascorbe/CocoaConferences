@@ -3,8 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
-* [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 * [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20** | Las Vegas, Nevada
 * [#Pragma Conference](http://pragmamark.org/eventi/pragma-conference-2014/) | **October 3-4** | Milan, Italy
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18** | Seattle, Washington
@@ -19,7 +17,8 @@ All-English conferences for **cocoa** developers.
 ### 2015
 * [RWDevCon](http://www.rwdevcon.com) | **February 06-07** | Washington DC, USA
 * [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, England
-* [360|iDev](http://360idev.com/) | **August 23-26** | Denver, Colorado
+* [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **April 20-23** | Yosemite National Park, CA
+* [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
@@ -44,6 +43,8 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9, 2014** | Columbus, Ohio
 * [360|iDev](http://360idev.com/) | **August 24-27, 2014** | Denver, Colorado
 * [A Swift Start](http://aswiftstart.com/) | **August 29, 2014** | New York, New York
+* [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
+* [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
 
 ## Related to Cocoa or Mobile in general
 ### 2014
@@ -51,6 +52,7 @@ All-English conferences for **cocoa** developers.
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
 
 ### 2015
+* [úll](http://2015.ull.ie/) | **March 30 - April 1, 2015** | Kilkenny, Ireland
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14** | San Francisco, California
  
 ### Has already happened...
