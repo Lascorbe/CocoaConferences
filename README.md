@@ -15,6 +15,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home) | **December 5-6** | Atlanta, Georgia
 
 ### 2015
+* [MCE](http://mceconf.com) | **February 04-06** | Warsaw, Poland
 * [RWDevCon](http://www.rwdevcon.com) | **February 06-07** | Washington DC, USA
 * [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, England
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **April 20-23** | Yosemite National Park, CA
