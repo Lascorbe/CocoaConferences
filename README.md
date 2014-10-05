@@ -40,7 +40,6 @@ All-English conferences for **cocoa** developers.
 * [FruitConf](http://fruitconf.co/) | **June 12-13, 2014** | London, UK
 * [iOSDevCampDC](http://iosdevcampdc.com/) | **August 1, 2014** | Tysons Corner, Virgina
 * [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9, 2014** | Columbus, Ohio
-* [360|iDev](http://360idev.com/) | **August 24-27, 2014** | Denver, Colorado
 * [A Swift Start](http://aswiftstart.com/) | **August 29, 2014** | New York, New York
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4, 2014** | Aberystwyth, Wales
 * [NSSpain](http://nsspain.com/) | **September 17-19, 2014** | Logroño, Spain
@@ -63,7 +62,6 @@ All-English conferences for **cocoa** developers.
 * [#iOSonRailsConf](http://iosonrailsconf.eu/) | **April 17-18, 2014** | Alushta, Crimea
 * [Craft Conference](http://craft-conf.com/2014/) | **April 23-25, 2014** | Budapest, Hungary
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 28, 2014** | Istanbul, Turkey
-* [úll](http://2014.ull.ie/) | **April 28-30, 2014** | Kilkenny, Ireland
 * [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29, 2014** | San Francisco, California
 * [ValioCon](http://valiocon.com/) | **June 5-8, 2014** | San Diego, California
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28, 2014** | Amsterdam, Netherlands
