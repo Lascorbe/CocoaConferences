@@ -3,8 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20** | Las Vegas, Nevada
-* [#Pragma Conference](http://pragmamark.org/eventi/pragma-conference-2014/) | **October 3-4** | Milan, Italy
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18** | Seattle, Washington
 * [Command R](https://twitter.com/cmdrconf) | **October 22-24** | London, UK
 * [CocoaLove](http://cocoalove.org) | **October 24-26** | Philadelphia, Pennsylvania
@@ -44,16 +42,17 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9, 2014** | Columbus, Ohio
 * [360|iDev](http://360idev.com/) | **August 24-27, 2014** | Denver, Colorado
 * [A Swift Start](http://aswiftstart.com/) | **August 29, 2014** | New York, New York
-* [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4** | Aberystwyth, Wales
-* [NSSpain](http://nsspain.com/) | **September 17-19** | Logroño, Spain
+* [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4, 2014** | Aberystwyth, Wales
+* [NSSpain](http://nsspain.com/) | **September 17-19, 2014** | Logroño, Spain
+* [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20, 2014** | Las Vegas, Nevada
+* [#Pragma Conference](http://pragmamark.org/eventi/pragma-conference-2014/) | **October 3-4, 2014** | Milan, Italy
 
 ## Related to Cocoa or Mobile in general
 ### 2014
-* [mobiconf](http://www.mobiconf.org/) | **October 2-3** | Kraków, Poland
 * [Çingleton](http://cingleton.com/) | **October 10-12** | Montreal, Canada
 
 ### 2015
-* [úll](http://2015.ull.ie/) | **March 30 - April 1, 2015** | Kilkenny, Ireland
+* [úll](http://2015.ull.ie/) | **March 30 - April 1** | Kilkenny, Ireland
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14** | San Francisco, California
  
 ### Has already happened...
@@ -69,6 +68,7 @@ All-English conferences for **cocoa** developers.
 * [ValioCon](http://valiocon.com/) | **June 5-8, 2014** | San Diego, California
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28, 2014** | Amsterdam, Netherlands
 * [Hybrid Conf](http://hybridconf.net/) | **August 21-22, 2014** | Stockholm, Sweden
+* [mobiconf](http://www.mobiconf.org/) | **October 2-3, 2014** | Kraków, Poland
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
