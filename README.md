@@ -9,10 +9,10 @@ All-English conferences for **cocoa** developers.
 * [NSScotland](http://nsscotland.com/) | **October 25-26** | Edinburgh, Scotland
 * [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
 * [CocoaConf Boston](http://cocoaconf.com/boston-2014/home) | **November 14-15** | Boston, Massachusetts
-* [NSZürich](http://www.nszurich.com) | **postponed to "end of November"** | Zürich, Switzerland
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home) | **December 5-6** | Atlanta, Georgia
 
 ### 2015
+* [NSZürich](http://www.nszurich.com) | **Q1 of 2015** | Zürich, Switzerland
 * [MCE](http://mceconf.com) | **February 04-06** | Warsaw, Poland
 * [RWDevCon](http://www.rwdevcon.com) | **February 06-07** | Washington DC, USA
 * [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, England
