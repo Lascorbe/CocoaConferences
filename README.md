@@ -3,8 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2014
-* [MacTechConf](http://mactech.com/conference) | **November 5-7** | Los Angeles, California
-* [CocoaConf Boston](http://cocoaconf.com/boston-2014/home) | **November 14-15** | Boston, Massachusetts
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home) | **December 5-6** | Atlanta, Georgia
 
 ### 2015
@@ -15,6 +13,7 @@ All-English conferences for **cocoa** developers.
 * [NSNorth](http://nsnorth.ca/) | **Weekend of April 10th** | Ottawa, Canada
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **April 20-23** | Yosemite National Park, CA
 * [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
+* [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, Wales
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
@@ -37,7 +36,6 @@ All-English conferences for **cocoa** developers.
 * [iOSDevCampDC](http://iosdevcampdc.com/) | **August 1, 2014** | Tysons Corner, Virgina
 * [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9, 2014** | Columbus, Ohio
 * [A Swift Start](http://aswiftstart.com/) | **August 29, 2014** | New York, New York
-* [iOS Dev UK](http://www.iosdevuk.com/) | **September 2-4, 2014** | Aberystwyth, Wales
 * [NSSpain](http://nsspain.com/) | **September 17-19, 2014** | Logroño, Spain
 * [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20, 2014** | Las Vegas, Nevada
 * [#Pragma Conference](http://pragmamark.org/eventi/pragma-conference-2014/) | **October 3-4, 2014** | Milan, Italy
@@ -45,11 +43,14 @@ All-English conferences for **cocoa** developers.
 * [Command R](https://twitter.com/cmdrconf) | **October 22-24, 2014** | London, UK
 * [CocoaLove](http://cocoalove.org) | **October 24-26, 2014** | Philadelphia, Pennsylvania
 * [NSScotland](http://nsscotland.com/) | **October 25-26, 2014** | Edinburgh, Scotland
+* [MacTechConf](http://mactech.com/conference) | **November 5-7, 2014** | Los Angeles, California
+* [CocoaConf Boston](http://cocoaconf.com/boston-2014/home) | **November 14-15, 2014** | Boston, Massachusetts
 
 ## Related to Cocoa or Mobile in general
 
 ### 2015
 * [mdevcon](http://mdevcon.com/) | **March 6-7** | Amsterdam, Netherlands
+* [Mobile March](http://mobilemarchtc.com/) | **March 26, 2014** | Minneapolis, Minnesota
 * [úll](http://2015.ull.ie/) | **March 30 - April 1** | Kilkenny, Ireland
 * [Craft Conference](http://craft-conf.com/2015) | **April 22-24** | Budapest, Hungary
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14** | San Francisco, California
@@ -57,7 +58,6 @@ All-English conferences for **cocoa** developers.
 ### Has already happened...
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
 * [WIPJam at MWC](http://wip.org/wip-event/wipjam-mwc14/) | **Feb 24-27, 2014** | Barcelona, Spain
-* [Mobile March](http://mobilemarchtc.com/) | **March 20, 2014** | Minneapolis, Minnesota
 * [#iOSonRailsConf](http://iosonrailsconf.eu/) | **April 17-18, 2014** | Alushta, Crimea
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 28, 2014** | Istanbul, Turkey
 * [#inspect](http://www.rubymotion.com/conference/2014/) | **May 28-29, 2014** | San Francisco, California
