@@ -54,6 +54,7 @@ All-English conferences for **cocoa** developers.
 * [úll](http://2015.ull.ie/) | **March 30 - April 1** | Kilkenny, Ireland
 * [Craft Conference](http://craft-conf.com/2015) | **April 22-24** | Budapest, Hungary
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14** | San Francisco, California
+* [Release Notes](http://releasenotes.tv/conference/) | **October 21-23** | Indianapolis, IN
  
 ### Has already happened...
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
