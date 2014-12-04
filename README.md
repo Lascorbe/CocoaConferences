@@ -8,6 +8,7 @@ All-English conferences for **cocoa** developers.
 ### 2015
 * [NSZürich](http://www.nszurich.com) | **Q1** | Zürich, Switzerland
 * [MCE](http://mceconf.com) | **February 04-06** | Warsaw, Poland
+* [dot Swift](http://www.dotswift.io) | **February 06** | Paris, France
 * [RWDevCon](http://www.rwdevcon.com) | **February 06-07** | Washington DC, USA
 * [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, England
 * [NSNorth](http://nsnorth.ca/) | **Weekend of April 10th** | Ottawa, Canada
