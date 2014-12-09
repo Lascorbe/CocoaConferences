@@ -2,19 +2,17 @@
 All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
-### 2014
-* [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home) | **December 5-6** | Atlanta, Georgia
-
 ### 2015
 * [NSZürich](http://www.nszurich.com) | **Q1** | Zürich, Switzerland
 * [MCE](http://mceconf.com) | **February 04-06** | Warsaw, Poland
 * [dot Swift](http://www.dotswift.io) | **February 06** | Paris, France
 * [RWDevCon](http://www.rwdevcon.com) | **February 06-07** | Washington DC, USA
-* [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, England
+* [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, UK
+* [Swift Summit](http://www.swiftsummit.com) | **March 21-22** | London, UK
 * [NSNorth](http://nsnorth.ca/) | **Weekend of April 10th** | Ottawa, Canada
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **April 20-23** | Yosemite National Park, CA
 * [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
-* [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, Wales
+* [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, UK
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
@@ -43,9 +41,10 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18, 2014** | Seattle, Washington
 * [Command R](https://twitter.com/cmdrconf) | **October 22-24, 2014** | London, UK
 * [CocoaLove](http://cocoalove.org) | **October 24-26, 2014** | Philadelphia, Pennsylvania
-* [NSScotland](http://nsscotland.com/) | **October 25-26, 2014** | Edinburgh, Scotland
+* [NSScotland](http://nsscotland.com/) | **October 25-26, 2014** | Edinburgh, UK
 * [MacTechConf](http://mactech.com/conference) | **November 5-7, 2014** | Los Angeles, California
 * [CocoaConf Boston](http://cocoaconf.com/boston-2014/home) | **November 14-15, 2014** | Boston, Massachusetts
+* [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home) | **December 5-6** | Atlanta, Georgia
 
 ## Related to Cocoa or Mobile in general
 
