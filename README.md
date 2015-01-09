@@ -11,6 +11,7 @@ All-English conferences for **cocoa** developers.
 * [Swift Summit](http://www.swiftsummit.com) | **March 21-22** | London, UK
 * [NSNorth](http://nsnorth.ca/) | **Weekend of April 10th** | Ottawa, Canada
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **April 20-23** | Yosemite National Park, CA
+* [UIKonf](http://www.uikonf.com) | **May 17-20** | Berlin, Germany
 * [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, UK
 
