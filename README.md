@@ -9,11 +9,12 @@ All-English conferences for **cocoa** developers.
 * [RWDevCon](http://www.rwdevcon.com) | **February 06-07** | Washington DC, USA
 * [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, UK
 * [Swift Summit](http://www.swiftsummit.com) | **March 21-22** | London, UK
-* [NSNorth](http://nsnorth.ca/) | **Weekend of April 10th** | Ottawa, Canada
+* [NSNorth](http://nsnorth.ca/) | **April 10-12** | Ottawa, Canada
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **April 20-23** | Yosemite National Park, CA
 * [UIKonf](http://www.uikonf.com) | **May 17-20** | Berlin, Germany
 * [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, UK
+* [NSSpain](http://nsspain.com/) | **September 16-18** | Logroño, Spain
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
@@ -28,7 +29,6 @@ All-English conferences for **cocoa** developers.
 * [JailbreakCon](http://www.jailbreakcon.com/) | **April 12-13, 2014** | San Francisco, California
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home) | **April 25-26, 2014** | San Jose, California
 * [CocoaConf Raleigh](http://cocoaconf.com/raleigh-2014/home) | **May 9-10, 2014** | Raleigh, North Carolina
-* [UIKonf](http://www.uikonf.com/) | **May 14-16, 2014** | Berlin, Germany
 * [iOScon](https://skillsmatter.com/conferences/1984-ios-exchange-2014) | **May 15-16, 2014** | London, UK
 * [WWDC](https://developer.apple.com/wwdc/) | **June 2-6, 2014** | San Francisco, California
 * [AltConf](http://www.altconf.com/) | **June 2-6, 2014** | San Francisco, California
@@ -36,7 +36,6 @@ All-English conferences for **cocoa** developers.
 * [iOSDevCampDC](http://iosdevcampdc.com/) | **August 1, 2014** | Tysons Corner, Virgina
 * [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9, 2014** | Columbus, Ohio
 * [A Swift Start](http://aswiftstart.com/) | **August 29, 2014** | New York, New York
-* [NSSpain](http://nsspain.com/) | **September 17-19, 2014** | Logroño, Spain
 * [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20, 2014** | Las Vegas, Nevada
 * [#Pragma Conference](http://pragmamark.org/eventi/pragma-conference-2014/) | **October 3-4, 2014** | Milan, Italy
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18, 2014** | Seattle, Washington
