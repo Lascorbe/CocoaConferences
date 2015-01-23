@@ -51,7 +51,7 @@ All-English conferences for **cocoa** developers.
 ### 2015
 * [mdevcon](http://mdevcon.com/) | **March 6-7** | Amsterdam, Netherlands
 * [Mobile March](http://mobilemarchtc.com/) | **March 26, 2014** | Minneapolis, Minnesota
-* [úll](http://2015.ull.ie/) | **March 30 - April 1** | Kilkenny, Ireland
+* [úll](http://2015.ull.ie/) | **March 30 - April 1** | Killarney, Ireland
 * [Craft Conference](http://craft-conf.com/2015) | **April 22-24** | Budapest, Hungary
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14** | San Francisco, California
 * [Release Notes](http://releasenotes.tv/conference/) | **October 21-23** | Indianapolis, IN
