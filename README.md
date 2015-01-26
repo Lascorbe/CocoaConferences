@@ -15,6 +15,7 @@ All-English conferences for **cocoa** developers.
 * [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, UK
 * [NSSpain](http://nsspain.com/) | **September 16-18** | Logroño, Spain
+* [Release Notes](http://releasenotes.tv/conference/) | **October 21-23, 2015** | Indianapolis, IN
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
