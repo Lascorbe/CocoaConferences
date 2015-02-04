@@ -9,9 +9,13 @@ All-English conferences for **cocoa** developers.
 * [RWDevCon](http://www.rwdevcon.com) | **February 06-07** | Washington DC, USA
 * [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, UK
 * [Swift Summit](http://www.swiftsummit.com) | **March 21-22** | London, UK
+* [CocoaConf Chicago](http://cocoaconf.com/chicago-2015/home) | **March 27-28** | Chicago, IL
+* [CocoaConf Washington DC](http://cocoaconf.com/dc-2015/home) | **April 10-11** | Washington DC, USA
 * [NSNorth](http://nsnorth.ca/) | **April 10-12** | Ottawa, Canada
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **April 20-23** | Yosemite National Park, CA
+* [CocoaConf PDX](http://cocoaconf.com/portland-2015/home) | **May 8-9** | Portland, OR
 * [UIKonf](http://www.uikonf.com) | **May 17-20** | Berlin, Germany
+* [CocoaConf Austin](http://cocoaconf.com/austin-2015/home) | **May 22-23** | Austin, TX
 * [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, UK
 * [NSSpain](http://nsspain.com/) | **September 16-18** | Logroño, Spain
