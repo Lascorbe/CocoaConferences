@@ -3,8 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2015
-* [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, UK
-* [Swift Summit](http://www.swiftsummit.com) | **March 21-22** | London, UK
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2015/home) | **March 27-28** | Chicago, IL
 * [CocoaConf Washington DC](http://cocoaconf.com/dc-2015/home) | **April 10-11** | Washington DC, USA
 * [NSNorth](http://nsnorth.ca/) | **April 10-12** | Ottawa, Canada
@@ -47,6 +45,8 @@ All-English conferences for **cocoa** developers.
 * [MCE](http://mceconf.com) | **February 04-06, 2015** | Warsaw, Poland
 * [dot Swift](http://www.dotswift.io) | **February 06, 2015** | Paris, France
 * [RWDevCon](http://www.rwdevcon.com) | **February 06-07, 2015** | Washington DC, USA
+* [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, UK
+* [Swift Summit](http://www.swiftsummit.com) | **March 21-22** | London, UK
 
 ## Related to Cocoa or Mobile in general
 
