@@ -51,7 +51,6 @@ All-English conferences for **cocoa** developers.
 ## Related to Cocoa or Mobile in general
 
 ### 2015
-* [mdevcon](http://mdevcon.com/) | **March 6-7** | Amsterdam, Netherlands
 * [Mobile March](http://mobilemarchtc.com/) | **March 26** | Minneapolis, Minnesota
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 27** | Istanbul, Turkey
 * [úll](http://2015.ull.ie/) | **March 30 - April 1** | Killarney, Ireland
@@ -69,6 +68,7 @@ All-English conferences for **cocoa** developers.
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28, 2014** | Amsterdam, Netherlands
 * [mobiconf](http://www.mobiconf.org/) | **October 2-3, 2014** | Kraków, Poland
 * [Çingleton](http://cingleton.com/) | **October 10-12, 2014** | Montreal, Canada
+* [mdevcon](http://mdevcon.com/) | **March 6-7** | Amsterdam, Netherlands
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
