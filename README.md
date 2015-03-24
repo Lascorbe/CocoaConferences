@@ -3,8 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2015
-* [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, UK
-* [Swift Summit](http://www.swiftsummit.com) | **March 21-22** | London, UK
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2015/home) | **March 27-28** | Chicago, IL
 * [CocoaConf Washington DC](http://cocoaconf.com/dc-2015/home) | **April 10-11** | Washington DC, USA
 * [NSNorth](http://nsnorth.ca/) | **April 10-12** | Ottawa, Canada
@@ -16,7 +14,7 @@ All-English conferences for **cocoa** developers.
 * [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, UK
 * [NSSpain](http://nsspain.com/) | **September 16-18** | Logroño, Spain
-* [CocoaLove](http://cocoalove.org) | **October 24-26** | Philadelphia, Pennsylvania
+* [CocoaLove](http://cocoalove.org) | **October 9-11** | Philadelphia, Pennsylvania
 * [Release Notes](http://releasenotes.tv/conference/) | **October 21-23** | Indianapolis, IN
 * [NSScotland](http://nsscotland.com/) | **October 23-25** | Edinburgh, UK
 * [MacTechConf](http://mactech.com/conference) | **November 4-6** | Los Angeles, California
@@ -47,11 +45,12 @@ All-English conferences for **cocoa** developers.
 * [MCE](http://mceconf.com) | **February 04-06, 2015** | Warsaw, Poland
 * [dot Swift](http://www.dotswift.io) | **February 06, 2015** | Paris, France
 * [RWDevCon](http://www.rwdevcon.com) | **February 06-07, 2015** | Washington DC, USA
+* [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, UK
+* [Swift Summit](http://www.swiftsummit.com) | **March 21-22** | London, UK
 
 ## Related to Cocoa or Mobile in general
 
 ### 2015
-* [mdevcon](http://mdevcon.com/) | **March 6-7** | Amsterdam, Netherlands
 * [Mobile March](http://mobilemarchtc.com/) | **March 26** | Minneapolis, Minnesota
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 27** | Istanbul, Turkey
 * [úll](http://2015.ull.ie/) | **March 30 - April 1** | Killarney, Ireland
@@ -69,6 +68,7 @@ All-English conferences for **cocoa** developers.
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28, 2014** | Amsterdam, Netherlands
 * [mobiconf](http://www.mobiconf.org/) | **October 2-3, 2014** | Kraków, Poland
 * [Çingleton](http://cingleton.com/) | **October 10-12, 2014** | Montreal, Canada
+* [mdevcon](http://mdevcon.com/) | **March 6-7** | Amsterdam, Netherlands
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
