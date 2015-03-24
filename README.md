@@ -45,8 +45,8 @@ All-English conferences for **cocoa** developers.
 * [MCE](http://mceconf.com) | **February 04-06, 2015** | Warsaw, Poland
 * [dot Swift](http://www.dotswift.io) | **February 06, 2015** | Paris, France
 * [RWDevCon](http://www.rwdevcon.com) | **February 06-07, 2015** | Washington DC, USA
-* [NSConference](http://nsconference.com/) | **March 16-18** | Leicester, UK
-* [Swift Summit](http://www.swiftsummit.com) | **March 21-22** | London, UK
+* [NSConference](http://nsconference.com/) | **March 16-18, 2015** | Leicester, UK
+* [Swift Summit](http://www.swiftsummit.com) | **March 21-22, 2015** | London, UK
 
 ## Related to Cocoa or Mobile in general
 
@@ -68,7 +68,7 @@ All-English conferences for **cocoa** developers.
 * [Dutch Mobile](http://www.mobileconference.nl) | **June 26-28, 2014** | Amsterdam, Netherlands
 * [mobiconf](http://www.mobiconf.org/) | **October 2-3, 2014** | Kraków, Poland
 * [Çingleton](http://cingleton.com/) | **October 10-12, 2014** | Montreal, Canada
-* [mdevcon](http://mdevcon.com/) | **March 6-7** | Amsterdam, Netherlands
+* [mdevcon](http://mdevcon.com/) | **March 6-7, 2015** | Amsterdam, Netherlands
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
