@@ -7,6 +7,8 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf PDX](http://cocoaconf.com/portland-2015/home) | **May 8-9** | Portland, OR
 * [UIKonf](http://www.uikonf.com) | **May 17-20** | Berlin, Germany
 * [CocoaConf Austin](http://cocoaconf.com/austin-2015/home) | **May 22-23** | Austin, TX
+* [WWDC](https://developer.apple.com/wwdc/) | **June 8-12** | San Francisco, California
+* [AltConf](http://altconf.com/) | **June 8-12** | San Francisco, California
 * [Objective-Cologne](http://objcgn.com/) | **June 23-25** | Cologne, Germany
 * [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, UK
