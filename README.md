@@ -47,9 +47,9 @@ All-English conferences for **cocoa** developers.
 * [RWDevCon](http://www.rwdevcon.com) | **February 06-07, 2015** | Washington DC, USA
 * [NSConference](http://nsconference.com/) | **March 16-18, 2015** | Leicester, UK
 * [Swift Summit](http://www.swiftsummit.com) | **March 21-22, 2015** | London, UK
-* [CocoaConf Chicago](http://cocoaconf.com/chicago-2015/home) | **March 27-28** | Chicago, IL
-* [CocoaConf Washington DC](http://cocoaconf.com/dc-2015/home) | **April 10-11** | Washington DC, USA
-* [NSNorth](http://nsnorth.ca/) | **April 10-12** | Ottawa, Canada
+* [CocoaConf Chicago](http://cocoaconf.com/chicago-2015/home) | **March 27-28, 2015** | Chicago, IL
+* [CocoaConf Washington DC](http://cocoaconf.com/dc-2015/home) | **April 10-11, 2015** | Washington DC, USA
+* [NSNorth](http://nsnorth.ca/) | **April 10-12, 2015** | Ottawa, Canada
 
 ## Related to Cocoa or Mobile in general
 
