@@ -19,6 +19,10 @@ All-English conferences for **cocoa** developers.
 * [NSScotland](http://nsscotland.com/) | **October 23-25** | Edinburgh, UK
 * [MacTechConf](http://mactech.com/conference) | **November 4-6** | Los Angeles, California
 
+### 2016
+
+* [RWDevCon](http://www.rwdevcon.com/) | **March 11-12, 2016** | Washington D.C.
+
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
 * [CocoaConf Portland](http://cocoaconf.com/portland-2013/home) | **August 15-16, 2013** | Portland, Oregon
