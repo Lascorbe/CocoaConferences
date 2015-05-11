@@ -54,10 +54,6 @@ All-English conferences for **cocoa** developers.
 ## Related to Cocoa or Mobile in general
 
 ### 2015
-* [Mobile March](http://mobilemarchtc.com/) | **March 26** | Minneapolis, Minnesota
-* [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 27** | Istanbul, Turkey
-* [úll](http://2015.ull.ie/) | **March 30 - April 1** | Killarney, Ireland
-* [Craft Conference](http://craft-conf.com/2015) | **April 22-24** | Budapest, Hungary
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14** | San Francisco, California
 * [Hybrid Conf](http://hybridconf.net/) | **August 20-21** | Dubli, Ireland
 * [Mobiconf](http://www.mobiconf.org/) | **October 1-2, 2015** | Kraków, Poland
@@ -73,6 +69,10 @@ All-English conferences for **cocoa** developers.
 * [mobiconf](http://www.mobiconf.org/) | **October 2-3, 2014** | Kraków, Poland
 * [Çingleton](http://cingleton.com/) | **October 10-12, 2014** | Montreal, Canada
 * [mdevcon](http://mdevcon.com/) | **March 6-7, 2015** | Amsterdam, Netherlands
+* [Mobile March](http://mobilemarchtc.com/) | **March 26** | Minneapolis, Minnesota
+* [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 27** | Istanbul, Turkey
+* [úll](http://2015.ull.ie/) | **March 30 - April 1** | Killarney, Ireland
+* [Craft Conference](http://craft-conf.com/2015) | **April 22-24** | Budapest, Hungary
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
