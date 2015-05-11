@@ -60,6 +60,7 @@ All-English conferences for **cocoa** developers.
 * [Craft Conference](http://craft-conf.com/2015) | **April 22-24** | Budapest, Hungary
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14** | San Francisco, California
 * [Hybrid Conf](http://hybridconf.net/) | **August 20-21** | Dubli, Ireland
+* [Mobiconf](http://www.mobiconf.org/) | **October 1-2, 2015** | Kraków, Poland
 * [Release Notes](http://releasenotes.tv/conference/) | **October 21-23** | Indianapolis, IN
  
 ### Has already happened...
