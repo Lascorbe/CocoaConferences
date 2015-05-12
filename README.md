@@ -14,8 +14,8 @@ All-English conferences for **cocoa** developers.
 * [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, UK
 * [NSSpain](http://nsspain.com/) | **September 16-18** | Logroño, Spain
-* [Pragma Conference](http://cocoalove.org) | **October 9-10** | Florence, Italy
-* [CocoaLove](http://pragmaconference.com) | **October 9-11** | Philadelphia, Pennsylvania
+* [Pragma Conference](http://pragmaconference.com) | **October 9-10** | Florence, Italy
+* [CocoaLove](http://cocoalove.org) | **October 9-11** | Philadelphia, Pennsylvania
 * [Release Notes](http://releasenotes.tv/conference/) | **October 21-23** | Indianapolis, IN
 * [NSScotland](http://nsscotland.com/) | **October 23-25** | Edinburgh, UK
 * [MacTechConf](http://mactech.com/conference) | **November 4-6** | Los Angeles, California
