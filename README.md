@@ -3,9 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2015
-* [iOSCon](https://skillsmatter.com/conferences/6687-ioscon-2015-the-conference-for-ios-and-swift-developers) | **June 15-17** | London, UK
-* [JailbreakCon](http://www.jailbreakcon.com/) | **June 20-21** | San Francisco, California
-* [Objective-Cologne](http://objcgn.com/) | **June 23-25** | Cologne, Germany
 * [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
 * [/dev/world](http://2015.devworld.com.au/) | **August 31 - September 1** | Melbourne, Australia
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, UK
@@ -50,11 +47,13 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Austin](http://cocoaconf.com/austin-2015/home) | **May 22-23, 2015** | Austin, TX
 * [AltConf](http://altconf.com/) | **June 8-12, 2015** | San Francisco, California
 * [WWDC](https://developer.apple.com/wwdc/) | **June 8-12, 2015** | San Francisco, California
+* [iOSCon](https://skillsmatter.com/conferences/6687-ioscon-2015-the-conference-for-ios-and-swift-developers) | **June 15-17, 2015** | London, UK
+* [JailbreakCon](http://www.jailbreakcon.com/) | **June 20-21, 2015** | San Francisco, California
+* [Objective-Cologne](http://objcgn.com/) | **June 23-25, 2015** | Cologne, Germany
 
 ## Related to Cocoa or Mobile in general
 
 ### 2015
-* [#inspect](http://conference.rubymotion.com/) | **July 1-2** | Paris, Francia
 * [Hybrid Conf](http://hybridconf.net/) | **August 20-21** | Dubli, Ireland
 * [Mobiconf](http://www.mobiconf.org/) | **October 1-2** | Kraków, Poland
 * [Release Notes](http://releasenotes.tv/conference/) | **October 21-23** | Indianapolis, IN
@@ -76,6 +75,7 @@ All-English conferences for **cocoa** developers.
 * [Craft Conference](http://craft-conf.com/2015) | **April 22-24, 2015** | Budapest, Hungary
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14, 2015** | San Francisco, California
 * [Layers](http://www.bringyourlayers.com/) | **June 8-10, 2015** | San Francisco, California
+* [#inspect](http://conference.rubymotion.com/) | **July 1-2, 2015** | Paris, Francia
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
