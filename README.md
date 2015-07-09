@@ -13,6 +13,7 @@ All-English conferences for **cocoa** developers.
 * [NSScotland](http://nsscotland.com/) | **October 23-25** | Edinburgh, UK
 * [Swift Summit](http://www.swiftsummit.com) | **October 29-30** | San Francisco, California
 * [MacTechConf](http://mactech.com/conference) | **November 4-6** | Los Angeles, California
+* [do {iOS}](http://do-ios.com) | **November 9** | Amsterdam, The Netherlands
 
 ### 2016
 * [RWDevCon](http://www.rwdevcon.com/) | **March 11-12, 2016** | Washington D.C.
