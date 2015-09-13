@@ -14,6 +14,7 @@ All-English conferences for **cocoa** developers.
 * [Swift Summit](http://www.swiftsummit.com) | **October 29-30** | San Francisco, California
 * [MacTechConf](http://mactech.com/conference) | **November 4-6** | Los Angeles, California
 * [do {iOS}](http://do-ios.com) | **November 9** | Amsterdam, The Netherlands
+* [iOSCon](https://skillsmatter.com/conferences/6687-ioscon-2015-the-conference-for-ios-and-swift-developers) | **November 30 - December 2, 2015** | London, UK
 
 ### 2016
 * [RWDevCon](http://www.rwdevcon.com/) | **March 11-12, 2016** | Washington D.C.
@@ -61,7 +62,7 @@ All-English conferences for **cocoa** developers.
 
 ### 2016
 * [ValioCon](http://valiocon.com/) | **June** | San Diego, California
- 
+
 ### Has already happened...
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
 * [WIPJam at MWC](http://wip.org/wip-event/wipjam-mwc14/) | **Feb 24-27, 2014** | Barcelona, Spain
