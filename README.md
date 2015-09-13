@@ -3,9 +3,6 @@ All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
 ### 2015
-* [360|iDev](http://360idev.com/) | **August 16-19** | Denver, Colorado
-* [/dev/world](http://2015.devworld.com.au/) | **August 31 - September 1** | Melbourne, Australia
-* [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10** | Aberystwyth, UK
 * [NSSpain](http://nsspain.com/) | **September 16-18** | Logroño, Spain
 * [Pragma Conference](http://pragmaconference.com) | **October 9-10** | Florence, Italy
 * [CocoaLove](http://cocoalove.org) | **October 9-11** | Philadelphia, Pennsylvania
@@ -14,7 +11,7 @@ All-English conferences for **cocoa** developers.
 * [Swift Summit](http://www.swiftsummit.com) | **October 29-30** | San Francisco, California
 * [MacTechConf](http://mactech.com/conference) | **November 4-6** | Los Angeles, California
 * [do {iOS}](http://do-ios.com) | **November 9** | Amsterdam, The Netherlands
-* [iOSCon](https://skillsmatter.com/conferences/6687-ioscon-2015-the-conference-for-ios-and-swift-developers) | **November 30 - December 2, 2015** | London, UK
+* [iOSCon](https://skillsmatter.com/conferences/6687-ioscon-2015-the-conference-for-ios-and-swift-developers) | **November 30 - December 2** | London, UK
 
 ### 2016
 * [RWDevCon](http://www.rwdevcon.com/) | **March 11-12, 2016** | Washington D.C.
@@ -52,11 +49,13 @@ All-English conferences for **cocoa** developers.
 * [iOSCon](https://skillsmatter.com/conferences/6687-ioscon-2015-the-conference-for-ios-and-swift-developers) | **June 15-17, 2015** | London, UK
 * [JailbreakCon](http://www.jailbreakcon.com/) | **June 20-21, 2015** | San Francisco, California
 * [Objective-Cologne](http://objcgn.com/) | **June 23-25, 2015** | Cologne, Germany
+* [360|iDev](http://360idev.com/) | **August 16-19, 2015** | Denver, Colorado
+* [/dev/world](http://2015.devworld.com.au/) | **August 31 - September 1, 2015** | Melbourne, Australia
+* [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10, 2015** | Aberystwyth, UK
 
 ## Related to Cocoa or Mobile in general
 
 ### 2015
-* [Hybrid Conf](http://hybridconf.net/) | **August 20-21** | Dubli, Ireland
 * [Mobiconf](http://www.mobiconf.org/) | **October 1-2** | Kraków, Poland
 * [Release Notes](http://releasenotes.tv/conference/) | **October 21-23** | Indianapolis, IN
 
@@ -78,6 +77,7 @@ All-English conferences for **cocoa** developers.
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 13-14, 2015** | San Francisco, California
 * [Layers](http://www.bringyourlayers.com/) | **June 8-10, 2015** | San Francisco, California
 * [#inspect](http://conference.rubymotion.com/) | **July 1-2, 2015** | Paris, Francia
+* [Hybrid Conf](http://hybridconf.net/) | **August 20-21, 2015** | Dubli, Ireland
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
