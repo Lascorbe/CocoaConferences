@@ -57,6 +57,7 @@ All-English conferences for **cocoa** developers.
 
 ### 2015
 * [Mobiconf](http://www.mobiconf.org/) | **October 1-2** | Kraków, Poland
+* [Mobilization](http://mobilization.pl) | **October 17** | Łódź, Poland
 * [Release Notes](http://releasenotes.tv/conference/) | **October 21-23** | Indianapolis, IN
 
 ### 2016
