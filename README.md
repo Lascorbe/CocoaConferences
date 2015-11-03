@@ -15,6 +15,7 @@ All-English conferences for **cocoa** developers.
 
 ### 2016
 * [RWDevCon](http://www.rwdevcon.com/) | **March 11-12, 2016** | Washington D.C.
+* [dot Swift](http://www.dotswift.io) | **January 29, 2016** | Paris, France
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
