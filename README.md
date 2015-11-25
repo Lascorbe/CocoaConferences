@@ -57,6 +57,7 @@ All-English conferences for **cocoa** developers.
 
 ### 2016
 * [mdevcon](http://mdevcon.com/) | **March 17-18** | Amsterdam, Netherlands
+* [MobCon Europe] (http://mobcon.com/mobcon-europe/) | **April 10** | Sofia, Bulgaria
 * [MCE](http://mceconf.com) | **April 21-22** | Warsaw, Poland
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12, 2015** | Santa Clara, California
 * [ValioCon](http://valiocon.com/) | **June** | San Diego, California
