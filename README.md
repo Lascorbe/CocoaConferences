@@ -2,8 +2,6 @@
 All-English conferences for **cocoa** developers.
 
 ## Cocoa-only
-### 2015
-* [iOSCon](https://skillsmatter.com/conferences/6687-ioscon-2015-the-conference-for-ios-and-swift-developers) | **November 30 - December 2** | London, UK
 
 ### 2016
 * [@Swift](http://atswift.io/index-en.html) | **January 10** | Beijing, China
