@@ -59,6 +59,7 @@ All-English conferences for **cocoa** developers.
 * [MCE](http://mceconf.com) | **April 21-22** | Warsaw, Poland
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12, 2015** | Santa Clara, California
 * [ValioCon](http://valiocon.com/) | **June** | San Diego, California
+* [Release Notes](http://releasenotes.tv/conference/) | **September 27-29, 2016** | Indianapolis, IN
 
 ### Has already happened...
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
