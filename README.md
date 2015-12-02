@@ -55,11 +55,11 @@ All-English conferences for **cocoa** developers.
 
 ### 2016
 * [mdevcon](http://mdevcon.com/) | **March 17-18** | Amsterdam, Netherlands
-* [MobCon Europe] (http://mobcon.com/mobcon-europe/) | **April 10** | Sofia, Bulgaria
+* [MobCon Europe](http://mobcon.com/mobcon-europe/) | **April 10** | Sofia, Bulgaria
 * [MCE](http://mceconf.com) | **April 21-22** | Warsaw, Poland
-* [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12, 2015** | Santa Clara, California
+* [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12** | Santa Clara, California
 * [ValioCon](http://valiocon.com/) | **June** | San Diego, California
-* [Release Notes](http://releasenotes.tv/conference/) | **September 27-29, 2016** | Indianapolis, IN
+* [Release Notes](http://releasenotes.tv/conference/) | **September 27-29** | Indianapolis, IN
 
 ### Has already happened...
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
