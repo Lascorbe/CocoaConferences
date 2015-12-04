@@ -8,6 +8,7 @@ All-English conferences for **cocoa** developers.
 * [dot Swift](http://www.dotswift.io) | **January 29** | Paris, France
 * [try! Swift](http://www.tryswiftconf.com/en) | **March 2-4** | Tokyo, Japan
 * [RWDevCon](http://www.rwdevcon.com/) | **March 11-12** | Washington DC, USA
+* [UIKonf](http://www.uikonf.com) | **May 22-25** | Berlin, Germany
 * [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
 
 ### Has already happened...
@@ -34,7 +35,6 @@ All-English conferences for **cocoa** developers.
 * [NSNorth](http://nsnorth.ca/) | **April 10-12, 2015** | Ottawa, Canada
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **April 20-23, 2015** | Yosemite National Park, CA
 * [CocoaConf PDX](http://cocoaconf.com/portland-2015/home) | **May 8-9, 2015** | Portland, OR
-* [UIKonf](http://www.uikonf.com) | **May 17-20, 2015** | Berlin, Germany
 * [CocoaConf Austin](http://cocoaconf.com/austin-2015/home) | **May 22-23, 2015** | Austin, TX
 * [AltConf](http://altconf.com/) | **June 8-12, 2015** | San Francisco, California
 * [WWDC](https://developer.apple.com/wwdc/) | **June 8-12, 2015** | San Francisco, California
