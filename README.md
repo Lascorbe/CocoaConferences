@@ -23,25 +23,19 @@ All-English conferences for **cocoa** developers.
 * [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany
 * [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK
 * [Renaissance](http://renaissance.io/2014) | **January 29-31, 2014** | San Francisco, California
-* [CocoaConf DC](http://cocoaconf.com/dc-2014/home) | **March 28-29, 2014** | Herndon, Virginia
-* [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home) | **April 25-26, 2014** | San Jose, California
 * [CocoaConf Raleigh](http://cocoaconf.com/raleigh-2014/home) | **May 9-10, 2014** | Raleigh, North Carolina
 * [FruitConf](http://fruitconf.co/) | **June 12-13, 2014** | London, UK
 * [iOSDevCampDC](http://iosdevcampdc.com/) | **August 1, 2014** | Tysons Corner, Virgina
 * [CocoaConf Columbus](http://cocoaconf.com/columbus-2014/home) | **August 8-9, 2014** | Columbus, Ohio
 * [A Swift Start](http://aswiftstart.com/) | **August 29, 2014** | New York, New York
 * [CocoaConf Las Vegas](http://cocoaconf.com/lasvegas-2014/home) | **September 19-20, 2014** | Las Vegas, Nevada
-* [CocoaConf Seattle](http://cocoaconf.com/seattle-2014/home) | **October 17-18, 2014** | Seattle, Washington
 * [Command R](http://cmdrconf.com) | **October 22-24, 2014** | London, UK
 * [CocoaConf Boston](http://cocoaconf.com/boston-2014/home) | **November 14-15, 2014** | Boston, Massachusetts
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home) | **December 5-6, 2014** | Atlanta, Georgia
 * [NSConference](http://nsconference.com/) | **March 16-18, 2015** | Leicester, UK
-* [CocoaConf Chicago](http://cocoaconf.com/chicago-2015/home) | **March 27-28, 2015** | Chicago, IL
 * [CocoaConf Washington DC](http://cocoaconf.com/dc-2015/home) | **April 10-11, 2015** | Washington DC, USA
 * [NSNorth](http://nsnorth.ca/) | **April 10-12, 2015** | Ottawa, Canada
-* [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **April 20-23, 2015** | Yosemite National Park, CA
 * [CocoaConf PDX](http://cocoaconf.com/portland-2015/home) | **May 8-9, 2015** | Portland, OR
-* [CocoaConf Austin](http://cocoaconf.com/austin-2015/home) | **May 22-23, 2015** | Austin, TX
 * [AltConf](http://altconf.com/) | **June 8-12, 2015** | San Francisco, California
 * [WWDC](https://developer.apple.com/wwdc/) | **June 8-12, 2015** | San Francisco, California
 * [JailbreakCon](http://www.jailbreakcon.com/) | **June 20-21, 2015** | San Francisco, California
