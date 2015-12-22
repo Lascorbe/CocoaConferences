@@ -8,8 +8,14 @@ All-English conferences for **cocoa** developers.
 * [dot Swift](http://www.dotswift.io) | **January 29** | Paris, France
 * [try! Swift](http://www.tryswiftconf.com/en) | **March 2-4** | Tokyo, Japan
 * [RWDevCon](http://www.rwdevcon.com/) | **March 11-12** | Washington DC, USA
+* [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 14-17** | Yosemite National Park, CA
+* [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26** | Chicago, IL
+* [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16** | Austin, TX
+* [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home) | **May 6-7** | Seattle, Washington
 * [UIKonf](http://www.uikonf.com) | **May 22-25** | Berlin, Germany
 * [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
+* [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10** | Herndon, Virginia
+* [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
