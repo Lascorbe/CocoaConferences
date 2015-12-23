@@ -11,6 +11,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 14-17** | Yosemite National Park, CA
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26** | Chicago, IL
 * [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16** | Austin, TX
+* [NSNorth](http://nsnorth.ca/) | **April 28-30** | Toronto, Canada
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home) | **May 6-7** | Seattle, Washington
 * [UIKonf](http://www.uikonf.com) | **May 22-25** | Berlin, Germany
 * [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
@@ -34,7 +35,6 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home) | **December 5-6, 2014** | Atlanta, Georgia
 * [NSConference](http://nsconference.com/) | **March 16-18, 2015** | Leicester, UK
 * [CocoaConf Washington DC](http://cocoaconf.com/dc-2015/home) | **April 10-11, 2015** | Washington DC, USA
-* [NSNorth](http://nsnorth.ca/) | **April 10-12, 2015** | Ottawa, Canada
 * [CocoaConf PDX](http://cocoaconf.com/portland-2015/home) | **May 8-9, 2015** | Portland, OR
 * [AltConf](http://altconf.com/) | **June 8-12, 2015** | San Francisco, California
 * [WWDC](https://developer.apple.com/wwdc/) | **June 8-12, 2015** | San Francisco, California
