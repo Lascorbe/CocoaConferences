@@ -15,6 +15,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home) | **May 6-7** | Seattle, Washington
 * [UIKonf](http://www.uikonf.com) | **May 22-25** | Berlin, Germany
 * [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
+* [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8** | Aberystwyth, UK
 * [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10** | Herndon, Virginia
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
 
