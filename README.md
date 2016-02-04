@@ -57,6 +57,7 @@ All-English conferences for **cocoa** developers.
 
 ### 2016
 * [mdevcon](http://mdevcon.com/) | **March 17-18** | Amsterdam, Netherlands
+* [SwiftAveiro](https://attending.io/events/swiftaveiro/) | **March 20** | Aveiro, Portugal
 * [MobCon Europe](http://mobcon.com/mobcon-europe/) | **April 10** | Sofia, Bulgaria
 * [MCE](http://mceconf.com) | **April 21-22** | Warsaw, Poland
 * [App Builders](https://appbuilders.ch) | **April 25-26** | Zürich, Switzerlands
