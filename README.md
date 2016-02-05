@@ -9,6 +9,7 @@ All-English conferences for **cocoa** developers.
 * [try! Swift](http://www.tryswiftconf.com/en) | **March 2-4** | Tokyo, Japan
 * [RWDevCon](http://www.rwdevcon.com/) | **March 11-12** | Washington DC, USA
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 14-17** | Yosemite National Park, CA
+* [SwiftAveiro](https://attending.io/events/swiftaveiro/) | **March 20** | Aveiro, Portugal
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26** | Chicago, IL
 * [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16** | Austin, TX
 * [NSNorth](http://nsnorth.ca/) | **April 28-30** | Toronto, Canada
@@ -57,7 +58,6 @@ All-English conferences for **cocoa** developers.
 
 ### 2016
 * [mdevcon](http://mdevcon.com/) | **March 17-18** | Amsterdam, Netherlands
-* [SwiftAveiro](https://attending.io/events/swiftaveiro/) | **March 20** | Aveiro, Portugal
 * [MobCon Europe](http://mobcon.com/mobcon-europe/) | **April 10** | Sofia, Bulgaria
 * [MCE](http://mceconf.com) | **April 21-22** | Warsaw, Poland
 * [App Builders](https://appbuilders.ch) | **April 25-26** | Zürich, Switzerlands
