@@ -19,6 +19,7 @@ All-English conferences for **cocoa** developers.
 * [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8** | Aberystwyth, UK
 * [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10** | Herndon, Virginia
+* [CocoaLove](http://cocoalove.org) | **October 14-16** | Philadelphia, Pennsylvania
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
 
 ### Has already happened...
