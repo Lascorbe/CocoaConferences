@@ -4,12 +4,6 @@ All-English conferences for **cocoa** developers.
 ## Cocoa-only
 
 ### 2016
-* [@Swift](http://atswift.io/index-en.html) | **January 10** | Beijing, China
-* [dot Swift](http://www.dotswift.io) | **January 29** | Paris, France
-* [try! Swift](http://www.tryswiftconf.com/en) | **March 2-4** | Tokyo, Japan
-* [RWDevCon](http://www.rwdevcon.com/) | **March 11-12** | Washington DC, USA
-* [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 14-17** | Yosemite National Park, CA
-* [SwiftAveiro](https://attending.io/events/swiftaveiro/) | **March 20** | Aveiro, Portugal
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26** | Chicago, IL
 * [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16** | Austin, TX
 * [NSNorth](http://nsnorth.ca/) | **April 28-30** | Toronto, Canada
@@ -54,11 +48,16 @@ All-English conferences for **cocoa** developers.
 * [Swift Summit](http://www.swiftsummit.com) | **October 29-30, 2015** | San Francisco, California
 * [MacTechConf](http://mactech.com/conference) | **November 4-6, 2015** | Los Angeles, California
 * [do {iOS}](http://do-ios.com) | **November 9, 2015** | Amsterdam, The Netherlands
+* [@Swift](http://atswift.io/index-en.html) | **January 10, 2016** | Beijing, China
+* [dot Swift](http://www.dotswift.io) | **January 29, 2016** | Paris, France
+* [try! Swift](http://www.tryswiftconf.com/en) | **March 2-4, 2016** | Tokyo, Japan
+* [RWDevCon](http://www.rwdevcon.com/) | **March 11-12, 2016** | Washington DC, USA
+* [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 14-17, 2016** | Yosemite National Park, CA
+* [SwiftAveiro](https://attending.io/events/swiftaveiro/) | **March 20, 2016** | Aveiro, Portugal
 
 ## Related to Cocoa or Mobile in general
 
 ### 2016
-* [mdevcon](http://mdevcon.com/) | **March 17-18** | Amsterdam, Netherlands
 * [MobCon Europe](http://mobcon.com/mobcon-europe/) | **April 10** | Sofia, Bulgaria
 * [MCE](http://mceconf.com) | **April 21-22** | Warsaw, Poland
 * [App Builders](https://appbuilders.ch) | **April 25-26** | Zürich, Switzerlands
@@ -82,6 +81,7 @@ All-English conferences for **cocoa** developers.
 * [Mobiconf](http://www.mobiconf.org/) | **October 1-2, 2015** | Kraków, Poland
 * [Mobilization](http://mobilization.pl) | **October 17, 2015** | Łódź, Poland
 * [Release Notes](http://releasenotes.tv/conference/) | **October 21-23, 2015** | Indianapolis, IN
+* [mdevcon](http://mdevcon.com/) | **March 17-18, 2016** | Amsterdam, Netherlands
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
