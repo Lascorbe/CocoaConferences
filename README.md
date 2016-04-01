@@ -64,6 +64,7 @@ All-English conferences for **cocoa** developers.
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12** | Santa Clara, California
 * [ValioCon](http://valiocon.com/) | **June** | San Diego, California
 * [Release Notes](http://releasenotes.tv/conference/) | **September 27-29** | Indianapolis, IN
+* [úll](http://2016.ull.ie/) | **November 1-2** | Killarney, Ireland
 
 ### Has already happened...
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
@@ -73,7 +74,6 @@ All-English conferences for **cocoa** developers.
 * [Çingleton](http://cingleton.com/) | **October 10-12, 2014** | Montreal, Canada
 * [Mobile March](http://mobilemarchtc.com/) | **March 26, 2015** | Minneapolis, Minnesota
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 27, 2015** | Istanbul, Turkey
-* [úll](http://2015.ull.ie/) | **March 30 - April 1, 2015** | Killarney, Ireland
 * [Craft Conference](http://craft-conf.com/2015) | **April 22-24, 2015** | Budapest, Hungary
 * [Layers](http://www.bringyourlayers.com/) | **June 8-10, 2015** | San Francisco, California
 * [#inspect](http://conference.rubymotion.com/) | **July 1-2, 2015** | Paris, Francia
