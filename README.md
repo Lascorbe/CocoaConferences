@@ -10,6 +10,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home) | **May 6-7** | Seattle, Washington
 * [UIKonf](http://www.uikonf.com) | **May 22-25** | Berlin, Germany
 * [iOSCon 2016](https://skillsmatter.com/conferences/7598-ioscon-2016-the-conference-for-ios-and-swift-developers) | **May 26-27** | London, UK
+* [Forward Swift](http://forwardswift.com) | **July 25-31** | San Francisco, CA
 * [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8** | Aberystwyth, UK
 * [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10** | Herndon, Virginia
