@@ -5,6 +5,7 @@ All-English conferences for **cocoa** developers.
 
 ### 2016
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26** | Chicago, IL
+* [iOS Remote Conf](https://allremoteconfs.com/ios-2016) | **April 13-15** | Remote
 * [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16** | Austin, TX
 * [NSNorth](http://nsnorth.ca/) | **April 28-30** | Toronto, Canada
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home) | **May 6-7** | Seattle, Washington
