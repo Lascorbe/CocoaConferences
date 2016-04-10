@@ -4,7 +4,6 @@ All-English conferences for **cocoa** developers.
 ## Cocoa-only
 
 ### 2016
-* [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26** | Chicago, IL
 * [iOS Remote Conf](https://allremoteconfs.com/ios-2016) | **April 13-15** | Remote
 * [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16** | Austin, TX
 * [NSNorth](http://nsnorth.ca/) | **April 28-30** | Toronto, Canada
@@ -15,6 +14,7 @@ All-English conferences for **cocoa** developers.
 * [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8** | Aberystwyth, UK
 * [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10** | Herndon, Virginia
+* [NSSpain](http://nsspain.com/) | **September 14-16** | Logroño, Spain
 * [CocoaLove](http://cocoalove.org) | **October 14-16** | Philadelphia, Pennsylvania
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
 
@@ -42,7 +42,6 @@ All-English conferences for **cocoa** developers.
 * [Objective-Cologne](http://objcgn.com/) | **June 23-25, 2015** | Cologne, Germany
 * [/dev/world](http://2015.devworld.com.au/) | **August 31 - September 1, 2015** | Melbourne, Australia
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10, 2015** | Aberystwyth, UK
-* [NSSpain](http://nsspain.com/) | **September 16-18, 2015** | Logroño, Spain
 * [Pragma Conference](http://pragmaconference.com) | **October 9-10, 2015** | Florence, Italy
 * [CocoaLove](http://cocoalove.org) | **October 9-11, 2015** | Philadelphia, Pennsylvania
 * [Release Notes](http://releasenotes.tv/conference/) | **October 21-23, 2015** | Indianapolis, IN
@@ -56,6 +55,7 @@ All-English conferences for **cocoa** developers.
 * [RWDevCon](http://www.rwdevcon.com/) | **March 11-12, 2016** | Washington DC, USA
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 14-17, 2016** | Yosemite National Park, CA
 * [SwiftAveiro](https://attending.io/events/swiftaveiro/) | **March 20, 2016** | Aveiro, Portugal
+* [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26** | Chicago, IL
 
 ## Related to Cocoa or Mobile in general
 
