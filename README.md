@@ -15,6 +15,7 @@ All-English conferences for **cocoa** developers.
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8** | Aberystwyth, UK
 * [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10** | Herndon, Virginia
 * [NSSpain](http://nsspain.com/) | **September 14-16** | Logroño, Spain
+* [Pragma Conference](http://pragmaconference.com) | **October 12-14** | Verona, Italy
 * [CocoaLove](http://cocoalove.org) | **October 14-16** | Philadelphia, Pennsylvania
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
 
