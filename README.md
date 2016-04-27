@@ -4,9 +4,6 @@ All-English conferences for **cocoa** developers.
 ## Cocoa-only
 
 ### 2016
-* [iOS Remote Conf](https://allremoteconfs.com/ios-2016) | **April 13-15** | Remote
-* [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16** | Austin, TX
-* [NSNorth](http://nsnorth.ca/) | **April 28-30** | Toronto, Canada
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home) | **May 6-7** | Seattle, Washington
 * [UIKonf](http://www.uikonf.com) | **May 22-25** | Berlin, Germany
 * [iOSCon 2016](https://skillsmatter.com/conferences/7598-ioscon-2016-the-conference-for-ios-and-swift-developers) | **May 26-27** | London, UK
@@ -20,6 +17,7 @@ All-English conferences for **cocoa** developers.
 * [Pragma Conference](http://pragmaconference.com) | **October 12-14** | Verona, Italy
 * [CocoaLove](http://cocoalove.org) | **October 14-16** | Philadelphia, Pennsylvania
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
+* [Swift alps](http://theswiftalps.com/) | **November** | Crans-Montana, Switzerland
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
@@ -59,6 +57,9 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 14-17, 2016** | Yosemite National Park, CA
 * [SwiftAveiro](https://attending.io/events/swiftaveiro/) | **March 20, 2016** | Aveiro, Portugal
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26** | Chicago, IL
+* [iOS Remote Conf](https://allremoteconfs.com/ios-2016) | **April 13-15** | Remote
+* [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16** | Austin, TX
+* [NSNorth](http://nsnorth.ca/) | **April 28-30** | Toronto, Canada
 
 ## Related to Cocoa or Mobile in general
 
