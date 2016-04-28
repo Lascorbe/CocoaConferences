@@ -56,17 +56,14 @@ All-English conferences for **cocoa** developers.
 * [RWDevCon](http://www.rwdevcon.com/) | **March 11-12, 2016** | Washington DC, USA
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 14-17, 2016** | Yosemite National Park, CA
 * [SwiftAveiro](https://attending.io/events/swiftaveiro/) | **March 20, 2016** | Aveiro, Portugal
-* [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26** | Chicago, IL
-* [iOS Remote Conf](https://allremoteconfs.com/ios-2016) | **April 13-15** | Remote
-* [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16** | Austin, TX
-* [NSNorth](http://nsnorth.ca/) | **April 28-30** | Toronto, Canada
+* [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26, 2016** | Chicago, IL
+* [iOS Remote Conf](https://allremoteconfs.com/ios-2016) | **April 13-1, 20165** | Remote
+* [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16, 2016** | Austin, TX
+* [NSNorth](http://nsnorth.ca/) | **April 28-30, 2016** | Toronto, Canada
 
 ## Related to Cocoa or Mobile in general
 
 ### 2016
-* [MobCon Europe](http://mobcon.com/mobcon-europe/) | **April 10** | Sofia, Bulgaria
-* [MCE](http://mceconf.com) | **April 21-22** | Warsaw, Poland
-* [App Builders](https://appbuilders.ch) | **April 25-26** | Zürich, Switzerlands
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12** | Santa Clara, California
 * [ValioCon](http://valiocon.com/) | **June** | San Diego, California
 * [Release Notes](http://releasenotes.tv/conference/) | **September 27-29** | Indianapolis, IN
@@ -88,6 +85,9 @@ All-English conferences for **cocoa** developers.
 * [Mobilization](http://mobilization.pl) | **October 17, 2015** | Łódź, Poland
 * [Release Notes](http://releasenotes.tv/conference/) | **October 21-23, 2015** | Indianapolis, IN
 * [mdevcon](http://mdevcon.com/) | **March 17-18, 2016** | Amsterdam, Netherlands
+* [MobCon Europe](http://mobcon.com/mobcon-europe/) | **April 10, 2016** | Sofia, Bulgaria
+* [MCE](http://mceconf.com) | **April 21-22, 2016** | Warsaw, Poland
+* [App Builders](https://appbuilders.ch) | **April 25-26, 2016** | Zürich, Switzerlands
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
