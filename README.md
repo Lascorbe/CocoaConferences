@@ -7,6 +7,9 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home) | **May 6-7** | Seattle, Washington
 * [UIKonf](http://www.uikonf.com) | **May 22-25** | Berlin, Germany
 * [iOSCon 2016](https://skillsmatter.com/conferences/7598-ioscon-2016-the-conference-for-ios-and-swift-developers) | **May 26-27** | London, UK
+* [AltConf](http://altconf.com/) | **June 13-17** | San Francisco, California
+* [WWDC](https://developer.apple.com/wwdc/) | **June 13-17** | San Francisco, California
+* [JailbreakCon](http://www.jailbreakcon.com/) | **July 9-10** | San Francisco, California
 * [Forward Swift](http://forwardswift.com) | **July 25-31** | San Francisco, CA
 * [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
 * [try! Swift NYC](http://www.tryswiftnyc.com) | **September 1-2** | New York, New York
@@ -37,15 +40,8 @@ All-English conferences for **cocoa** developers.
 * [NSConference](http://nsconference.com/) | **March 16-18, 2015** | Leicester, UK
 * [CocoaConf Washington DC](http://cocoaconf.com/dc-2015/home) | **April 10-11, 2015** | Washington DC, USA
 * [CocoaConf PDX](http://cocoaconf.com/portland-2015/home) | **May 8-9, 2015** | Portland, OR
-* [AltConf](http://altconf.com/) | **June 8-12, 2015** | San Francisco, California
-* [WWDC](https://developer.apple.com/wwdc/) | **June 8-12, 2015** | San Francisco, California
-* [JailbreakCon](http://www.jailbreakcon.com/) | **June 20-21, 2015** | San Francisco, California
 * [Objective-Cologne](http://objcgn.com/) | **June 23-25, 2015** | Cologne, Germany
 * [/dev/world](http://2015.devworld.com.au/) | **August 31 - September 1, 2015** | Melbourne, Australia
-* [iOS Dev UK](http://www.iosdevuk.com/) | **September 7-10, 2015** | Aberystwyth, UK
-* [Pragma Conference](http://pragmaconference.com) | **October 9-10, 2015** | Florence, Italy
-* [CocoaLove](http://cocoalove.org) | **October 9-11, 2015** | Philadelphia, Pennsylvania
-* [Release Notes](http://releasenotes.tv/conference/) | **October 21-23, 2015** | Indianapolis, IN
 * [NSScotland](http://nsscotland.com/) | **October 23-25, 2015** | Edinburgh, UK
 * [Swift Summit](http://www.swiftsummit.com) | **October 29-30, 2015** | San Francisco, California
 * [MacTechConf](http://mactech.com/conference) | **November 4-6, 2015** | Los Angeles, California
