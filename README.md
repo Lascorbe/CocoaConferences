@@ -61,7 +61,7 @@ All-English conferences for **cocoa** developers.
 
 ### 2016
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12** | Santa Clara, California
-* [ValioCon](http://valiocon.com/) | **June** | San Diego, California
+* [ValioCon](http://valiocon.com/) | **May 19-22** | San Diego, California
 * [Release Notes](http://releasenotes.tv/conference/) | **September 27-29** | Indianapolis, IN
 * [úll](http://2016.ull.ie/) | **November 1-2** | Killarney, Ireland
 
