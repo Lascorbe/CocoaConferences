@@ -14,6 +14,7 @@ All-English conferences for **cocoa** developers.
 * [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
 * [try! Swift NYC](http://www.tryswiftnyc.com) | **September 1-2** | New York, New York
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8** | Aberystwyth, UK
+* [Swift Conf](http://www.swiftconf.com/) | **September 7-8** | Cologne, Germany
 * [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10** | Herndon, Virginia
 * [NSSpain](http://nsspain.com/) | **September 14-16** | Logroño, Spain
 * [FrenchKit](http://frenchkit.fr/) | **September 23-24** | Paris, France
