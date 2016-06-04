@@ -9,6 +9,7 @@ All-English conferences for **cocoa** developers.
 * [iOSCon 2016](https://skillsmatter.com/conferences/7598-ioscon-2016-the-conference-for-ios-and-swift-developers) | **May 26-27** | London, UK
 * [AltConf](http://altconf.com/) | **June 13-17** | San Francisco, California
 * [WWDC](https://developer.apple.com/wwdc/) | **June 13-17** | San Francisco, California
+* [CMDUConf](http://cmduconf.com) | **July 8** | Barcelona, Spain
 * [JailbreakCon](http://www.jailbreakcon.com/) | **July 9-10** | San Francisco, California
 * [Forward Swift](http://forwardswift.com) | **July 25-31** | San Francisco, CA
 * [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
