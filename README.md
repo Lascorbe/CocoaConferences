@@ -66,6 +66,8 @@ All-English conferences for **cocoa** developers.
 * [ValioCon](http://valiocon.com/) | **May 19-22** | San Diego, California
 * [Release Notes](http://releasenotes.tv/conference/) | **September 27-29** | Indianapolis, IN
 * [úll](http://2016.ull.ie/) | **November 1-2** | Killarney, Ireland
+* [Mobile Era](http://mobileera.rocks) | **November 3-4** | Oslo, Norway
+
 
 ### Has already happened...
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
