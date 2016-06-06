@@ -6,6 +6,7 @@ All-English conferences for **cocoa** developers.
 ### 2016
 * [AltConf](http://altconf.com/) | **June 13-17** | San Francisco, California
 * [WWDC](https://developer.apple.com/wwdc/) | **June 13-17** | San Francisco, California
+* [Swift With The Best](http://swift.withthebest.com) | **June 25** | Online
 * [CMDUConf](http://cmduconf.com) | **July 8** | Barcelona, Spain
 * [JailbreakCon](http://www.jailbreakcon.com/) | **July 9-10** | San Francisco, California
 * [Forward Swift](http://forwardswift.com) | **July 25-31** | San Francisco, California
