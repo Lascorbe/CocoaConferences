@@ -4,13 +4,11 @@ All-English conferences for **cocoa** developers.
 ## Cocoa-only
 
 ### 2016
-* [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home) | **May 6-7** | Seattle, Washington
-* [UIKonf](http://www.uikonf.com) | **May 22-25** | Berlin, Germany
 * [AltConf](http://altconf.com/) | **June 13-17** | San Francisco, California
 * [WWDC](https://developer.apple.com/wwdc/) | **June 13-17** | San Francisco, California
 * [CMDUConf](http://cmduconf.com) | **July 8** | Barcelona, Spain
 * [JailbreakCon](http://www.jailbreakcon.com/) | **July 9-10** | San Francisco, California
-* [Forward Swift](http://forwardswift.com) | **July 25-31** | San Francisco, CA
+* [Forward Swift](http://forwardswift.com) | **July 25-31** | San Francisco, California
 * [360|iDev](http://360idev.com/) | **August 21-24** | Denver, Colorado
 * [try! Swift NYC](http://www.tryswiftnyc.com) | **September 1-2** | New York, New York
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8** | Aberystwyth, UK
@@ -22,6 +20,8 @@ All-English conferences for **cocoa** developers.
 * [CocoaLove](http://cocoalove.org) | **October 14-16** | Philadelphia, Pennsylvania
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
 * [Swift alps](http://theswiftalps.com/) | **November** | Crans-Montana, Switzerland
+
+### 2017
 * [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK
 
 ### Has already happened...
@@ -58,17 +58,15 @@ All-English conferences for **cocoa** developers.
 * [iOS Remote Conf](https://allremoteconfs.com/ios-2016) | **April 13-1, 20165** | Remote
 * [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16, 2016** | Austin, TX
 * [NSNorth](http://nsnorth.ca/) | **April 28-30, 2016** | Toronto, Canada
-* [iOSCon 2016](https://skillsmatter.com/conferences/7598-ioscon-2016-the-conference-for-ios-and-swift-developers) | **May 26-27** | London, UK
+* [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home) | **May 6-7** | Seattle, Washington
+* [UIKonf](http://www.uikonf.com) | **May 22-25** | Berlin, Germany
 
 ## Related to Cocoa or Mobile in general
 
 ### 2016
-* [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12** | Santa Clara, California
-* [ValioCon](http://valiocon.com/) | **May 19-22** | San Diego, California
 * [Release Notes](http://releasenotes.tv/conference/) | **September 27-29** | Indianapolis, IN
 * [úll](http://2016.ull.ie/) | **November 1-2** | Killarney, Ireland
 * [Mobile Era](http://mobileera.rocks) | **November 3-4** | Oslo, Norway
-
 
 ### Has already happened...
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
@@ -89,6 +87,8 @@ All-English conferences for **cocoa** developers.
 * [MobCon Europe](http://mobcon.com/mobcon-europe/) | **April 10, 2016** | Sofia, Bulgaria
 * [MCE](http://mceconf.com) | **April 21-22, 2016** | Warsaw, Poland
 * [App Builders](https://appbuilders.ch) | **April 25-26, 2016** | Zürich, Switzerlands
+* [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12, 2016** | Santa Clara, California
+* [ValioCon](http://valiocon.com/) | **May 19-22, 2016** | San Diego, California
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
