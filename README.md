@@ -20,6 +20,7 @@ All-English conferences for **cocoa** developers.
 * [Pragma Conference](http://pragmaconference.com) | **October 12-14** | Verona, Italy
 * [CocoaLove](http://cocoalove.org) | **October 14-16** | Philadelphia, Pennsylvania
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
+* [Swift Summit](http://www.swiftsummit.com) | **November 7-8** | San Francisco, California
 * [Swift alps](http://theswiftalps.com/) | **November** | Crans-Montana, Switzerland
 
 ### 2017
@@ -46,7 +47,6 @@ All-English conferences for **cocoa** developers.
 * [Objective-Cologne](http://objcgn.com/) | **June 23-25, 2015** | Cologne, Germany
 * [/dev/world](http://2015.devworld.com.au/) | **August 31 - September 1, 2015** | Melbourne, Australia
 * [NSScotland](http://nsscotland.com/) | **October 23-25, 2015** | Edinburgh, UK
-* [Swift Summit](http://www.swiftsummit.com) | **October 29-30, 2015** | San Francisco, California
 * [MacTechConf](http://mactech.com/conference) | **November 4-6, 2015** | Los Angeles, California
 * [do {iOS}](http://do-ios.com) | **November 9, 2015** | Amsterdam, The Netherlands
 * [@Swift](http://atswift.io/index-en.html) | **January 10, 2016** | Beijing, China
