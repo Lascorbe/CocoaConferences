@@ -18,6 +18,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaLove](http://cocoalove.org) | **October 14-16** | Philadelphia, Pennsylvania
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
 * [Swift Summit](http://www.swiftsummit.com) | **November 7-8** | San Francisco, California
+* [do {iOS}](http://do-ios.com/) | **November 15-16** | Amsterdam, The Netherlands
 * [Swift alps](http://theswiftalps.com/) | **November** | Crans-Montana, Switzerland
 
 ### 2017
