@@ -12,7 +12,7 @@ All-English conferences for **cocoa** developers.
 * [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10** | Herndon, Virginia
 * [NSSpain](http://nsspain.com/) | **September 14-16** | Logroño, Spain
 * [FrenchKit](http://frenchkit.fr/) | **September 23-24** | Paris, France
-* [Functional Swift Conference 2016](http://2016.funswiftconf.com) | **October 1-2** | Budapest Hungary
+* [Functional Swift Conference](http://2016.funswiftconf.com) | **October 1-2** | Budapest, Hungary
 * [Pragma Conference](http://pragmaconference.com) | **October 12-14** | Verona, Italy
 * [CocoaLove](http://cocoalove.org) | **October 14-16** | Philadelphia, Pennsylvania
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
@@ -46,7 +46,6 @@ All-English conferences for **cocoa** developers.
 * [/dev/world](http://2015.devworld.com.au/) | **August 31 - September 1, 2015** | Melbourne, Australia
 * [NSScotland](http://nsscotland.com/) | **October 23-25, 2015** | Edinburgh, UK
 * [MacTechConf](http://mactech.com/conference) | **November 4-6, 2015** | Los Angeles, California
-* [do {iOS}](http://do-ios.com) | **November 9, 2015** | Amsterdam, The Netherlands
 * [@Swift](http://atswift.io/index-en.html) | **January 10, 2016** | Beijing, China
 * [try! Swift](http://www.tryswiftconf.com/en) | **March 2-4, 2016** | Tokyo, Japan
 * [RWDevCon](http://www.rwdevcon.com/) | **March 11-12, 2016** | Washington DC, USA
@@ -61,6 +60,8 @@ All-English conferences for **cocoa** developers.
 * [AltConf](http://altconf.com/) | **June 13-17, 2016** | San Francisco, California
 * [WWDC](https://developer.apple.com/wwdc/) | **June 13-17, 2016** | San Francisco, California
 * [Swift With The Best](http://swift.withthebest.com) | **June 25, 2016** | Online
+* [CMD+U Conference](http://cmduconf.com) | **July 8, 2016** | Barcelona, Spain
+* [JailbreakCon](http://www.jailbreakcon.com/) | **July 9-10, 2016** | San Francisco, California
 
 ## Related to Cocoa or Mobile in general
 
@@ -90,8 +91,6 @@ All-English conferences for **cocoa** developers.
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12, 2016** | Santa Clara, California
 * [ValioCon](http://valiocon.com/) | **May 19-22, 2016** | San Diego, California
 * [Layers](http://www.bringyourlayers.com/) | **June 13-15, 2016** | San Francisco, California
-* [CMDUConf](http://cmduconf.com) | **July 8** | Barcelona, Spain
-* [JailbreakCon](http://www.jailbreakcon.com/) | **July 9-10** | San Francisco, California
 
 ### More
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
