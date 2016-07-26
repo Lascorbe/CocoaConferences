@@ -15,6 +15,7 @@ All-English conferences for **cocoa** developers.
 * [Functional Swift Conference](http://2016.funswiftconf.com) | **October 1-2** | Budapest, Hungary
 * [Pragma Conference](http://pragmaconference.com) | **October 12-14** | Verona, Italy
 * [CocoaLove](http://cocoalove.org) | **October 14-16** | Philadelphia, Pennsylvania
+* [iOS Conf SG](http://iosconf.sg) | **October 20-21** | Singapore, Singapore
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
 * [Swift Summit](http://www.swiftsummit.com) | **November 7-8** | San Francisco, California
 * [do {iOS}](http://do-ios.com/) | **November 15-16** | Amsterdam, The Netherlands
