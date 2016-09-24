@@ -20,6 +20,7 @@ All-English conferences for **cocoa** developers.
 * [Forward Swift](http://forwardswift.com) | **Feb 25 - March 5** | San Francisco, CA
 * [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK
 * [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK
+* [Playgrounds](http://www.playgroundscon.com) | **Early 2017** | Melbourne, Australia
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
