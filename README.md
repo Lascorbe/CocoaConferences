@@ -4,8 +4,6 @@ All-English conferences for **cocoa** developers.
 ## Cocoa-only
 
 ### 2016
-* [NSSpain](http://nsspain.com/) | **September 14-16** | Logroño, Spain
-* [FrenchKit](http://frenchkit.fr/) | **September 23-24** | Paris, France
 * [Functional Swift Conference](http://2016.funswiftconf.com) | **October 1-2** | Budapest, Hungary
 * [Pragma Conference](http://pragmaconference.com) | **October 12-14** | Verona, Italy
 * [CocoaLove](http://cocoalove.org) | **October 14-16** | Philadelphia, Pennsylvania
@@ -22,6 +20,7 @@ All-English conferences for **cocoa** developers.
 * [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK
 * [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK
 * [Playgrounds](http://www.playgroundscon.com) | **Early 2017** | Melbourne, Australia
+* [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7), 2017** | Cologne, Germany
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
@@ -67,6 +66,8 @@ All-English conferences for **cocoa** developers.
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8, 2016** | Aberystwyth, UK
 * [Swift Conf](http://www.swiftconf.com/) | **September 7-8, 2016** | Cologne, Germany
 * [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10, 2016** | Herndon, Virginia
+* [NSSpain](http://nsspain.com/) | **September 14-16** | Logroño, Spain
+* [FrenchKit](http://frenchkit.fr/) | **September 23-24** | Paris, France
 
 ## Related to Cocoa or Mobile in general
 
