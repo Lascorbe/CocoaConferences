@@ -13,10 +13,11 @@ All-English conferences for **cocoa** developers.
 ### 2017
 * [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France
 * [autoreleasepoolconf](http://www.autoreleasepoolconf.com) | **Feb 16-17** | San Juan, Puerto Rico
+* [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia
 * [Forward Swift](http://forwardswift.com) | **Feb 25 - March 5** | San Francisco, CA
 * [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK
 * [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK
-* [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia
+* [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland
 * [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7)** | Cologne, Germany
 
 ### Has already happened...
