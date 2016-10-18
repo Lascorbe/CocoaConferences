@@ -15,6 +15,7 @@ All-English conferences for **cocoa** developers.
 * [autoreleasepoolconf](http://www.autoreleasepoolconf.com) | **Feb 16-17** | San Juan, Puerto Rico
 * [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia
 * [Forward Swift](http://forwardswift.com) | **Feb 25 - March 5** | San Francisco, CA
+* [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA
 * [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK
 * [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK
 * [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland
