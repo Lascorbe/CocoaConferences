@@ -1,5 +1,5 @@
-#iOS & OSX Developers Conferences
-All-English conferences for **cocoa** developers.
+#iOS & macOS Developers Conferences
+All-English conferences for **Cocoa** developers.
 
 ## Cocoa-only
 
