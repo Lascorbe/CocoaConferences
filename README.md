@@ -4,7 +4,6 @@ All-English conferences for **Cocoa** developers.
 ## Cocoa-only
 
 ### 2016
-* [iOS Conf SG](http://iosconf.sg) | **October 20-21** | Singapore, Singapore
 * [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
 * [Swift Summit](http://www.swiftsummit.com) | **November 7-8** | San Francisco, California
 * [Swift alps](http://theswiftalps.com/) | **November 10-11** | Crans-Montana, Switzerland
@@ -69,6 +68,7 @@ All-English conferences for **Cocoa** developers.
 * [Functional Swift Conference](http://2016.funswiftconf.com) | **October 1-2, 2016** | Budapest, Hungary
 * [Pragma Conference](http://pragmaconference.com) | **October 12-14, 2016** | Verona, Italy
 * [CocoaLove](http://cocoalove.org) | **October 14-16, 2016** | Philadelphia, Pennsylvania
+* [iOS Conf SG](http://iosconf.sg) | **October 20-21** | Singapore, Singapore
 
 ## Related to Cocoa or Mobile in general
 
