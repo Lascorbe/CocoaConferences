@@ -19,6 +19,7 @@ All-English conferences for **Cocoa** developers.
 * [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK
 * [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland
 * [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7)** | Cologne, Germany
+* [FrenchKit](http://frenchkit.fr/) | **September 22-23, 2017** | Paris, France
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
