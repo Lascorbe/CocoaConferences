@@ -68,7 +68,8 @@ All-English conferences for **Cocoa** developers.
 ## Related to Cocoa or Mobile in general
 
 ### 2017
-* [Craft Conference](http://craft-conf.com/2015) | **April 22-24, 2015** | Budapest, Hungary
+* [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia
+* [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary
 * [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland
 
 ### Has already happened...
