@@ -3,23 +3,18 @@ All-English conferences for **Cocoa** developers.
 
 ## Cocoa-only
 
-### 2016
-* [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5** | San Jose, California
-* [Swift Summit](http://www.swiftsummit.com) | **November 7-8** | San Francisco, California
-* [Swift alps](http://theswiftalps.com/) | **November 10-11** | Crans-Montana, Switzerland
-* [do {iOS}](http://do-ios.com/) | **November 15-16** | Amsterdam, The Netherlands
-
 ### 2017
 * [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France
 * [autoreleasepoolconf](http://www.autoreleasepoolconf.com) | **Feb 16-17** | San Juan, Puerto Rico
 * [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia
 * [Forward Swift](http://forwardswift.com) | **Feb 25 - March 5** | San Francisco, CA
+* [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan
 * [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA
+* [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA
 * [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK
 * [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK
-* [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland
 * [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7)** | Cologne, Germany
-* [FrenchKit](http://frenchkit.fr/) | **September 22-23, 2017** | Paris, France
+* [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France
 
 ### Has already happened...
 * [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia
@@ -39,14 +34,10 @@ All-English conferences for **Cocoa** developers.
 * [NSConference](http://nsconference.com/) | **March 16-18, 2015** | Leicester, UK
 * [CocoaConf Washington DC](http://cocoaconf.com/dc-2015/home) | **April 10-11, 2015** | Washington DC, USA
 * [CocoaConf PDX](http://cocoaconf.com/portland-2015/home) | **May 8-9, 2015** | Portland, OR
-* [Objective-Cologne](http://objcgn.com/) | **June 23-25, 2015** | Cologne, Germany
 * [/dev/world](http://2015.devworld.com.au/) | **August 31 - September 1, 2015** | Melbourne, Australia
 * [NSScotland](http://nsscotland.com/) | **October 23-25, 2015** | Edinburgh, UK
 * [MacTechConf](http://mactech.com/conference) | **November 4-6, 2015** | Los Angeles, California
 * [@Swift](http://atswift.io/index-en.html) | **January 10, 2016** | Beijing, China
-* [try! Swift](http://www.tryswiftconf.com/en) | **March 2-4, 2016** | Tokyo, Japan
-* [RWDevCon](http://www.rwdevcon.com/) | **March 11-12, 2016** | Washington DC, USA
-* [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 14-17, 2016** | Yosemite National Park, CA
 * [SwiftAveiro](https://attending.io/events/swiftaveiro/) | **March 20, 2016** | Aveiro, Portugal
 * [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26, 2016** | Chicago, IL
 * [iOS Remote Conf](https://allremoteconfs.com/ios-2016) | **April 13-1, 20165** | Remote
@@ -65,17 +56,20 @@ All-English conferences for **Cocoa** developers.
 * [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8, 2016** | Aberystwyth, UK
 * [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10, 2016** | Herndon, Virginia
 * [NSSpain](http://nsspain.com/) | **September 14-16, 2016** | Logroño, Spain
-* [FrenchKit](http://frenchkit.fr/) | **September 23-24, 2016** | Paris, France
 * [Functional Swift Conference](http://2016.funswiftconf.com) | **October 1-2, 2016** | Budapest, Hungary
 * [Pragma Conference](http://pragmaconference.com) | **October 12-14, 2016** | Verona, Italy
 * [CocoaLove](http://cocoalove.org) | **October 14-16, 2016** | Philadelphia, Pennsylvania
-* [iOS Conf SG](http://iosconf.sg) | **October 20-21** | Singapore, Singapore
+* [iOS Conf SG](http://iosconf.sg) | **October 20-21, 2016** | Singapore, Singapore
+* [CocoaConf San Jose](http://cocoaconf.com/sanjose-2016/home) | **November 4-5, 2016** | San Jose, California
+* [Swift Summit](http://www.swiftsummit.com) | **November 7-8, 2016** | San Francisco, California
+* [Swift alps](http://theswiftalps.com/) | **November 10-11, 2016** | Crans-Montana, Switzerland
+* [do {iOS}](http://do-ios.com/) | **November 15-16, 2016** | Amsterdam, The Netherlands
 
 ## Related to Cocoa or Mobile in general
 
-### 2016
-* [úll](http://2016.ull.ie/) | **November 1-2** | Killarney, Ireland
-* [Mobile Era](http://mobileera.rocks) | **November 3-4** | Oslo, Norway
+### 2017
+* [Craft Conference](http://craft-conf.com/2015) | **April 22-24, 2015** | Budapest, Hungary
+* [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland
 
 ### Has already happened...
 * [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin
@@ -85,16 +79,13 @@ All-English conferences for **Cocoa** developers.
 * [Çingleton](http://cingleton.com/) | **October 10-12, 2014** | Montreal, Canada
 * [Mobile March](http://mobilemarchtc.com/) | **March 26, 2015** | Minneapolis, Minnesota
 * [Istanbul Tech Talks](http://www.istanbultechtalks.com/) | **April 27, 2015** | Istanbul, Turkey
-* [Craft Conference](http://craft-conf.com/2015) | **April 22-24, 2015** | Budapest, Hungary
 * [#inspect](http://conference.rubymotion.com/) | **July 1-2, 2015** | Paris, Francia
 * [Hybrid Conf](http://hybridconf.net/) | **August 20-21, 2015** | Dubli, Ireland
 * [Mobiconf](http://www.mobiconf.org/) | **October 1-2, 2015** | Kraków, Poland
 * [Mobilization](http://mobilization.pl) | **October 17, 2015** | Łódź, Poland
-* [Release Notes](http://releasenotes.tv/conference/) | **October 21-23, 2015** | Indianapolis, IN
 * [mdevcon](http://mdevcon.com/) | **March 17-18, 2016** | Amsterdam, Netherlands
 * [MobCon Europe](http://mobcon.com/mobcon-europe/) | **April 10, 2016** | Sofia, Bulgaria
 * [MCE](http://mceconf.com) | **April 21-22, 2016** | Warsaw, Poland
-* [App Builders](https://appbuilders.ch) | **April 25-26, 2016** | Zürich, Switzerlands
 * [AppsWorld](http://www.apps-world.net/northamerica/) | **May 11-12, 2016** | Santa Clara, California
 * [ValioCon](http://valiocon.com/) | **May 19-22, 2016** | San Diego, California
 * [Layers](http://www.bringyourlayers.com/) | **June 13-15, 2016** | San Francisco, California
