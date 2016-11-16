@@ -17,6 +17,7 @@ All-English conferences for **Cocoa** developers. Index:
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA |
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK |
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK |
+| [UIKonf](http://www.uikonf.com/) | **May 14-17** | Kosmos, Berlin |
 | [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7)** | Cologne, Germany |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France |
 
