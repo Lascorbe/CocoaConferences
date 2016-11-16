@@ -1,13 +1,10 @@
-#iOS & macOS Developers Conferences
-All-English conferences for **Cocoa** developers. Index:
-- [Cocoa-only](#cocoa-only)
-- [Related to Cocoa or Mobile in general](#related-to-cocoa-or-mobile-in-general)
+All-English conferences for **Cocoa** developers.
+
+# 2017
 
 ## Cocoa-only
-
-### 2017
 | Name | Date | Place |
-| --- | :---: | --- |
+| --- | ---: | --- |
 | [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France |
 | [autoreleasepoolconf](http://www.autoreleasepoolconf.com) | **February 16-17** | San Juan, Puerto Rico |
 | [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia |
@@ -16,14 +13,23 @@ All-English conferences for **Cocoa** developers. Index:
 | [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA |
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA |
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK |
-| [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK |
 | [UIKonf](http://www.uikonf.com/) | **May 14-17** | Kosmos, Berlin |
 | [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7)** | Cologne, Germany |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France |
 
-### Has already happened... 
+## Related to Cocoa or Mobile in general
 | Name | Date | Place |
-| --- | :---: | --- |
+| --- | ---: | --- |
+| [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK |
+| [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia |
+| [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary |
+| [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland |
+
+# Has already happened... 
+
+## Cocoa-only
+| Name | Date | Place |
+| --- | ---: | --- |
 | [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia |
 | [CocoaConf Portland](http://cocoaconf.com/portland-2013/home) | **August 15-16, 2013** | Portland, Oregon |
 | [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany |
@@ -51,7 +57,6 @@ All-English conferences for **Cocoa** developers. Index:
 | [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16, 2016** | Austin, TX |
 | [NSNorth](http://nsnorth.ca/) | **April 28-30, 2016** | Toronto, Canada |
 | [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home) | **May 6-7, 2016** | Seattle, Washington |
-| [UIKonf](http://www.uikonf.com) | **May 22-25, 2016** | Berlin, Germany |
 | [AltConf](http://altconf.com/) | **June 13-17, 2016** | San Francisco, California |
 | [WWDC](https://developer.apple.com/wwdc/) | **June 13-17, 2016** | San Francisco, California |
 | [Swift With The Best](http://swift.withthebest.com) | **June 25, 2016** | Online |
@@ -73,15 +78,6 @@ All-English conferences for **Cocoa** developers. Index:
 | [do {iOS}](http://do-ios.com/) | **November 15-16, 2016** | Amsterdam, The Netherlands |
 
 ## Related to Cocoa or Mobile in general
-
-### 2017
-| Name | Date | Place |
-| --- | :---: | --- |
-| [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia |
-| [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary |
-| [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland |
-
-### Has already happened...
 | Name | Date | Place |
 | --- | :---: | --- |
 | [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin |
