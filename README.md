@@ -2,7 +2,7 @@ All-English conferences for **Cocoa** developers.
 
 # 2017
 
-## Cocoa-only
+### Cocoa-only
 | Name | Date | Place |
 | --- | ---: | --- |
 | [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France |
@@ -17,7 +17,7 @@ All-English conferences for **Cocoa** developers.
 | [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7)** | Cologne, Germany |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France |
 
-## Related to Cocoa or Mobile in general
+### Related to Cocoa or Mobile in general
 | Name | Date | Place |
 | --- | ---: | --- |
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK |
@@ -27,7 +27,7 @@ All-English conferences for **Cocoa** developers.
 
 # Has already happened... 
 
-## Cocoa-only
+### Cocoa-only
 | Name | Date | Place |
 | --- | ---: | --- |
 | [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia |
@@ -77,7 +77,7 @@ All-English conferences for **Cocoa** developers.
 | [Swift alps](http://theswiftalps.com/) | **November 10-11, 2016** | Crans-Montana, Switzerland |
 | [do {iOS}](http://do-ios.com/) | **November 15-16, 2016** | Amsterdam, The Netherlands |
 
-## Related to Cocoa or Mobile in general
+### Related to Cocoa or Mobile in general
 | Name | Date | Place |
 | --- | :---: | --- |
 | [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin |
