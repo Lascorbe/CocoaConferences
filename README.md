@@ -23,7 +23,7 @@ All-English conferences for **Cocoa** developers.
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK | - | - |
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [CfP](http://mobiusconf.com/en/callforpapers/) | **February 22** |
 | [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary | - | - |
-| [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [CfP](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) | **January 15th** |
+| [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [CfP](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) | **January 15** |
 
 # Has already happened... 
 
