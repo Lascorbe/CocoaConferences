@@ -3,27 +3,27 @@ All-English conferences for **Cocoa** developers.
 # 2017
 
 ### Cocoa-only
-| Name | Date | Place |
-| --- | ---: | --- |
-| [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France |
-| [autoreleasepoolconf](http://www.autoreleasepoolconf.com) | **February 16-17** | San Juan, Puerto Rico |
-| [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia |
-| [Forward Swift](http://forwardswift.com) | **February 25 - March 5** | San Francisco, CA |
-| [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan |
-| [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA |
-| [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA |
-| [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK |
-| [UIKonf](http://www.uikonf.com/) | **May 14-17** | Kosmos, Berlin |
-| [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7)** | Cologne, Germany |
-| [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France |
+| Name | Date | Place | CfP Link | CfP deadline |
+| --- | ---: | --- | --- | --- |
+| [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France | - | - |
+| [autoreleasepoolconf](http://www.autoreleasepoolconf.com) | **February 16-17** | San Juan, Puerto Rico | [CfP](http://www.autoreleasepoolconf.com/submission/) | ? |
+| [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia | - | - |
+| [Forward Swift](http://forwardswift.com) | **February 25 - March 5** | San Francisco, CA | [CfP](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) | **November 15, 2016** |
+| [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan | - | - |
+| [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA | - | - |
+| [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA | - | - |
+| [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK | - | - |
+| [UIKonf](http://www.uikonf.com/) | **May 14-17** | Kosmos, Berlin | - | - |
+| [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7)** | Cologne, Germany | - | - |
+| [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | - | - |
 
 ### Related to Cocoa or Mobile in general
-| Name | Date | Place |
-| --- | ---: | --- |
-| [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK |
-| [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia |
-| [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary |
-| [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland |
+| Name | Date | Place | CfP Link | CfP deadline |
+| --- | ---: | --- | --- | --- |
+| [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK | - | - |
+| [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [CfP](http://mobiusconf.com/en/callforpapers/) | **February 22** |
+| [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary | - | - |
+| [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [CfP](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) | **January 15th** |
 
 # Has already happened... 
 
