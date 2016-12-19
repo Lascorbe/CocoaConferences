@@ -1,0 +1,8 @@
+title: Cocoa Conferences
+description: List of cocoa conferences for iOS & macOS developers.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
