@@ -5,7 +5,7 @@ All-English conferences for **Cocoa** developers.
 ### Cocoa-only
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France | - |
+| [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France | [January 20 (Lightning Talks)](https://docs.google.com/forms/d/e/1FAIpQLSfDqimtjvuvHPhHf4ZEdqUQ2dKk0tXaZKXbp4TP3Ot0yEckcw/viewform?c=0&w=1) |
 | [autoreleasepoolconf](http://www.autoreleasepoolconf.com) | **February 16-17** | San Juan, Puerto Rico | [???](http://www.autoreleasepoolconf.com/submission/) |
 | [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia | - |
 | [Forward Swift](http://forwardswift.com) | **February 25 - March 5** | San Francisco, CA | [~~November 15, 2016~~](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) |
@@ -14,6 +14,7 @@ All-English conferences for **Cocoa** developers.
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA | - |
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK | [January 2](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#get_involved) |
 | [UIKonf](http://www.uikonf.com/) | **May 14-17** | Kosmos, Berlin | - |
+| [SwiftAveiro](https://twitter.com/SwiftAveiro) | **June 1-2** | Aveiro, Portugal | - |
 | [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7)** | Cologne, Germany | - |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | - |
 
@@ -24,6 +25,7 @@ All-English conferences for **Cocoa** developers.
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [February 22](http://mobiusconf.com/en/callforpapers/) |
 | [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary | - |
 | [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [January 15](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
+| [DEVit Web Conference](http://devitconf.org/) | **May 20-21** | Thessaloniki, Greece | [February 5](https://goo.gl/forms/GssucZClBUGvnXr62) |
 
 # Has already happened... 
 
