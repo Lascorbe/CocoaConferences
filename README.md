@@ -21,6 +21,7 @@ All-English conferences for **Cocoa** developers.
 ### Related to Cocoa or Mobile in general
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
+| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 16-16, 2017** | Amsterdam, Netherlands |
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK | - |
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [February 22](http://mobiusconf.com/en/callforpapers/) |
 | [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary | - |
