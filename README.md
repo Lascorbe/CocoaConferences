@@ -3,6 +3,7 @@ All-English conferences for **Cocoa** developers.
 # 2017
 
 ### Cocoa-only
+
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
 | [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France | [January 20 (Lightning Talks)](https://docs.google.com/forms/d/e/1FAIpQLSfDqimtjvuvHPhHf4ZEdqUQ2dKk0tXaZKXbp4TP3Ot0yEckcw/viewform?c=0&w=1) |
@@ -20,6 +21,7 @@ All-English conferences for **Cocoa** developers.
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | - |
 
 ### Related to Cocoa or Mobile in general
+
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
 | [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 16-16, 2017** | Amsterdam, Netherlands |
@@ -32,6 +34,7 @@ All-English conferences for **Cocoa** developers.
 # Has already happened... 
 
 ### Cocoa-only
+
 | Name | Date | Place |
 | --- | --- | --- |
 | [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia |
@@ -82,6 +85,7 @@ All-English conferences for **Cocoa** developers.
 | [do {iOS}](http://do-ios.com/) | **November 15-16, 2016** | Amsterdam, The Netherlands |
 
 ### Related to Cocoa or Mobile in general
+
 | Name | Date | Place |
 | --- | --- | --- |
 | [Snow*Mobile](http://2014.snow-mobile.org/) | **Feb 21-22, 2014** | Madison, Wisconsin |
@@ -104,6 +108,7 @@ All-English conferences for **Cocoa** developers.
 | [Release Notes](http://releasenotes.tv/conference/) | **September 27-29, 2016** | Indianapolis, IN |
 
 ### More
+
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
 
 If you want to add a conference to this list or edit the info, send a **pull request**, [ping me on twitter](https://twitter.com/lascorbe) or get in touch at [luis@nsspain.com](mailto:luis@nsspain.com). Thank you!
