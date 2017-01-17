@@ -16,6 +16,7 @@ All-English conferences for **Cocoa** developers.
 | [UIKonf](http://www.uikonf.com/) | **May 14-17** | Kosmos, Berlin | - |
 | [SwiftAveiro](https://twitter.com/SwiftAveiro) | **June 1-2** | Aveiro, Portugal | - |
 | [WoidKonf](http://www.woidkonf.com/) | **June 6-7** | Bavarian Forest, Germany | - |
+| [360iDev](http://360idev.com/) | **August 13-16** | Denver CO, USA | - |
 | [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7)** | Cologne, Germany | - |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | - |
 
