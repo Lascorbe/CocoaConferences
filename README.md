@@ -8,16 +8,16 @@ All-English conferences for **Cocoa** developers.
 | --- | --- | --- | --- |
 | [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France | [January 20 (Lightning Talks)](https://docs.google.com/forms/d/e/1FAIpQLSfDqimtjvuvHPhHf4ZEdqUQ2dKk0tXaZKXbp4TP3Ot0yEckcw/viewform?c=0&w=1) |
 | [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia | [February 6 (Lightning Talks)](http://www.playgroundscon.com/lightning-talks) |
-| [Forward Swift](http://forwardswift.com) | **February 25 - March 5** | San Francisco, CA | [~~November 15, 2016~~](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) |
+| [Forward Swift](http://forwardswift.com) | **February 25 - March 5** | San Francisco, CA, USA | [~~November 15, 2016~~](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) |
 | [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan | [~~January 16 (Lightning Talks)~~](https://docs.google.com/forms/d/e/1FAIpQLSegGV_wv8sczAUuEkCFlvJQ7iLbGUVEufRnMtZgEQ0lEw2fGg/viewform?c=0&w=1) |
-| [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA | - |
+| [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA, USA | - |
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA | - |
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK | [~~January 2~~](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#get_involved) |
 | [MCE](http://2017.mceconf.com/) | **May 8-9** | Warsw, Poland | - |
-| [UIKonf](http://www.uikonf.com/) | **May 14-17** | Kosmos, Berlin | - |
+| [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | - |
 | [SwiftAveiro](https://twitter.com/SwiftAveiro) | **June 1-2** | Aveiro, Portugal | - |
 | [WoidKonf](http://www.woidkonf.com/) | **June 6-7** | Bavarian Forest, Germany | - |
-| [360iDev](http://360idev.com/) | **August 13-16** | Denver CO, USA | - |
+| [360iDev](http://360idev.com/) | **August 13-16** | Denver, CO, USA | - |
 | [Swift Conf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [Deadline not specified](https://swiftconf.com/speaker/you/) |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | - |
 
