@@ -6,7 +6,6 @@ All-English conferences for **Cocoa** developers.
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
 | [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France | [January 20 (Lightning Talks)](https://docs.google.com/forms/d/e/1FAIpQLSfDqimtjvuvHPhHf4ZEdqUQ2dKk0tXaZKXbp4TP3Ot0yEckcw/viewform?c=0&w=1) |
-| [autoreleasepoolconf](http://www.autoreleasepoolconf.com) | **February 16-17** | San Juan, Puerto Rico | [???](http://www.autoreleasepoolconf.com/submission/) |
 | [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia | - |
 | [Forward Swift](http://forwardswift.com) | **February 25 - March 5** | San Francisco, CA | [~~November 15, 2016~~](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) |
 | [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan | - |
