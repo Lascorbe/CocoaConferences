@@ -7,12 +7,13 @@ All-English conferences for **Cocoa** developers.
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
 | [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France | [January 20 (Lightning Talks)](https://docs.google.com/forms/d/e/1FAIpQLSfDqimtjvuvHPhHf4ZEdqUQ2dKk0tXaZKXbp4TP3Ot0yEckcw/viewform?c=0&w=1) |
-| [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia | - |
+| [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia | [February 6 (Lightning Talks)](http://www.playgroundscon.com/lightning-talks) |
 | [Forward Swift](http://forwardswift.com) | **February 25 - March 5** | San Francisco, CA | [~~November 15, 2016~~](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) |
-| [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan | - |
+| [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan | [~~January 16 (Lightning Talks)~~](https://docs.google.com/forms/d/e/1FAIpQLSegGV_wv8sczAUuEkCFlvJQ7iLbGUVEufRnMtZgEQ0lEw2fGg/viewform?c=0&w=1) |
 | [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA | - |
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA | - |
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK | [~~January 2~~](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#get_involved) |
+| [MCE](http://2017.mceconf.com/) | **May 8-9** | Warsw, Poland | - |
 | [UIKonf](http://www.uikonf.com/) | **May 14-17** | Kosmos, Berlin | - |
 | [SwiftAveiro](https://twitter.com/SwiftAveiro) | **June 1-2** | Aveiro, Portugal | - |
 | [WoidKonf](http://www.woidkonf.com/) | **June 6-7** | Bavarian Forest, Germany | - |
@@ -24,7 +25,7 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 16-16, 2017** | Amsterdam, Netherlands |
+| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 16-16, 2017** | Amsterdam, Netherlands | [~~December 23~~](https://docs.google.com/forms/d/e/1FAIpQLSc_Jks4rXUhtY1FZG6dOdMXamVwSosgHgqgMxKVg7l8kIYdNQ/viewform) |
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK | - |
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [February 22](http://mobiusconf.com/en/callforpapers/) |
 | [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary | - |
