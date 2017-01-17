@@ -15,6 +15,7 @@ All-English conferences for **Cocoa** developers.
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK | [January 2](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#get_involved) |
 | [UIKonf](http://www.uikonf.com/) | **May 14-17** | Kosmos, Berlin | - |
 | [SwiftAveiro](https://twitter.com/SwiftAveiro) | **June 1-2** | Aveiro, Portugal | - |
+| [WoidKonf](http://www.woidkonf.com/) | **June 6-7** | Bavarian Forest, Germany | - |
 | [Swift Conf](http://www.swiftconf.com/) | **September (Probably 6-7)** | Cologne, Germany | - |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | - |
 
