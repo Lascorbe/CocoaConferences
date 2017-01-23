@@ -14,7 +14,7 @@ All-English conferences for **Cocoa** developers.
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA | - |
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK | [~~January 2~~](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#get_involved) |
 | [MCE](http://2017.mceconf.com/) | **May 8-9** | Warsw, Poland | - |
-| [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | [23 Jan - 15 Feb](http://cfp.uikonf.com/about) |
+| [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | [February 15](http://cfp.uikonf.com/about) |
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 1-2** | Aveiro, Portugal | - |
 | [WoidKonf](http://www.woidkonf.com/) | **June 6-7** | Bavarian Forest, Germany | - |
 | [360iDev](http://360idev.com/) | **August 13-16** | Denver, CO, USA | - |
