@@ -6,7 +6,7 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France | [January 20 (Lightning Talks)](https://docs.google.com/forms/d/e/1FAIpQLSfDqimtjvuvHPhHf4ZEdqUQ2dKk0tXaZKXbp4TP3Ot0yEckcw/viewform?c=0&w=1) |
+| [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France | [~~January 20 (Lightning Talks)~~](https://docs.google.com/forms/d/e/1FAIpQLSfDqimtjvuvHPhHf4ZEdqUQ2dKk0tXaZKXbp4TP3Ot0yEckcw/viewform?c=0&w=1) |
 | [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia | [February 6 (Lightning Talks)](http://www.playgroundscon.com/lightning-talks) |
 | [Forward Swift](http://forwardswift.com) | **February 25 - March 5** | San Francisco, CA, USA | [~~November 15, 2016~~](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) |
 | [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan | [~~January 16 (Lightning Talks)~~](https://docs.google.com/forms/d/e/1FAIpQLSegGV_wv8sczAUuEkCFlvJQ7iLbGUVEufRnMtZgEQ0lEw2fGg/viewform?c=0&w=1) |
@@ -29,7 +29,7 @@ All-English conferences for **Cocoa** developers.
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK | - |
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [February 22](http://mobiusconf.com/en/callforpapers/) |
 | [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary | - |
-| [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [January 18](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
+| [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [~~January 18~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
 | [DEVit Web Conference](http://devitconf.org/) | **May 20-21** | Thessaloniki, Greece | [February 5](https://goo.gl/forms/GssucZClBUGvnXr62) |
 | [Release Notes](https://2017.releasenotes.tv/) | **October 16-18** | Chicago, IL, USA | - |
 
