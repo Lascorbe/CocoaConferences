@@ -32,6 +32,7 @@ All-English conferences for **Cocoa** developers.
 | [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary | - |
 | [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [~~January 18~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
 | [DEVit Web Conference](http://devitconf.org/) | **May 20-21** | Thessaloniki, Greece | [February 5](https://goo.gl/forms/GssucZClBUGvnXr62) |
+| [ADDC](http://addconf.com/) | **June 22-23** | Barcelona, Spain | - |
 | [Release Notes](https://2017.releasenotes.tv/) | **October 16-18** | Chicago, IL, USA | - |
 
 # Has already happened... 
