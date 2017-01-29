@@ -6,7 +6,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France | [~~January 20 (Lightning Talks)~~](https://docs.google.com/forms/d/e/1FAIpQLSfDqimtjvuvHPhHf4ZEdqUQ2dKk0tXaZKXbp4TP3Ot0yEckcw/viewform?c=0&w=1) |
 | [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia | [February 6 (Lightning Talks)](http://www.playgroundscon.com/lightning-talks) |
 | [Forward Swift](http://forwardswift.com) | **February 25 - March 5** | San Francisco, CA, USA | [~~November 15, 2016~~](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) |
 | [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan | [~~January 16 (Lightning Talks)~~](https://docs.google.com/forms/d/e/1FAIpQLSegGV_wv8sczAUuEkCFlvJQ7iLbGUVEufRnMtZgEQ0lEw2fGg/viewform?c=0&w=1) |
@@ -87,6 +86,7 @@ All-English conferences for **Cocoa** developers.
 | [Swift Summit](http://www.swiftsummit.com) | **November 7-8, 2016** | San Francisco, California |
 | [Swift alps](http://theswiftalps.com/) | **November 10-11, 2016** | Crans-Montana, Switzerland |
 | [do {iOS}](http://do-ios.com/) | **November 15-16, 2016** | Amsterdam, The Netherlands |
+| [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France |
 
 ### Related to Cocoa or Mobile in general
 
