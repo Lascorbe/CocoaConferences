@@ -86,7 +86,7 @@ All-English conferences for **Cocoa** developers.
 | [Swift Summit](http://www.swiftsummit.com) | **November 7-8, 2016** | San Francisco, California |
 | [Swift alps](http://theswiftalps.com/) | **November 10-11, 2016** | Crans-Montana, Switzerland |
 | [do {iOS}](http://do-ios.com/) | **November 15-16, 2016** | Amsterdam, The Netherlands |
-| [dot Swift](http://www.dotswift.io) | **January 27** | Paris, France |
+| [dot Swift](http://www.dotswift.io) | **January 27, 2017** | Paris, France |
 
 ### Related to Cocoa or Mobile in general
 
