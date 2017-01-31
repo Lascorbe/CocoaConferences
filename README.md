@@ -41,7 +41,9 @@ All-English conferences for **Cocoa** developers.
 | Name | Date | Place |
 | --- | --- | --- |
 | [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia |
+| [Objective-Cologne](http://lanyrd.com/2012/objcgn/) | **September 11-12, 2012** | Cologne, Germany | 
 | [CocoaConf Portland](http://cocoaconf.com/portland-2013/home) | **August 15-16, 2013** | Portland, Oregon |
+| [Objective-Cologne](http://lanyrd.com/2013/objcgn/) | **September 17-19, 2013** | Cologne, Germany | 
 | [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany |
 | [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK |
 | [Renaissance](http://renaissance.io/2014) | **January 29-31, 2014** | San Francisco, California |
@@ -57,13 +59,14 @@ All-English conferences for **Cocoa** developers.
 | [NSConference](http://nsconference.com/) | **March 16-18, 2015** | Leicester, UK |
 | [CocoaConf Washington DC](http://cocoaconf.com/dc-2015/home) | **April 10-11, 2015** | Washington DC, USA |
 | [CocoaConf PDX](http://cocoaconf.com/portland-2015/home) | **May 8-9, 2015** | Portland, OR |
+| [Swift Conf / Objective-Cologne](http://www.objcgn.com/) | **June 23-25, 2015** | Cologne, Germany | 
 | [/dev/world](http://2015.devworld.com.au/) | **August 31 - September 1, 2015** | Melbourne, Australia |
 | [NSScotland](http://nsscotland.com/) | **October 23-25, 2015** | Edinburgh, UK |
 | [MacTechConf](http://mactech.com/conference) | **November 4-6, 2015** | Los Angeles, California |
 | [@Swift](http://atswift.io/index-en.html) | **January 10, 2016** | Beijing, China |
 | [SwiftAveiro](https://attending.io/events/swiftaveiro/) | **March 20, 2016** | Aveiro, Portugal |
 | [CocoaConf Chicago](http://cocoaconf.com/chicago-2016/home) | **March 25–26, 2016** | Chicago, IL |
-| [iOS Remote Conf](https://allremoteconfs.com/ios-2016) | **April 13-1, 20165** | Remote |
+| [iOS Remote Conf](https://allremoteconfs.com/ios-2016) | **April 13-1, 2016** | Remote |
 | [CocoaConf Austin](http://cocoaconf.com/austin-2016/home) | **April 15-16, 2016** | Austin, TX |
 | [NSNorth](http://nsnorth.ca/) | **April 28-30, 2016** | Toronto, Canada |
 | [CocoaConf Seattle](http://cocoaconf.com/seattle-2016/home) | **May 6-7, 2016** | Seattle, Washington |
@@ -76,6 +79,7 @@ All-English conferences for **Cocoa** developers.
 | [360\|iDev](http://360idev.com/) | **August 21-24, 2016** | Denver, Colorado |
 | [try! Swift NYC](http://www.tryswiftnyc.com) | **September 1-2, 2016** | New York, New York |
 | [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8, 2016** | Aberystwyth, UK |
+| [Swift Conf](http://www.swiftconf.com/) | **September 7-8, 2016** | Cologne, Germany | 
 | [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10, 2016** | Herndon, Virginia |
 | [NSSpain](http://nsspain.com/) | **September 14-16, 2016** | Logroño, Spain |
 | [Functional Swift Conference](http://2016.funswiftconf.com) | **October 1-2, 2016** | Budapest, Hungary |
