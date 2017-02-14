@@ -27,7 +27,7 @@ All-English conferences for **Cocoa** developers.
 | [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 16-16, 2017** | Amsterdam, Netherlands | [~~December 23~~](https://docs.google.com/forms/d/e/1FAIpQLSc_Jks4rXUhtY1FZG6dOdMXamVwSosgHgqgMxKVg7l8kIYdNQ/viewform) |
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK | - |
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [February 22](http://mobiusconf.com/en/callforpapers/) |
-| [Craft Conference](http://craft-conf.com) | **April 22-24** | Budapest, Hungary | - |
+| [Craft Conference](http://craft-conf.com) | **April 2-28** | Budapest, Hungary | - |
 | [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [~~January 18~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
 | [MCE](http://2017.mceconf.com/) | **May 8-9** | Warsw, Poland | - |
 | [DEVit Web Conference](http://devitconf.org/) | **May 20-21** | Thessaloniki, Greece | [~~February 5~~](https://goo.gl/forms/GssucZClBUGvnXr62) |
