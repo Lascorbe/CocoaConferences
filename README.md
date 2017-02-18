@@ -6,14 +6,14 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia | [February 6 (Lightning Talks)](http://www.playgroundscon.com/lightning-talks) |
+| [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia | [~~February 6 (Lightning Talks)~~](http://www.playgroundscon.com/lightning-talks) |
 | [Forward Swift](http://forwardswift.com) | **February 25 - March 5** | San Francisco, CA, USA | [~~November 15, 2016~~](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) |
 | [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan | [~~January 16 (Lightning Talks)~~](https://docs.google.com/forms/d/e/1FAIpQLSegGV_wv8sczAUuEkCFlvJQ7iLbGUVEufRnMtZgEQ0lEw2fGg/viewform?c=0&w=1) |
 | [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA, USA | - |
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA | - |
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK | [~~January 2~~](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#get_involved) |
 | [Functional Swift Conference](http://2017.funswiftconf.com/) | **April 15** | New York, NY, USA | [Deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSd9M6CqjFbybRcxxglgdi31lUokReygz0wcjHkJkIpl7uYKMQ/viewform?c=0&w=1) |
-| [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | [February 15](http://cfp.uikonf.com/about) |
+| [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | [~~February 15~~](http://cfp.uikonf.com/about) |
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 1-2** | Aveiro, Portugal | - |
 | [WWDC](https://developer.apple.com/wwdc/) | **June 5-9** | San Jose, California, USA | - |
 | [WoidKonf](http://www.woidkonf.com/) | **June 6-7** | Bavarian Forest, Germany | - |
@@ -116,6 +116,7 @@ All-English conferences for **Cocoa** developers.
 | [ValioCon](http://valiocon.com/) | **May 19-22, 2016** | San Diego, California |
 | [Layers](http://www.bringyourlayers.com/) | **June 13-15, 2016** | San Francisco, California |
 | [Release Notes](http://releasenotes.tv/conference/) | **September 27-29, 2016** | Indianapolis, IN |
+| [MobOS](http://romobos.com/) | **February 16-17, 2017** | Cluj-Napoca, Romania |
 
 ### More
 
