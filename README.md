@@ -26,7 +26,8 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 16-16, 2017** | Amsterdam, Netherlands | [~~December 23~~](https://docs.google.com/forms/d/e/1FAIpQLSc_Jks4rXUhtY1FZG6dOdMXamVwSosgHgqgMxKVg7l8kIYdNQ/viewform) |
+| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 16-17** | Amsterdam, Netherlands | [~~December 23~~](https://docs.google.com/forms/d/e/1FAIpQLSc_Jks4rXUhtY1FZG6dOdMXamVwSosgHgqgMxKVg7l8kIYdNQ/viewform) |
+| [Úll](http://2017.ull.ie/) | **April 10-11** | Killarney, Ireland|
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK | - |
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [February 22](http://mobiusconf.com/en/callforpapers/) |
 | [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [~~January 18~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
