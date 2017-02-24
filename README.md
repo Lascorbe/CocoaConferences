@@ -6,8 +6,7 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Playgrounds](http://www.playgroundscon.com) | **February 23-24** | Melbourne, Australia | [~~February 6 (Lightning Talks)~~](http://www.playgroundscon.com/lightning-talks) |
-| [Forward Swift](http://forwardswift.com) | **February 25 - March 5** | San Francisco, CA, USA | [~~November 15, 2016~~](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) |
+| [Forward Swift](http://forwardswift.com) | **February 25 - March 4** | San Francisco, CA, USA | [~~November 15, 2016~~](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) |
 | [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan | [~~January 16 (Lightning Talks)~~](https://docs.google.com/forms/d/e/1FAIpQLSegGV_wv8sczAUuEkCFlvJQ7iLbGUVEufRnMtZgEQ0lEw2fGg/viewform?c=0&w=1) |
 | [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA, USA | - |
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA | - |
@@ -29,7 +28,7 @@ All-English conferences for **Cocoa** developers.
 | [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 16-17** | Amsterdam, Netherlands | [~~December 23~~](https://docs.google.com/forms/d/e/1FAIpQLSc_Jks4rXUhtY1FZG6dOdMXamVwSosgHgqgMxKVg7l8kIYdNQ/viewform) |
 | [Úll](http://2017.ull.ie/) | **April 10-11** | Killarney, Ireland|
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK | - |
-| [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [February 22](http://mobiusconf.com/en/callforpapers/) |
+| [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [~~February 22~~](http://mobiusconf.com/en/callforpapers/) |
 | [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [~~January 18~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
 | [Craft Conference](http://craft-conf.com) | **April 25-28** | Budapest, Hungary | - |
 | [MCE](http://2017.mceconf.com/) | **May 8-9** | Warsw, Poland | - |
@@ -94,6 +93,7 @@ All-English conferences for **Cocoa** developers.
 | [Swift alps](http://theswiftalps.com/) | **November 10-11, 2016** | Crans-Montana, Switzerland |
 | [do {iOS}](http://do-ios.com/) | **November 15-16, 2016** | Amsterdam, The Netherlands |
 | [dot Swift](http://www.dotswift.io) | **January 27, 2017** | Paris, France |
+| [Playgrounds](http://www.playgroundscon.com) | **February 23-24, 2017** | Melbourne, Australia |
 
 ### Related to Cocoa or Mobile in general
 
