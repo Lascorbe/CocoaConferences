@@ -6,8 +6,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Forward Swift](http://forwardswift.com) | **February 25 - March 4** | San Francisco, CA, USA | [~~November 15, 2016~~](https://docs.google.com/forms/d/e/1FAIpQLScqpQENdBSW6HNHCjpcXuCDrjBEyPPd1g7bEN_MK8KxacAFwg/viewform?c=0&w=1) |
-| [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4** | Tokyo, Japan | [~~January 16 (Lightning Talks)~~](https://docs.google.com/forms/d/e/1FAIpQLSegGV_wv8sczAUuEkCFlvJQ7iLbGUVEufRnMtZgEQ0lEw2fGg/viewform?c=0&w=1) |
 | [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA, USA | - |
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA | - |
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK | [~~January 2~~](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#get_involved) |
@@ -94,6 +92,8 @@ All-English conferences for **Cocoa** developers.
 | [do {iOS}](http://do-ios.com/) | **November 15-16, 2016** | Amsterdam, The Netherlands |
 | [dot Swift](http://www.dotswift.io) | **January 27, 2017** | Paris, France |
 | [Playgrounds](http://www.playgroundscon.com) | **February 23-24, 2017** | Melbourne, Australia |
+| [Forward Swift](http://forwardswift.com) | **February 25 - March 4, 2017** | San Francisco, CA, USA |
+| [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4, 2017** | Tokyo, Japan |
 
 ### Related to Cocoa or Mobile in general
 
