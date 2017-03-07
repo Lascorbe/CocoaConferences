@@ -17,7 +17,7 @@ All-English conferences for **Cocoa** developers.
 | [360iDev](http://360idev.com/) | **August 13-16** | Denver, CO, USA | - |
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 4-7** | Aberystwyth, Wales, UK | - |
 | [SwiftConf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [Deadline not specified](https://swiftconf.com/speaker/you/) |
-| [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | - |
+| [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [April 6](https://www.papercall.io/frenchkit-2017) |
 
 ### Related to Cocoa or Mobile in general
 
