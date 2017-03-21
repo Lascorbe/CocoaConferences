@@ -31,6 +31,7 @@ All-English conferences for **Cocoa** developers.
 | [MCE](http://2017.mceconf.com/) | **May 8-9** | Warsw, Poland | - |
 | [DEVit Web Conference](http://devitconf.org/) | **May 20-21** | Thessaloniki, Greece | [~~February 5~~](https://goo.gl/forms/GssucZClBUGvnXr62) |
 | [App Design & Development Conference](http://addconf.com/) | **June 22-23** | Barcelona, Spain | [~~March 15~~](http://addconf.com/call_for_papers/) |
+| [Mobile Era](https://mobileera.rocks/) | **October 5-6** | Oslo, Norway | [May 15](https://mobileera.rocks/news/posts/c4p-time/) |
 | [Release Notes](https://2017.releasenotes.tv/) | **October 16-18** | Chicago, IL, USA | - |
 
 # Has already happened... 
