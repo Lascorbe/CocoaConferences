@@ -18,6 +18,8 @@ All-English conferences for **Cocoa** developers.
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 4-7** | Aberystwyth, Wales, UK | - |
 | [SwiftConf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [Deadline not specified](https://swiftconf.com/speaker/you/) |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [April 6](https://www.papercall.io/frenchkit-2017) |
+| [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | **September** | New York City, USA | - |
+| [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 15-17** | Bangalore, India | - |
 
 ### Related to Cocoa or Mobile in general
 
@@ -93,7 +95,7 @@ All-English conferences for **Cocoa** developers.
 | [dot Swift](http://www.dotswift.io) | **January 27, 2017** | Paris, France |
 | [Playgrounds](http://www.playgroundscon.com) | **February 23-24, 2017** | Melbourne, Australia |
 | [Forward Swift](http://forwardswift.com) | **February 25 - March 4, 2017** | San Francisco, CA, USA |
-| [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4, 2017** | Tokyo, Japan |
+| [try! Swift Tokyo](https://www.tryswift.co/tokyo/en) | **March 2-4, 2017** | Tokyo, Japan |
 
 ### Related to Cocoa or Mobile in general
 
