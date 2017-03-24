@@ -18,6 +18,8 @@ All-English conferences for **Cocoa** developers.
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 4-7** | Aberystwyth, Wales, UK | - |
 | [SwiftConf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [Deadline not specified](https://swiftconf.com/speaker/you/) |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [April 6](https://www.papercall.io/frenchkit-2017) |
+| [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | **September** | New York City, USA | - |
+| [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November** | Bangalore, India | - |
 
 ### Related to Cocoa or Mobile in general
 
