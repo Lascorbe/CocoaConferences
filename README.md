@@ -17,6 +17,7 @@ All-English conferences for **Cocoa** developers.
 | [360iDev](http://360idev.com/) | **August 13-16** | Denver, CO, USA | - |
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 4-7** | Aberystwyth, Wales, UK | - |
 | [SwiftConf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [Deadline not specified](https://swiftconf.com/speaker/you/) |
+| [NSSpain](http://nsspain.com/) | **September 13-15** | Logroño, Spain | - |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [April 6](https://www.papercall.io/frenchkit-2017) |
 | [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | **September** | New York City, USA | - |
 | [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 15-17** | Bangalore, India | - |
@@ -36,16 +37,16 @@ All-English conferences for **Cocoa** developers.
 | [Mobile Era](https://mobileera.rocks/) | **October 5-6** | Oslo, Norway | [May 15](https://mobileera.rocks/news/posts/c4p-time/) |
 | [Release Notes](https://2017.releasenotes.tv/) | **October 16-18** | Chicago, IL, USA | - |
 
-# Has already happened... 
+# Has already happened...
 
 ### Cocoa-only
 
 | Name | Date | Place |
 | --- | --- | --- |
 | [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | Sydney, Australia |
-| [Objective-Cologne](http://lanyrd.com/2012/objcgn/) | **September 11-12, 2012** | Cologne, Germany | 
+| [Objective-Cologne](http://lanyrd.com/2012/objcgn/) | **September 11-12, 2012** | Cologne, Germany |
 | [CocoaConf Portland](http://cocoaconf.com/portland-2013/home) | **August 15-16, 2013** | Portland, Oregon |
-| [Objective-Cologne](http://lanyrd.com/2013/objcgn/) | **September 17-19, 2013** | Cologne, Germany | 
+| [Objective-Cologne](http://lanyrd.com/2013/objcgn/) | **September 17-19, 2013** | Cologne, Germany |
 | [Alt Tech Talks Berlin](http://www.alt-tech-talks.com) | **December 11, 2013** | Berlin, Germany |
 | [Alt Tech Talks London](http://www.alttechtalks.com) | **December 16, 2013** | London, UK |
 | [Renaissance](http://renaissance.io/2014) | **January 29-31, 2014** | San Francisco, California |
@@ -61,7 +62,7 @@ All-English conferences for **Cocoa** developers.
 | [NSConference](http://nsconference.com/) | **March 16-18, 2015** | Leicester, UK |
 | [CocoaConf Washington DC](http://cocoaconf.com/dc-2015/home) | **April 10-11, 2015** | Washington DC, USA |
 | [CocoaConf PDX](http://cocoaconf.com/portland-2015/home) | **May 8-9, 2015** | Portland, OR |
-| [Swift Conf / Objective-Cologne](http://www.objcgn.com/) | **June 23-25, 2015** | Cologne, Germany | 
+| [Swift Conf / Objective-Cologne](http://www.objcgn.com/) | **June 23-25, 2015** | Cologne, Germany |
 | [/dev/world](http://2015.devworld.com.au/) | **August 31 - September 1, 2015** | Melbourne, Australia |
 | [NSScotland](http://nsscotland.com/) | **October 23-25, 2015** | Edinburgh, UK |
 | [MacTechConf](http://mactech.com/conference) | **November 4-6, 2015** | Los Angeles, California |
@@ -81,9 +82,8 @@ All-English conferences for **Cocoa** developers.
 | [360\|iDev](http://360idev.com/) | **August 21-24, 2016** | Denver, Colorado |
 | [try! Swift NYC](http://www.tryswiftnyc.com) | **September 1-2, 2016** | New York, New York |
 | [iOS Dev UK](http://www.iosdevuk.com/) | **September 5-8, 2016** | Aberystwyth, UK |
-| [Swift Conf](http://www.swiftconf.com/) | **September 7-8, 2016** | Cologne, Germany | 
+| [Swift Conf](http://www.swiftconf.com/) | **September 7-8, 2016** | Cologne, Germany |
 | [CocoaConf DC](http://cocoaconf.com/dc-2016/home) | **September 9-10, 2016** | Herndon, Virginia |
-| [NSSpain](http://nsspain.com/) | **September 14-16, 2016** | Logroño, Spain |
 | [Functional Swift Conference](http://2016.funswiftconf.com) | **October 1-2, 2016** | Budapest, Hungary |
 | [Pragma Conference](http://pragmaconference.com) | **October 12-14, 2016** | Verona, Italy |
 | [CocoaLove](http://cocoalove.org) | **October 14-16, 2016** | Philadelphia, Pennsylvania |
