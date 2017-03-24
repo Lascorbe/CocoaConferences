@@ -95,7 +95,7 @@ All-English conferences for **Cocoa** developers.
 | [dot Swift](http://www.dotswift.io) | **January 27, 2017** | Paris, France |
 | [Playgrounds](http://www.playgroundscon.com) | **February 23-24, 2017** | Melbourne, Australia |
 | [Forward Swift](http://forwardswift.com) | **February 25 - March 4, 2017** | San Francisco, CA, USA |
-| [try! Swift](https://www.tryswift.co/tokyo/en) | **March 2-4, 2017** | Tokyo, Japan |
+| [try! Swift Tokyo](https://www.tryswift.co/tokyo/en) | **March 2-4, 2017** | Tokyo, Japan |
 
 ### Related to Cocoa or Mobile in general
 
