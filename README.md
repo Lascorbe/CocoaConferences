@@ -19,7 +19,7 @@ All-English conferences for **Cocoa** developers.
 | [SwiftConf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [Deadline not specified](https://swiftconf.com/speaker/you/) |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [April 6](https://www.papercall.io/frenchkit-2017) |
 | [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | **September** | New York City, USA | - |
-| [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November** | Bangalore, India | - |
+| [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 15-17** | Bangalore, India | - |
 
 ### Related to Cocoa or Mobile in general
 
