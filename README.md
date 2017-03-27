@@ -6,7 +6,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23** | National Park, CA, USA | - |
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA | - |
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK | [~~January 2~~](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#get_involved) |
 | [Functional Swift Conference](http://2017.funswiftconf.com/) | **April 15** | New York, NY, USA | [Deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSd9M6CqjFbybRcxxglgdi31lUokReygz0wcjHkJkIpl7uYKMQ/viewform?c=0&w=1) |
@@ -96,6 +95,7 @@ All-English conferences for **Cocoa** developers.
 | [Playgrounds](http://www.playgroundscon.com) | **February 23-24, 2017** | Melbourne, Australia |
 | [Forward Swift](http://forwardswift.com) | **February 25 - March 4, 2017** | San Francisco, CA, USA |
 | [try! Swift Tokyo](https://www.tryswift.co/tokyo/en) | **March 2-4, 2017** | Tokyo, Japan |
+| [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23, 2017** | National Park, CA, USA |
 
 ### Related to Cocoa or Mobile in general
 
