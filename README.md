@@ -15,10 +15,10 @@ All-English conferences for **Cocoa** developers.
 | [WoidKonf](http://www.woidkonf.com/) | **June 6-7** | Bavarian Forest, Germany | - |
 | [360iDev](http://360idev.com/) | **August 13-16** | Denver, CO, USA | - |
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 4-7** | Aberystwyth, Wales, UK | - |
+| [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | **September 5-6** | New York City, USA | - |
 | [SwiftConf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [Deadline not specified](https://swiftconf.com/speaker/you/) |
 | [NSSpain](http://nsspain.com/) | **September 13-15** | Logroño, Spain | - |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [April 6](https://www.papercall.io/frenchkit-2017) |
-| [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | **September** | New York City, USA | - |
 | [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 15-17** | Bangalore, India | - |
 
 ### Related to Cocoa or Mobile in general
