@@ -7,7 +7,6 @@ All-English conferences for **Cocoa** developers.
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA | - |
-| [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK | [~~January 2~~](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#get_involved) |
 | [Functional Swift Conference](http://2017.funswiftconf.com/) | **April 15** | New York, NY, USA | [~~Deadline not specified~~](https://docs.google.com/forms/d/e/1FAIpQLSd9M6CqjFbybRcxxglgdi31lUokReygz0wcjHkJkIpl7uYKMQ/viewform?c=0&w=1) |
 | [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | [~~February 15~~](http://cfp.uikonf.com/about) |
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 1-2** | Aveiro, Portugal | - |
@@ -20,6 +19,7 @@ All-English conferences for **Cocoa** developers.
 | [NSSpain](http://nsspain.com/) | **September 13-15** | Logroño, Spain | - |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [April 6](https://www.papercall.io/frenchkit-2017) |
 | [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 15-17** | Bangalore, India | - |
+| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23** | London, UK | [TBD: January 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
 
 ### Related to Cocoa or Mobile in general
 
@@ -96,6 +96,7 @@ All-English conferences for **Cocoa** developers.
 | [Forward Swift](http://forwardswift.com) | **February 25 - March 4, 2017** | San Francisco, CA, USA |
 | [try! Swift Tokyo](https://www.tryswift.co/tokyo/en) | **March 2-4, 2017** | Tokyo, Japan |
 | [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23, 2017** | National Park, CA, USA |
+| [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK |
 
 ### Related to Cocoa or Mobile in general
 
