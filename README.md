@@ -6,7 +6,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1** | Washington DC, USA | - |
 | [Functional Swift Conference](http://2017.funswiftconf.com/) | **April 15** | New York, NY, USA | [~~Deadline not specified~~](https://docs.google.com/forms/d/e/1FAIpQLSd9M6CqjFbybRcxxglgdi31lUokReygz0wcjHkJkIpl7uYKMQ/viewform?c=0&w=1) |
 | [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | [~~February 15~~](http://cfp.uikonf.com/about) |
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 1-2** | Aveiro, Portugal | - |
@@ -98,6 +97,7 @@ All-English conferences for **Cocoa** developers.
 | [try! Swift Tokyo](https://www.tryswift.co/tokyo/en) | **March 2-4, 2017** | Tokyo, Japan |
 | [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23, 2017** | National Park, CA, USA |
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK |
+| [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1, 2017** | Washington DC, USA |
 
 ### Related to Cocoa or Mobile in general
 
