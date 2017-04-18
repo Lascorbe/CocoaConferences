@@ -6,7 +6,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Functional Swift Conference](http://2017.funswiftconf.com/) | **April 15** | New York, NY, USA | [~~Deadline not specified~~](https://docs.google.com/forms/d/e/1FAIpQLSd9M6CqjFbybRcxxglgdi31lUokReygz0wcjHkJkIpl7uYKMQ/viewform?c=0&w=1) |
 | [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | [~~February 15~~](http://cfp.uikonf.com/about) |
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 1-2** | Aveiro, Portugal | - |
 | [WWDC](https://developer.apple.com/wwdc/) | **June 5-9** | San Jose, CA, USA | - |
@@ -25,7 +24,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Úll](http://2017.ull.ie/) | **April 10-11** | Killarney, Ireland|
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK | - |
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [~~February 22~~](http://mobiusconf.com/en/callforpapers/) |
 | [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [~~January 18~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
@@ -98,6 +96,7 @@ All-English conferences for **Cocoa** developers.
 | [CocoaConf Yosemite](http://cocoaconf.com/yosemite) | **March 20-23, 2017** | National Park, CA, USA |
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK |
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1, 2017** | Washington DC, USA |
+| [Functional Swift Conference](http://2017.funswiftconf.com/) | **April 15, 2017** | New York, NY, USA |
 
 ### Related to Cocoa or Mobile in general
 
@@ -123,6 +122,7 @@ All-English conferences for **Cocoa** developers.
 | [Release Notes](http://releasenotes.tv/conference/) | **September 27-29, 2016** | Indianapolis, IN |
 | [MobOS](http://romobos.com/) | **February 16-17, 2017** | Cluj-Napoca, Romania |
 | [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 16-17, 2017** | Amsterdam, Netherlands |
+| [Úll](http://2017.ull.ie/) | **April 10-11, 2017** | Killarney, Ireland|
 
 ### More
 
