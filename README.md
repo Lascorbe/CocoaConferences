@@ -24,7 +24,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Code Mobile](http://www.codemobile.co.uk) | **April 17-20** | Chester, UK | - |
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [~~February 22~~](http://mobiusconf.com/en/callforpapers/) |
 | [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [~~January 18~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
 | [Craft Conference](http://craft-conf.com) | **April 25-28** | Budapest, Hungary | - |
@@ -97,6 +96,7 @@ All-English conferences for **Cocoa** developers.
 | [iOSCon 2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers) | **March 30-31** | London, UK |
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1, 2017** | Washington DC, USA |
 | [Functional Swift Conference](http://2017.funswiftconf.com/) | **April 15, 2017** | New York, NY, USA |
+| [Code Mobile](http://www.codemobile.co.uk) | **April 17-20, 2017** | Chester, UK |
 
 ### Related to Cocoa or Mobile in general
 
