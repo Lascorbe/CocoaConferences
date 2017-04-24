@@ -24,7 +24,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22** | Saint-Petersburg, Russia | [~~February 22~~](http://mobiusconf.com/en/callforpapers/) |
 | [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [~~January 18~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
 | [Craft Conference](http://craft-conf.com) | **April 25-28** | Budapest, Hungary | - |
 | [MCE](http://2017.mceconf.com/) | **May 8-9** | Warsw, Poland | - |
@@ -123,6 +122,7 @@ All-English conferences for **Cocoa** developers.
 | [MobOS](http://romobos.com/) | **February 16-17, 2017** | Cluj-Napoca, Romania |
 | [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 16-17, 2017** | Amsterdam, Netherlands |
 | [Úll](http://2017.ull.ie/) | **April 10-11, 2017** | Killarney, Ireland|
+| [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22, 2017** | Saint-Petersburg, Russia |
 
 ### More
 
