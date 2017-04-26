@@ -18,13 +18,13 @@ All-English conferences for **Cocoa** developers.
 | [NSSpain](http://nsspain.com/) | **September 13-15** | Logroño, Spain | - |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [~~April 6~~](https://www.papercall.io/frenchkit-2017) |
 | [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 16-17** | Bangalore, India | - |
+| [Swift Apls](http://theswiftalps.com/) | **November 23-24** | Crans-Montana, Switzerland | - |
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23** | London, UK | [TBD: January 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
 
 ### Related to Cocoa or Mobile in general
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [App Builders](http://www.appbuilders.ch) | **April 24-25** | Lausanne, Switzerland | [~~January 18~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
 | [Craft Conference](http://craft-conf.com) | **April 25-28** | Budapest, Hungary | - |
 | [MCE](http://2017.mceconf.com/) | **May 8-9** | Warsw, Poland | - |
 | [DEVit Web Conference](http://devitconf.org/) | **May 20-21** | Thessaloniki, Greece | [~~February 5~~](https://goo.gl/forms/GssucZClBUGvnXr62) |
@@ -124,6 +124,7 @@ All-English conferences for **Cocoa** developers.
 | [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 16-17, 2017** | Amsterdam, Netherlands |
 | [Úll](http://2017.ull.ie/) | **April 10-11, 2017** | Killarney, Ireland|
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22, 2017** | Saint-Petersburg, Russia |
+| [App Builders](http://www.appbuilders.ch) | **April 24-25, 2017** | Lausanne, Switzerland |
 
 ### More
 
