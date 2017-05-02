@@ -1,5 +1,14 @@
 All-English conferences for **Cocoa** developers.
 
+# 2018
+
+### Cocoa-only
+
+| Name | Date | Place | CfP deadline |
+| --- | --- | --- | --- |
+| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23** | London, UK | [TBD: January 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
+
+
 # 2017
 
 ### Cocoa-only
@@ -17,15 +26,14 @@ All-English conferences for **Cocoa** developers.
 | [SwiftConf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [Deadline not specified](https://swiftconf.com/speaker/you/) |
 | [NSSpain](http://nsspain.com/) | **September 13-15** | Logroño, Spain | - |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [~~April 6~~](https://www.papercall.io/frenchkit-2017) |
+| [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | Verona, Italy | - |
 | [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 16-17** | Bangalore, India | - |
 | [Swift Alps](http://theswiftalps.com/) | **November 23-24** | Crans-Montana, Switzerland | - |
-| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23** | London, UK | [TBD: January 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
 
 ### Related to Cocoa or Mobile in general
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Craft Conference](http://craft-conf.com) | **April 25-28** | Budapest, Hungary | - |
 | [MCE](http://2017.mceconf.com/) | **May 8-9** | Warsw, Poland | - |
 | [DEVit Web Conference](http://devitconf.org/) | **May 20-21** | Thessaloniki, Greece | [~~February 5~~](https://goo.gl/forms/GssucZClBUGvnXr62) |
 | [App Design & Development Conference](http://addconf.com/) | **June 22-23** | Barcelona, Spain | [~~March 15~~](http://addconf.com/call_for_papers/) |
@@ -125,6 +133,7 @@ All-English conferences for **Cocoa** developers.
 | [Úll](http://2017.ull.ie/) | **April 10-11, 2017** | Killarney, Ireland|
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22, 2017** | Saint-Petersburg, Russia |
 | [App Builders](http://www.appbuilders.ch) | **April 24-25, 2017** | Lausanne, Switzerland |
+| [Craft Conference](http://craft-conf.com) | **April 25-28, 2017** | Budapest, Hungary | - |
 
 ### More
 
