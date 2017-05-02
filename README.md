@@ -26,6 +26,7 @@ All-English conferences for **Cocoa** developers.
 | [SwiftConf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [Deadline not specified](https://swiftconf.com/speaker/you/) |
 | [NSSpain](http://nsspain.com/) | **September 13-15** | Logroño, Spain | - |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [~~April 6~~](https://www.papercall.io/frenchkit-2017) |
+| [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | Verona, Italy | - |
 | [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 16-17** | Bangalore, India | - |
 | [Swift Apls](http://theswiftalps.com/) | **November 23-24** | Crans-Montana, Switzerland | - |
 
