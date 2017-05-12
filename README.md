@@ -18,7 +18,7 @@ All-English conferences for **Cocoa** developers.
 | [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | [~~February 15~~](http://cfp.uikonf.com/about) |
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 1-2** | Aveiro, Portugal | - |
 | [WWDC](https://developer.apple.com/wwdc/) | **June 5-9** | San Jose, CA, USA | - |
-| [AltConf](http://altconf.com/) | **June 5-8** | San Jose, CA, USA | [April 26](https://docs.google.com/forms/d/e/1FAIpQLSc9iVVOi6yMZDl_86oxokNk7rONWWcKhTO3uXFF1mZczewZ8w/viewform) |
+| [AltConf](http://altconf.com/) | **June 5-8** | San Jose, CA, USA | [~~April 26~~](https://docs.google.com/forms/d/e/1FAIpQLSc9iVVOi6yMZDl_86oxokNk7rONWWcKhTO3uXFF1mZczewZ8w/viewform) |
 | [~~WoidKonf~~](http://www.woidkonf.com/) | **~~June 6-7~~ Cancelled** | ~~Bavarian Forest, Germany~~ | - |
 | [360iDev](http://360idev.com/) | **August 13-16** | Denver, CO, USA | - |
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 4-7** | Aberystwyth, Wales, UK | - |
@@ -34,7 +34,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [MCE](http://2017.mceconf.com/) | **May 8-9** | Warsw, Poland | - |
 | [DEVit Web Conference](http://devitconf.org/) | **May 20-21** | Thessaloniki, Greece | [~~February 5~~](https://goo.gl/forms/GssucZClBUGvnXr62) |
 | [App Design & Development Conference](http://addconf.com/) | **June 22-23** | Barcelona, Spain | [~~March 15~~](http://addconf.com/call_for_papers/) |
 | [Mobile Era](https://mobileera.rocks/) | **October 5-6** | Oslo, Norway | [May 15](https://mobileera.rocks/news/posts/c4p-time/) |
@@ -133,7 +132,8 @@ All-English conferences for **Cocoa** developers.
 | [Úll](http://2017.ull.ie/) | **April 10-11, 2017** | Killarney, Ireland|
 | [Mobius Conference](http://mobiusconf.com/en/) | **April 21-22, 2017** | Saint-Petersburg, Russia |
 | [App Builders](http://www.appbuilders.ch) | **April 24-25, 2017** | Lausanne, Switzerland |
-| [Craft Conference](http://craft-conf.com) | **April 25-28, 2017** | Budapest, Hungary | - |
+| [Craft Conference](http://craft-conf.com) | **April 25-28, 2017** | Budapest, Hungary |
+| [MCE](http://2017.mceconf.com/) | **May 8-9, 2017** | Warsw, Poland |
 
 ### More
 
