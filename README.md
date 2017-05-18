@@ -15,7 +15,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | [~~February 15~~](http://cfp.uikonf.com/about) |
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 1-2** | Aveiro, Portugal | - |
 | [WWDC](https://developer.apple.com/wwdc/) | **June 5-9** | San Jose, CA, USA | - |
 | [AltConf](http://altconf.com/) | **June 5-8** | San Jose, CA, USA | [~~April 26~~](https://docs.google.com/forms/d/e/1FAIpQLSc9iVVOi6yMZDl_86oxokNk7rONWWcKhTO3uXFF1mZczewZ8w/viewform) |
@@ -26,7 +25,7 @@ All-English conferences for **Cocoa** developers.
 | [SwiftConf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [Deadline not specified](https://swiftconf.com/speaker/you/) |
 | [NSSpain](http://nsspain.com/) | **September 13-15** | Logroño, Spain | - |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [~~April 6~~](https://www.papercall.io/frenchkit-2017) |
-| [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | Verona, Italy | - |
+| [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | Verona, Italy | [10 July](https://docs.google.com/forms/d/e/1FAIpQLSdA7yYORAoZs2zxCDfr4BtTp2kd_TqKY-Df4RqfHmVDtLbwOQ/viewform) |
 | [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 16-17** | Bangalore, India | - |
 | [Swift Alps](http://theswiftalps.com/) | **November 23-24** | Crans-Montana, Switzerland | - |
 
@@ -36,7 +35,7 @@ All-English conferences for **Cocoa** developers.
 | --- | --- | --- | --- |
 | [DEVit Web Conference](http://devitconf.org/) | **May 20-21** | Thessaloniki, Greece | [~~February 5~~](https://goo.gl/forms/GssucZClBUGvnXr62) |
 | [App Design & Development Conference](http://addconf.com/) | **June 22-23** | Barcelona, Spain | [~~March 15~~](http://addconf.com/call_for_papers/) |
-| [Mobile Era](https://mobileera.rocks/) | **October 5-6** | Oslo, Norway | [May 15](https://mobileera.rocks/news/posts/c4p-time/) |
+| [Mobile Era](https://mobileera.rocks/) | **October 5-6** | Oslo, Norway | [~~May 15~~](https://mobileera.rocks/news/posts/c4p-time/) |
 | [Mobiconf](https://2017.mobiconf.org/) | **October 5-6** | Krakow, Poland | [May 31](https://2017.mobiconf.org/call-for-papers) |
 | [Release Notes](https://2017.releasenotes.tv/) | **October 16-18** | Chicago, IL, USA | - |
 
@@ -104,6 +103,7 @@ All-English conferences for **Cocoa** developers.
 | [RWDevCon](http://www.rwdevcon.com/) | **March 30 - April 1, 2017** | Washington DC, USA |
 | [Functional Swift Conference](http://2017.funswiftconf.com/) | **April 15, 2017** | New York, NY, USA |
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20, 2017** | Chester, UK |
+| [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | 
 
 ### Related to Cocoa or Mobile in general
 
