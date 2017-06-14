@@ -15,9 +15,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [WWDC](https://developer.apple.com/wwdc/) | **June 5-9** | San Jose, CA, USA | - |
-| [AltConf](http://altconf.com/) | **June 5-8** | San Jose, CA, USA | [~~April 26~~](https://docs.google.com/forms/d/e/1FAIpQLSc9iVVOi6yMZDl_86oxokNk7rONWWcKhTO3uXFF1mZczewZ8w/viewform) |
-| [~~WoidKonf~~](http://www.woidkonf.com/) | **~~June 6-7~~ Cancelled** | ~~Bavarian Forest, Germany~~ | - |
 | [360iDev](http://360idev.com/) | **August 13-16** | Denver, CO, USA | - |
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 4-7** | Aberystwyth, Wales, UK | - |
 | [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | **September 5-6** | New York City, USA | - |
@@ -103,6 +100,8 @@ All-English conferences for **Cocoa** developers.
 | [Code Mobile](http://www.codemobile.co.uk) | **April 17-20, 2017** | Chester, UK |
 | [UIKonf](http://www.uikonf.com/) | **May 14-17** | Berlin, Germany | 
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 1-2** | Aveiro, Portugal |
+| [WWDC](https://developer.apple.com/wwdc/) | **June 5-9** | San Jose, CA, USA |
+| [AltConf](http://altconf.com/) | **June 5-8** | San Jose, CA, USA |
 
 ### Related to Cocoa or Mobile in general
 
