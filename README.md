@@ -19,7 +19,7 @@ All-English conferences for **Cocoa** developers.
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 4-7** | Aberystwyth, Wales, UK | - |
 | [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | **September 5-6** | New York City, USA | - |
 | [SwiftConf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [Deadline not specified](https://swiftconf.com/speaker/you/) |
-| [NSSpain](http://nsspain.com/) | **September 13-15** | Logroño, Spain | - |
+| [NSSpain](http://nsspain.com/) | **September 13-15** | Logroño, Spain | [26 June](https://backstage.nsspain.com/c4p/) |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [~~April 6~~](https://www.papercall.io/frenchkit-2017) |
 | [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | Verona, Italy | [10 July](https://docs.google.com/forms/d/e/1FAIpQLSdA7yYORAoZs2zxCDfr4BtTp2kd_TqKY-Df4RqfHmVDtLbwOQ/viewform) |
 | [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 16-17** | Bangalore, India | - |
