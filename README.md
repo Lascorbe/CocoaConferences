@@ -31,9 +31,8 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [App Design & Development Conference](http://addconf.com/) | **June 22-23** | Barcelona, Spain | [~~March 15~~](http://addconf.com/call_for_papers/) |
 | [Mobile Era](https://mobileera.rocks/) | **October 5-6** | Oslo, Norway | [~~May 15~~](https://mobileera.rocks/news/posts/c4p-time/) |
-| [Mobiconf](https://2017.mobiconf.org/) | **October 5-6** | Krakow, Poland | [May 31](https://2017.mobiconf.org/call-for-papers) |
+| [Mobiconf](https://2017.mobiconf.org/) | **October 5-6** | Krakow, Poland | [~~May 31~~](https://2017.mobiconf.org/call-for-papers) |
 | [Release Notes](https://2017.releasenotes.tv/) | **October 16-18** | Chicago, IL, USA | - |
 
 # Has already happened...
@@ -134,7 +133,8 @@ All-English conferences for **Cocoa** developers.
 | [App Builders](http://www.appbuilders.ch) | **April 24-25, 2017** | Lausanne, Switzerland |
 | [Craft Conference](http://craft-conf.com) | **April 25-28, 2017** | Budapest, Hungary |
 | [MCE](http://2017.mceconf.com/) | **May 8-9, 2017** | Warsw, Poland |
-| [DEVit Web Conference](http://devitconf.org/) | **May 20-21** | Thessaloniki, Greece |
+| [DEVit Web Conference](http://devitconf.org/) | **May 20-21, 2017** | Thessaloniki, Greece |
+| [App Design & Development Conference](http://addconf.com/) | **June 22-23, 2017** | Barcelona, Spain |
 
 ### More
 
