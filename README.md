@@ -21,6 +21,7 @@ All-English conferences for **Cocoa** developers.
 | [NSSpain](http://nsspain.com/) | **September 13-15** | Logroño, Spain | [~~26 June~~](https://backstage.nsspain.com/c4p/) |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [~~April 6~~](https://www.papercall.io/frenchkit-2017) |
 | [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | Verona, Italy | [~~10 July~~](https://docs.google.com/forms/d/e/1FAIpQLSdA7yYORAoZs2zxCDfr4BtTp2kd_TqKY-Df4RqfHmVDtLbwOQ/viewform) |
+| [iOS Conf SG](http://iosconf.sg) | **October 19-20, 2017** | Singapore, Singapore | - |
 | [Swift by NorthWest (previously CocoaConf)](https://swiftbynorthwest.com/) | **October 27-28, 2017** | Seattle, WA, USA | - |
 | [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | San Francisco, CA, USA | - |
 | [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 16-17** | Bangalore, India | - |
