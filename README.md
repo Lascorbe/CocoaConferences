@@ -7,6 +7,7 @@ All-English conferences for **Cocoa** developers.
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23** | London, UK | [TBD: January 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
+| [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5th - 7th** | Washington, D.C, USA | n/a |
 
 
 # 2017
