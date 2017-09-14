@@ -16,9 +16,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [iOSDevUK](http://www.iosdevuk.com/) | **September 4-7** | Aberystwyth, Wales, UK | - |
-| [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | **September 5-6** | New York City, USA | - |
-| [SwiftConf](http://www.swiftconf.com/) | **September 6-7** | Cologne, Germany | [~~Deadline not specified~~](https://swiftconf.com/speaker/you/) |
 | [NSSpain](http://nsspain.com/) | **September 13-15** | Logroño, Spain | [~~June 26~~](https://backstage.nsspain.com/c4p/) |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23** | Paris, France | [~~April 6~~](https://www.papercall.io/frenchkit-2017) |
 | [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | Verona, Italy | [~~July 10~~](https://docs.google.com/forms/d/e/1FAIpQLSdA7yYORAoZs2zxCDfr4BtTp2kd_TqKY-Df4RqfHmVDtLbwOQ/viewform) |
@@ -106,7 +103,10 @@ All-English conferences for **Cocoa** developers.
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 1-2, 2017** | Aveiro, Portugal |
 | [WWDC](https://developer.apple.com/wwdc/) | **June 5-9, 2017** | San Jose, CA, USA |
 | [AltConf](http://altconf.com/) | **June 5-8, 2017** | San Jose, CA, USA |
-| [360iDev](http://360idev.com/) | **August 13-16, 2017** | Denver, CO, USA | - |
+| [360iDev](http://360idev.com/) | **August 13-16, 2017** | Denver, CO, USA | 
+| [iOSDevUK](http://www.iosdevuk.com/) | **September 4-7, 2017** | Aberystwyth, Wales, UK | 
+| [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | **September 5-6, 2017** | New York City, USA | 
+| [SwiftConf](http://www.swiftconf.com/) | **September 6-7, 2017** | Cologne, Germany |
 
 ### Related to Cocoa or Mobile in general
 
