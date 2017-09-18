@@ -22,7 +22,7 @@ All-English conferences for **Cocoa** developers.
 | [iOS Conf SG](http://iosconf.sg) | **October 19-20, 2017** | Singapore, Singapore | - |
 | [Swift by NorthWest (previously CocoaConf)](https://swiftbynorthwest.com/) | **October 27-28, 2017** | Seattle, WA, USA | - |
 | [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | San Francisco, CA, USA | - |
-| [try! Swift Bangalore](https://www.tryswift.co/events/2017/bangalore) | **November 16-17** | Bangalore, India | - |
+| [try! Swift India](https://www.tryswift.co/events/2017/bangalore) | **November 18-19** | Bangalore, India | - |
 | [Swift Alps](http://theswiftalps.com/) | **November 23-24** | Crans-Montana, Switzerland | - |
 
 ### Related to Cocoa or Mobile in general
