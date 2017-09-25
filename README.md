@@ -16,7 +16,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-
 | [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | Verona, Italy | [~~July 10~~](https://docs.google.com/forms/d/e/1FAIpQLSdA7yYORAoZs2zxCDfr4BtTp2kd_TqKY-Df4RqfHmVDtLbwOQ/viewform) |
 | [iOS Conf SG](http://iosconf.sg) | **October 19-20, 2017** | Singapore, Singapore | - |
 | [Swift by NorthWest (previously CocoaConf)](https://swiftbynorthwest.com/) | **October 27-28, 2017** | Seattle, WA, USA | - |
