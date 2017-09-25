@@ -31,6 +31,8 @@ All-English conferences for **Cocoa** developers.
 | [Mobiconf](https://2017.mobiconf.org/) | **October 5-6** | Krakow, Poland | [~~May 31~~](https://2017.mobiconf.org/call-for-papers) |
 | [Release Notes](https://2017.releasenotes.tv/) | **October 16-18** | Chicago, IL, USA | - |
 | [Mobilization](http://2017.mobilization.pl/) | **October 21** | Łódź, Poland | [~~Aug 31~~](https://bit.ly/mobilization7-c4p) |
+| [Mobius](https://mobiusconf.com/en/) | **November 11** | Moscow, Russia |
+| [DevFest Baltics](https://devfest.gdg.lv/) | **November 17** | Riga, Latvia |
 | [UA Mobile](http://www.uamobile.org/) | **November 25** | Kyiv, Ukraine | [September 29](http://www.uamobile.org/speakers/become-speaker) |
 
 # Has already happened...
