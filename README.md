@@ -5,33 +5,33 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | Verona, Italy | [~~July 10~~](https://docs.google.com/forms/d/e/1FAIpQLSdA7yYORAoZs2zxCDfr4BtTp2kd_TqKY-Df4RqfHmVDtLbwOQ/viewform) |
-| [iOS Conf SG](http://iosconf.sg) | **October 19-20, 2017** | Singapore, Singapore | n/a |
-| [Swift by NorthWest (previously CocoaConf)](https://swiftbynorthwest.com/) | **October 27-28, 2017** | Seattle, WA, USA | n/a |
-| [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | San Francisco, CA, USA | n/a |
-| [try! Swift India](https://www.tryswift.co/events/2017/bangalore) | **November 18-19, 2017** | Bangalore, India | n/a |
-| [Swift Alps](http://theswiftalps.com/) | **November 23-24, 2017** | Crans-Montana, Switzerland | n/a |
-| [dot Swift](https://2018.dotswift.io/) | **January 29, 2018** | Paris, France | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) |
-| [Forward Swift](https://forwardswift.com/) | **February 12, 2018** | San Francisco, CA, USA | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSdO8Z8_BA9loIgkxeqZxePX-LkpqBMnwHRufAtnhvtY1zk3Ig/viewform?c=0&w=1) |
-| [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 2017** | Tokyo, Japan | n/a |
-| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | London, UK | [November 6, 2017](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
-| [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | Washington, D.C, USA | n/a |
+| [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | 🇮🇹 Verona, Italy | [~~July 10~~](https://docs.google.com/forms/d/e/1FAIpQLSdA7yYORAoZs2zxCDfr4BtTp2kd_TqKY-Df4RqfHmVDtLbwOQ/viewform) |
+| [iOS Conf SG](http://iosconf.sg) | **October 19-20, 2017** | 🇸🇬 Singapore, Singapore | n/a |
+| [Swift by NorthWest (previously CocoaConf)](https://swiftbynorthwest.com/) | **October 27-28, 2017** | 🇺🇸 Seattle, WA, USA  | n/a |
+| [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | 🇺🇸 San Francisco, CA, USA | n/a |
+| [try! Swift India](https://www.tryswift.co/events/2017/bangalore) | **November 18-19, 2017** | 🇮🇳 Bangalore, India | n/a |
+| [Swift Alps](http://theswiftalps.com/) | **November 23-24, 2017** | 🇨🇭 Crans-Montana, Switzerland | n/a |
+| [dot Swift](https://2018.dotswift.io/) | **January 29, 2018** | 🇫🇷 Paris, France | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) |
+| [Forward Swift](https://forwardswift.com/) | **February 12, 2018** | 🇺🇸 San Francisco, CA, USA | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSdO8Z8_BA9loIgkxeqZxePX-LkpqBMnwHRufAtnhvtY1zk3Ig/viewform?c=0&w=1) |
+| [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 2018** | 🇯🇵 Tokyo, Japan | n/a |
+| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK | [November 6, 2017](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
+| [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA | n/a |
 
 
 ### Related to Cocoa or Mobile in general
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Mobile Era](https://mobileera.rocks/) | **October 5-6, 2017** | Oslo, Norway | [~~May 15~~](https://mobileera.rocks/news/posts/c4p-time/) |
-| [Mobiconf](https://2017.mobiconf.org/) | **October 5-6, 2017** | Krakow, Poland | [~~May 31~~](https://2017.mobiconf.org/call-for-papers) |
-| [Release Notes](https://2017.releasenotes.tv/) | **October 16-18, 2017** | Chicago, IL, USA | n/a |
-| [Mobilization](http://2017.mobilization.pl/) | **October 21, 2017** | Łódź, Poland | [~~Aug 31~~](https://bit.ly/mobilization7-c4p) |
-| [Mobius](https://mobiusconf.com/en/) | **November 11, 2017** | Moscow, Russia | n/a |
-| [DevFest Baltics](https://devfest.gdg.lv/) | **November 17, 2017** | Riga, Latvia | n/a |
-| [UA Mobile](http://www.uamobile.org/) | **November 25, 2017** | Kyiv, Ukraine | [September 29](http://www.uamobile.org/speakers/become-speaker) |
-| [MobOS](http://romobos.com/) | **February 15-16, 2018** | Cluj-Napoca, Romania | n/a |
-| [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | Chester, UK | [~~August 31, 2017~~](http://www.codemobile.co.uk/call-for-speakers/)
-| [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | Lugano, Switzerland | n/a |
+| [Mobile Era](https://mobileera.rocks/) | **October 5-6, 2017** | 🇳🇴 Oslo, Norway | [~~May 15~~](https://mobileera.rocks/news/posts/c4p-time/) |
+| [Mobiconf](https://2017.mobiconf.org/) | **October 5-6, 2017** | 🇵🇱 Krakow, Poland | [~~May 31~~](https://2017.mobiconf.org/call-for-papers) |
+| [Release Notes](https://2017.releasenotes.tv/) | **October 16-18, 2017** | 🇺🇸 Chicago, IL, USA | n/a |
+| [Mobilization](http://2017.mobilization.pl/) | **October 21, 2017** | 🇵🇱 Łódź, Poland | [~~Aug 31~~](https://bit.ly/mobilization7-c4p) |
+| [Mobius](https://mobiusconf.com/en/) | **November 11, 2017** | 🇷🇺 Moscow, Russia | n/a |
+| [DevFest Baltics](https://devfest.gdg.lv/) | **November 17, 2017** | 🇱🇻 Riga, Latvia | n/a |
+| [UA Mobile](http://www.uamobile.org/) | **November 25, 2017** | 🇺🇦 Kyiv, Ukraine | [September 29](http://www.uamobile.org/speakers/become-speaker) |
+| [MobOS](http://romobos.com/) | **February 15-16, 2018** | 🇷🇴 Cluj-Napoca, Romania | n/a |
+| [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | 🇬🇧 Chester, UK | [~~August 31, 2017~~](http://www.codemobile.co.uk/call-for-speakers/)
+| [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland | n/a |
 
 # Has already happened...
 
