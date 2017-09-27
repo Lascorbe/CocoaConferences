@@ -7,7 +7,7 @@ All-English conferences for **Cocoa** developers.
 | --- | --- | --- | --- |
 | [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | 🇮🇹 Verona, Italy | [~~July 10~~](https://docs.google.com/forms/d/e/1FAIpQLSdA7yYORAoZs2zxCDfr4BtTp2kd_TqKY-Df4RqfHmVDtLbwOQ/viewform) |
 | [iOS Conf SG](http://iosconf.sg) | **October 19-20, 2017** | 🇸🇬 Singapore, Singapore | n/a |
-| [Swift by NorthWest (previously CocoaConf)](https://swiftbynorthwest.com/) | **October 27-28, 2017** | 🇺🇸 Seattle, WA, USA  | n/a |
+| [Swift by NorthWest](https://swiftbynorthwest.com/) | **October 27-28, 2017** | 🇺🇸 Seattle, WA, USA  | n/a |
 | [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | 🇺🇸 San Francisco, CA, USA | n/a |
 | [try! Swift India](https://www.tryswift.co/events/2017/bangalore) | **November 18-19, 2017** | 🇮🇳 Bangalore, India | n/a |
 | [Swift Alps](http://theswiftalps.com/) | **November 23-24, 2017** | 🇨🇭 Crans-Montana, Switzerland | n/a |
