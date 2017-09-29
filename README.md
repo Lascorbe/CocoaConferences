@@ -16,6 +16,7 @@ All-English conferences for **Cocoa** developers.
 | [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 2018** | 🇯🇵 Tokyo, Japan | n/a |
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK | [November 6, 2017](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
 | [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA | n/a |
+| [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA |
 
 
 ### Related to Cocoa or Mobile in general
