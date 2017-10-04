@@ -109,6 +109,7 @@ All-English conferences for **Cocoa** developers.
 | [SwiftConf](http://www.swiftconf.com/) | **September 6-7, 2017** | 🇩🇪 Cologne, Germany |
 | [NSSpain](http://nsspain.com/) | **September 13-15, 2017** | 🇪🇸 Logroño, Spain |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23, 2017** | 🇫🇷 Paris, France |
+| [Swift Cloud Workshop 2](https://www.swiftcloudwork.shop) | **September 30, 2017** | 🇺🇸 Austin, TX, USA |
 
 ### Related to Cocoa or Mobile in general
 
