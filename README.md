@@ -5,7 +5,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | 🇮🇹 Verona, Italy | [~~July 10~~](https://docs.google.com/forms/d/e/1FAIpQLSdA7yYORAoZs2zxCDfr4BtTp2kd_TqKY-Df4RqfHmVDtLbwOQ/viewform) |
 | [iOS Conf SG](http://iosconf.sg) | **October 19-20, 2017** | 🇸🇬 Singapore, Singapore | n/a |
 | [Swift by NorthWest](https://swiftbynorthwest.com/) | **October 27-28, 2017** | 🇺🇸 Seattle, WA, USA  | n/a |
 | [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | 🇺🇸 San Francisco, CA, USA | n/a |
@@ -24,8 +23,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Mobile Era](https://mobileera.rocks/) | **October 5-6, 2017** | 🇳🇴 Oslo, Norway | [~~May 15~~](https://mobileera.rocks/news/posts/c4p-time/) |
-| [Mobiconf](https://2017.mobiconf.org/) | **October 5-6, 2017** | 🇵🇱 Krakow, Poland | [~~May 31~~](https://2017.mobiconf.org/call-for-papers) |
 | [Release Notes](https://2017.releasenotes.tv/) | **October 16-18, 2017** | 🇺🇸 Chicago, IL, USA | n/a |
 | [Mobilization](http://2017.mobilization.pl/) | **October 21, 2017** | 🇵🇱 Łódź, Poland | [~~Aug 31~~](https://bit.ly/mobilization7-c4p) |
 | [Mobius](https://mobiusconf.com/en/) | **November 11, 2017** | 🇷🇺 Moscow, Russia | n/a |
@@ -110,6 +107,7 @@ All-English conferences for **Cocoa** developers.
 | [NSSpain](http://nsspain.com/) | **September 13-15, 2017** | 🇪🇸 Logroño, Spain |
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23, 2017** | 🇫🇷 Paris, France |
 | [Swift Cloud Workshop 2](https://www.swiftcloudwork.shop) | **September 30, 2017** | 🇺🇸 Austin, TX, USA |
+| [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | 🇮🇹 Verona, Italy |
 
 ### Related to Cocoa or Mobile in general
 
@@ -141,6 +139,8 @@ All-English conferences for **Cocoa** developers.
 | [MCE](http://2017.mceconf.com/) | **May 8-9, 2017** | 🇵🇱 Warsaw, Poland |
 | [DEVit Web Conference](http://devitconf.org/) | **May 20-21, 2017** | 🇬🇷 Thessaloniki, Greece |
 | [App Design & Development Conference](http://addconf.com/) | **June 22-23, 2017** | 🇪🇸 Barcelona, Spain |
+| [Mobile Era](https://mobileera.rocks/) | **October 5-6, 2017** | 🇳🇴 Oslo, Norway |
+| [Mobiconf](https://2017.mobiconf.org/) | **October 5-6, 2017** | 🇵🇱 Krakow, Poland |
 
 ### More
 
