@@ -31,6 +31,8 @@ All-English conferences for **Cocoa** developers.
 | [MobOS](http://romobos.com/) | **February 15-16, 2018** | 🇷🇴 Cluj-Napoca, Romania | n/a |
 | [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | 🇬🇧 Chester, UK | [~~August 31, 2017~~](http://www.codemobile.co.uk/call-for-speakers/)
 | [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland | n/a |
+| [ADDC](https://www.appbuilders.ch/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain | n/a |
+
 
 # Has already happened...
 
