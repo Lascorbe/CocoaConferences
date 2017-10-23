@@ -5,7 +5,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [iOS Conf SG](http://iosconf.sg) | **October 19-20, 2017** | 🇸🇬 Singapore, Singapore | n/a |
 | [Swift by NorthWest](https://swiftbynorthwest.com/) | **October 27-28, 2017** | 🇺🇸 Seattle, WA, USA  | n/a |
 | [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | 🇺🇸 San Francisco, CA, USA | n/a |
 | [try! Swift India](https://www.tryswift.co/events/2017/bangalore) | **November 18-19, 2017** | 🇮🇳 Bangalore, India | n/a |
@@ -23,8 +22,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Release Notes](https://2017.releasenotes.tv/) | **October 16-18, 2017** | 🇺🇸 Chicago, IL, USA | n/a |
-| [Mobilization](http://2017.mobilization.pl/) | **October 21, 2017** | 🇵🇱 Łódź, Poland | [~~Aug 31~~](https://bit.ly/mobilization7-c4p) |
 | [Mobius](https://mobiusconf.com/en/) | **November 11, 2017** | 🇷🇺 Moscow, Russia | n/a |
 | [DevFest Baltics](https://devfest.gdg.lv/) | **November 17, 2017** | 🇱🇻 Riga, Latvia | n/a |
 | [UA Mobile](http://www.uamobile.org/) | **November 25, 2017** | 🇺🇦 Kyiv, Ukraine | [September 29](http://www.uamobile.org/speakers/become-speaker) |
@@ -110,6 +107,7 @@ All-English conferences for **Cocoa** developers.
 | [FrenchKit](http://frenchkit.fr/) | **September 22-23, 2017** | 🇫🇷 Paris, France |
 | [Swift Cloud Workshop 2](https://www.swiftcloudwork.shop) | **September 30, 2017** | 🇺🇸 Austin, TX, USA |
 | [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | 🇮🇹 Verona, Italy |
+| [iOS Conf SG](http://iosconf.sg) | **October 19-20, 2017** | 🇸🇬 Singapore, Singapore |
 
 ### Related to Cocoa or Mobile in general
 
@@ -143,6 +141,8 @@ All-English conferences for **Cocoa** developers.
 | [App Design & Development Conference](http://addconf.com/) | **June 22-23, 2017** | 🇪🇸 Barcelona, Spain |
 | [Mobile Era](https://mobileera.rocks/) | **October 5-6, 2017** | 🇳🇴 Oslo, Norway |
 | [Mobiconf](https://2017.mobiconf.org/) | **October 5-6, 2017** | 🇵🇱 Krakow, Poland |
+| [Release Notes](https://2017.releasenotes.tv/) | **October 16-18, 2017** | 🇺🇸 Chicago, IL, USA |
+| [Mobilization](http://2017.mobilization.pl/) | **October 21, 2017** | 🇵🇱 Łódź, Poland |
 
 ### More
 
