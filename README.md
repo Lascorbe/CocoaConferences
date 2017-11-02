@@ -15,7 +15,9 @@ All-English conferences for **Cocoa** developers.
 | [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 2018** | 🇯🇵 Tokyo, Japan | n/a |
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK | [November 6, 2017](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
 | [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA | n/a |
+| [WWDC](https://developer.apple.com/wwdc/) | **Around June, 2018** | 🇺🇸 probably San Jose, CA, USA | n/a |
 | [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA | n/a |
+| [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | n/a |
 
 
 ### Related to Cocoa or Mobile in general
@@ -26,8 +28,11 @@ All-English conferences for **Cocoa** developers.
 | [DevFest Baltics](https://devfest.gdg.lv/) | **November 17, 2017** | 🇱🇻 Riga, Latvia | n/a |
 | [UA Mobile](http://www.uamobile.org/) | **November 25, 2017** | 🇺🇦 Kyiv, Ukraine | [September 29](http://www.uamobile.org/speakers/become-speaker) |
 | [MobOS](http://romobos.com/) | **February 15-16, 2018** | 🇷🇴 Cluj-Napoca, Romania | n/a |
+| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 15-18, 2018** | 🇳🇱 Amsterdam, Netherlands | n/a |
+| [MobileTech](https://mobiletechcon.de/en/) | **March 12-14, 2018** | 🇩🇪 Munich, Germany | n/a |
 | [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | 🇬🇧 Chester, UK | [~~August 31, 2017~~](http://www.codemobile.co.uk/call-for-speakers/)
 | [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland | n/a |
+| [MCE](http://2018.mceconf.com) | **Coming Soon** | 🇵🇱 Warsaw, Poland | n/a |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain | n/a |
 
 
