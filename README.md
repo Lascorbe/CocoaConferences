@@ -106,6 +106,7 @@ Ticket costs range from low to heigh. The most common way of pricing is: "*stude
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 1-2, 2017** | 🇵🇹 Aveiro, Portugal |
 | [WWDC](https://developer.apple.com/wwdc/) | **June 5-9, 2017** | 🇺🇸 San Jose, CA, USA |
 | [AltConf](http://altconf.com/) | **June 5-8, 2017** | 🇺🇸 San Jose, CA, USA |
+| ~~[WoidConf](http://woidkonf.com/)~~ | ~~**June 6-7, 2017**~~ | 🇩🇪 ~~Bavarian Forest, Germany~~ (Got cancelled)|
 | [360iDev](http://360idev.com/) | **August 13-16, 2017** | 🇺🇸 Denver, CO, USA | 
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 4-7, 2017** | 🇬🇧 Aberystwyth, UK | 
 | [try! Swift New York](https://www.tryswift.co/events/2017/nyc) | **September 5-6, 2017** | 🇺🇸 New York City, NY, USA | 
