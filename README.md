@@ -40,10 +40,10 @@ Ticket prices range from low to heigh, usually this is student, early bird, conf
 
 ### Cocoa-only
 
-| Name | Date | Place | Ticket cost |
-| --- | --- | --- | --- | 
-| [Swift by NorthWest](https://swiftbynorthwest.com/) | **October 27-28, 2017** | 🇺🇸 Seattle, WA, USA  | n/a |
-| [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | 🇺🇸 San Francisco, CA, USA | n/a |
+| Name | Date | Place  |
+| --- | --- | --- |
+| [Swift by NorthWest](https://swiftbynorthwest.com/) | **October 27-28, 2017** | 🇺🇸 Seattle, WA, USA  | 
+| [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | 🇺🇸 San Francisco, CA, USA | 
 | [Swipe Conference](http://swipeconference.com.au/) | **September 5-7, 2012** | 🇦🇺 Sydney, Australia |
 | [Objective-Cologne](http://lanyrd.com/2012/objcgn/) | **September 11-12, 2012** | 🇩🇪 Cologne, Germany |
 | [CocoaConf Portland](http://cocoaconf.com/portland-2013/home) | **August 15-16, 2013** | 🇺🇸 Portland, OR, USA |
