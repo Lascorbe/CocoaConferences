@@ -1,11 +1,13 @@
 All-English conferences for **Cocoa** developers.
 
+Ticket prices range from low to heigh, usually this is student, early bird, conference only, full ticket
+
 
 ### Cocoa-only
 
 | Name | Date | Place | CfP deadline | Ticket cost |
 | --- | --- | --- | --- | --- |
-| [try! Swift India](https://www.tryswift.co/events/2017/bangalore) | **November 18-19, 2017** | 🇮🇳 Bangalore, India | n/a | $82
+| [try! Swift India](https://www.tryswift.co/events/2017/bangalore) | **November 18-19, 2017** | 🇮🇳 Bangalore, India | n/a | $45 $54 $71 $82
 | [Swift Alps](http://theswiftalps.com/) | **November 23-24, 2017** | 🇨🇭 Crans-Montana, Switzerland | n/a | CHF599
 | [SwiftFest](http://www.swiftfest.io/) | **November 29-30, 2017** | 🇺🇸 Boston, MA, USA | [October 16, 2017](https://docs.google.com/forms/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform) | $99 $399 $499 |
 | [dot Swift](https://2018.dotswift.io/) | **January 29, 2018** | 🇫🇷 Paris, France | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | €139
@@ -13,7 +15,7 @@ All-English conferences for **Cocoa** developers.
 | [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 2018** | 🇯🇵 Tokyo, Japan | n/a | $250 $300 $350 $400
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK | [November 6, 2017](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) | £395/£650
 | [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA | n/a |  $899  $1399 $1999
-| [WWDC](https://developer.apple.com/wwdc/) | **Around June, 2018** | 🇺🇸 probably San Jose, CA, USA | n/a |
+| [WWDC](https://developer.apple.com/wwdc/) | **Around June, 2018** | 🇺🇸 probably San Jose, CA, USA | n/a | $1599
 | [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA | n/a | $549 $749
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | n/a | TBD |
 
@@ -23,13 +25,13 @@ All-English conferences for **Cocoa** developers.
 | Name | Date | Place | CfP deadline | Ticket cost |
 | --- | --- | --- | --- | --- |
 | [Mobius](https://mobiusconf.com/en/) | **November 11, 2017** | 🇷🇺 Moscow, Russia | n/a | ??? |
-| [DevFest Baltics](https://devfest.gdg.lv/) | **November 17, 2017** | 🇱🇻 Riga, Latvia | n/a | € 69.95 |
-| [UA Mobile](http://www.uamobile.org/) | **November 25, 2017** | 🇺🇦 Kyiv, Ukraine | [September 29](http://www.uamobile.org/speakers/become-speaker) | $185 |
+| [DevFest Baltics](https://devfest.gdg.lv/) | **November 17, 2017** | 🇱🇻 Riga, Latvia | n/a | €50 €70 |
+| [UA Mobile](http://www.uamobile.org/) | **November 25, 2017** | 🇺🇦 Kyiv, Ukraine | [September 29](http://www.uamobile.org/speakers/become-speaker) | $95 $125<br>$155 $185 |
 | [MobOS](http://romobos.com/) | **February 15-16, 2018** | 🇷🇴 Cluj-Napoca, Romania | n/a | TBD |
-| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 15-18, 2018** | 🇳🇱 Amsterdam, Netherlands | n/a | €310 |
-| [MobileTech](https://mobiletechcon.de/en/) | **March 12-14, 2018** | 🇩🇪 Munich, Germany | n/a | €549/€899/€1099 |
-| [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | 🇬🇧 Chester, UK | [~~August 31, 2017~~](http://www.codemobile.co.uk/call-for-speakers/) | £250,-
-| [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland | n/a | CHF349 |
+| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 15-18, 2018** | 🇳🇱 Amsterdam, Netherlands | n/a | €145 €310 |
+| [MobileTech](https://mobiletechcon.de/en/) | **March 12-14, 2018** | 🇩🇪 Munich, Germany | n/a | €549 €899<br>€1099 |
+| [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | 🇬🇧 Chester, UK | [~~August 31, 2017~~](http://www.codemobile.co.uk/call-for-speakers/) | £175 £250<br>£295 £385
+| [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland | n/a | CHF249 CHF349 CHF399 |
 | [MCE](http://2018.mceconf.com) | **Coming Soon** | 🇵🇱 Warsaw, Poland | n/a | TBD |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain | n/a |
 
