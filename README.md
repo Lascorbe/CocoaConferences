@@ -1,6 +1,6 @@
 All-English conferences for **Cocoa** developers.
 
-Ticket prices range from low to heigh, usually this is student, early bird, conference only, full ticket
+Ticket costs range from low to heigh. The most common way of pricing is: "*student*", "*early bird*", "*conference only*", "*full ticket (including workshops)*", "*full ticket including accommodation*". 
 
 
 ### Cocoa-only
