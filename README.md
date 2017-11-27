@@ -5,10 +5,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Swift by NorthWest](https://swiftbynorthwest.com/) | **October 27-28, 2017** | 🇺🇸 Seattle, WA, USA  | n/a |
-| [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | 🇺🇸 San Francisco, CA, USA | n/a |
-| [try! Swift India](https://www.tryswift.co/events/2017/bangalore) | **November 18-19, 2017** | 🇮🇳 Bangalore, India | n/a |
-| [Swift Alps](http://theswiftalps.com/) | **November 23-24, 2017** | 🇨🇭 Crans-Montana, Switzerland | n/a |
 | [SwiftFest](http://www.swiftfest.io/) | **November 29-30, 2017** | 🇺🇸 Boston, MA, USA | [October 16, 2017](https://docs.google.com/forms/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform) |
 | [dot Swift](https://2018.dotswift.io/) | **January 29, 2018** | 🇫🇷 Paris, France | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) |
 | [Forward Swift](https://forwardswift.com/) | **February 12, 2018** | 🇺🇸 San Francisco, CA, USA | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSdO8Z8_BA9loIgkxeqZxePX-LkpqBMnwHRufAtnhvtY1zk3Ig/viewform?c=0&w=1) |
@@ -25,9 +21,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Mobius](https://mobiusconf.com/en/) | **November 11, 2017** | 🇷🇺 Moscow, Russia | n/a |
-| [DevFest Baltics](https://devfest.gdg.lv/) | **November 17, 2017** | 🇱🇻 Riga, Latvia | n/a |
-| [UA Mobile](http://www.uamobile.org/) | **November 25, 2017** | 🇺🇦 Kyiv, Ukraine | [September 29](http://www.uamobile.org/speakers/become-speaker) |
 | [MobOS](http://romobos.com/) | **February 15-16, 2018** | 🇷🇴 Cluj-Napoca, Romania | n/a |
 | [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 15-18, 2018** | 🇳🇱 Amsterdam, Netherlands | n/a |
 | [MobileTech](https://mobiletechcon.de/en/) | **March 12-14, 2018** | 🇩🇪 Munich, Germany | n/a |
@@ -115,6 +108,10 @@ All-English conferences for **Cocoa** developers.
 | [Swift Cloud Workshop 2](https://www.swiftcloudwork.shop) | **September 30, 2017** | 🇺🇸 Austin, TX, USA |
 | [Pragma Conference](http://pragmaconference.com) | **October 11-13, 2017** | 🇮🇹 Verona, Italy |
 | [iOS Conf SG](http://iosconf.sg) | **October 19-20, 2017** | 🇸🇬 Singapore, Singapore |
+| [Swift by NorthWest](https://swiftbynorthwest.com/) | **October 27-28, 2017** | 🇺🇸 Seattle, WA, USA  |
+| [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | 🇺🇸 San Francisco, CA, USA |
+| [try! Swift India](https://www.tryswift.co/events/2017/bangalore) | **November 18-19, 2017** | 🇮🇳 Bangalore, India |
+| [Swift Alps](http://theswiftalps.com/) | **November 23-24, 2017** | 🇨🇭 Crans-Montana, Switzerland |
 
 ### Related to Cocoa or Mobile in general
 
@@ -150,6 +147,9 @@ All-English conferences for **Cocoa** developers.
 | [Mobiconf](https://2017.mobiconf.org/) | **October 5-6, 2017** | 🇵🇱 Krakow, Poland |
 | [Release Notes](https://2017.releasenotes.tv/) | **October 16-18, 2017** | 🇺🇸 Chicago, IL, USA |
 | [Mobilization](http://2017.mobilization.pl/) | **October 21, 2017** | 🇵🇱 Łódź, Poland |
+| [Mobius](https://mobiusconf.com/en/) | **November 11, 2017** | 🇷🇺 Moscow, Russia |
+| [DevFest Baltics](https://devfest.gdg.lv/) | **November 17, 2017** | 🇱🇻 Riga, Latvia |
+| [UA Mobile](http://www.uamobile.org/) | **November 25, 2017** | 🇺🇦 Kyiv, Ukraine |
 
 ### More
 
