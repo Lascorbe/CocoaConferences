@@ -5,16 +5,16 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [SwiftFest](http://www.swiftfest.io/) | **November 29-30, 2017** | 🇺🇸 Boston, MA, USA | [October 16, 2017](https://docs.google.com/forms/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform) |
 | [dot Swift](https://2018.dotswift.io/) | **January 29, 2018** | 🇫🇷 Paris, France | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) |
 | [Forward Swift](https://forwardswift.com/) | **February 12, 2018** | 🇺🇸 San Francisco, CA, USA | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSdO8Z8_BA9loIgkxeqZxePX-LkpqBMnwHRufAtnhvtY1zk3Ig/viewform?c=0&w=1) |
 | [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 1-3, 2018** | 🇯🇵 Tokyo, Japan | n/a |
 | [Teki Con](https://teki-con.com/) | **March 12-14, 2018** | 🇺🇸 Atlanta, GA, USA | n/a |
-| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK | [November 6, 2017](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
+| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK | [~~November 6, 2017~~](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
 | [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA | n/a |
 | [WWDC](https://developer.apple.com/wwdc/) | **Around June, 2018** | 🇺🇸 probably San Jose, CA, USA | n/a |
 | [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA | n/a |
-| [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | n/a |
+| [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSc_SjMGwf9sbJjBDSkOHve2itJ3Uq9JY-Lxh_TIDlRCx5eZWg/viewform) |
+| [Swift by Northwest](https://swiftbynorthwest.com/) | **October 18-20, 2018** | 🇺🇸 Portland, OR, USA | n/a |
 
 
 ### Related to Cocoa or Mobile in general
@@ -112,6 +112,7 @@ All-English conferences for **Cocoa** developers.
 | [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | 🇺🇸 San Francisco, CA, USA |
 | [try! Swift India](https://www.tryswift.co/events/2017/bangalore) | **November 18-19, 2017** | 🇮🇳 Bangalore, India |
 | [Swift Alps](http://theswiftalps.com/) | **November 23-24, 2017** | 🇨🇭 Crans-Montana, Switzerland |
+| [SwiftFest](http://www.swiftfest.io/) | **November 29-30, 2017** | 🇺🇸 Boston, MA, USA |
 
 ### Related to Cocoa or Mobile in general
 
