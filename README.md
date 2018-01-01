@@ -7,7 +7,7 @@ All-English conferences for **Cocoa** developers.
 | --- | --- | --- | --- |
 | [dot Swift](https://2018.dotswift.io/) | **January 29, 2018** | 🇫🇷 Paris, France | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) |
 | [Forward Swift](https://forwardswift.com/) | **February 12, 2018** | 🇺🇸 San Francisco, CA, USA | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSdO8Z8_BA9loIgkxeqZxePX-LkpqBMnwHRufAtnhvtY1zk3Ig/viewform?c=0&w=1) |
-| [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 1-3, 2018** | 🇯🇵 Tokyo, Japan | n/a |
+| [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 1-3, 2018** | 🇯🇵 Tokyo, Japan | [January 18, 2018](https://www.tryswift.co/events/2018/tokyo/en/#cfp) |
 | [Teki Con](https://teki-con.com/) | **March 12-14, 2018** | 🇺🇸 Atlanta, GA, USA | n/a |
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK | [~~November 6, 2017~~](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
 | [UIKonf](http://www.uikonf.com/) | **May 13-16, 2018** | 🇩🇪 Berlin, Germany | n/a |
