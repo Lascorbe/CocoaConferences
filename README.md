@@ -5,9 +5,9 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [dot Swift](https://2018.dotswift.io/) | **January 29, 2018** | 🇫🇷 Paris, France | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) |
+| [dot Swift](https://2018.dotswift.io/) | **January 29, 2018** | 🇫🇷 Paris, France | [~~deadline not specified~~](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) |
 | [Forward Swift](https://forwardswift.com/) | **February 12, 2018** | 🇺🇸 San Francisco, CA, USA | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSdO8Z8_BA9loIgkxeqZxePX-LkpqBMnwHRufAtnhvtY1zk3Ig/viewform?c=0&w=1) |
-| [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 1-3, 2018** | 🇯🇵 Tokyo, Japan | [January 18, 2018](https://www.tryswift.co/events/2018/tokyo/en/#cfp) |
+| [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 1-3, 2018** | 🇯🇵 Tokyo, Japan | [~~January 18, 2018~~](https://www.tryswift.co/events/2018/tokyo/en/#cfp) |
 | [Teki Con](https://teki-con.com/) | **March 12-14, 2018** | 🇺🇸 Atlanta, GA, USA | n/a |
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK | [~~November 6, 2017~~](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
 | [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA | n/a |
@@ -24,10 +24,10 @@ All-English conferences for **Cocoa** developers.
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
 | [MobOS](http://romobos.com/) | **February 15-16, 2018** | 🇷🇴 Cluj-Napoca, Romania | n/a |
-| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 15-18, 2018** | 🇳🇱 Amsterdam, Netherlands | n/a |
+| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 15-18, 2018** | 🇳🇱 Amsterdam, Netherlands | ~~[December 15, 2017](http://appdevcon.nl/call-for-papers-2018/)~~ |
 | [MobileTech](https://mobiletechcon.de/en/) | **March 12-14, 2018** | 🇩🇪 Munich, Germany | n/a |
 | [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | 🇬🇧 Chester, UK | [~~August 31, 2017~~](http://www.codemobile.co.uk/call-for-speakers/)
-| [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland | [January 14](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
+| [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland | [~~January 14~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
 | [MCE](http://2018.mceconf.com) | **June 5-6, 2018** | 🇵🇱 Warsaw, Poland | n/a |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain | [February 15](https://addconf.com/2018/call-for-proposals/) |
 
