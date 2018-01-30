@@ -13,6 +13,7 @@ All-English conferences for **Cocoa** developers.
 | [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA | n/a |
 | [UIKonf](http://www.uikonf.com/) | **May 13-16, 2018** | 🇩🇪 Berlin, Germany | n/a |
 | [WWDC](https://developer.apple.com/wwdc/) | **Around June, 2018** | 🇺🇸 probably San Jose, CA, USA | n/a |
+| [SwiftAveiro](http://swiftaveiro.xyz/) | **June 21-22, 2018** | 🇵🇹 Aveiro, Portugal | n/a |
 | [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA | n/a |
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSc_SjMGwf9sbJjBDSkOHve2itJ3Uq9JY-Lxh_TIDlRCx5eZWg/viewform) |
 | [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France | n/a |
