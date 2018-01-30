@@ -30,6 +30,7 @@ All-English conferences for **Cocoa** developers.
 | [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland | [~~January 14~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
 | [MCE](http://2018.mceconf.com) | **June 5-6, 2018** | 🇵🇱 Warsaw, Poland | n/a |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain | [February 15](https://addconf.com/2018/call-for-proposals/) |
+| [DEVit Web Conference](http://devitconf.org/) | **June 10-11, 2018** | 🇬🇷 Thessaloniki, Greece | [February 26](https://goo.gl/forms/5yz1wbXuSw9MiBU13) |
 
 
 # Has already happened...
