@@ -15,6 +15,7 @@ All-English conferences for **Cocoa** developers.
 | [Swift Island](http://www.swiftisland.nl/) | **July 5-7, 2018** | 🇳🇱 Texel, Netherlands | n/a |
 | [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA | n/a |
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSc_SjMGwf9sbJjBDSkOHve2itJ3Uq9JY-Lxh_TIDlRCx5eZWg/viewform) |
+| [SwiftConf](https://swiftconf.com) | **September 19-20, 2018** | 🇩🇪 Cologne, Germany | [deadline not specified](https://swiftconf.com/speaker/you/) |
 | [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France | n/a |
 | [Swift by Northwest](https://swiftbynorthwest.com/) | **October 18-20, 2018** | 🇺🇸 Portland, OR, USA | n/a |
 
