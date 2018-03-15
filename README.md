@@ -5,7 +5,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Teki Con](https://teki-con.com/) | **March 12-14, 2018** | 🇺🇸 Atlanta, GA, USA | n/a |
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK | [~~November 6, 2017~~](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
 | [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA | n/a |
 | [UIKonf](http://www.uikonf.com/) | **May 13-16, 2018** | 🇩🇪 Berlin, Germany | [February 20, 2018](http://cfp.uikonf.com/about) |
@@ -118,6 +117,7 @@ All-English conferences for **Cocoa** developers.
 | [SwiftFest](http://www.swiftfest.io/) | **November 29-30, 2017** | 🇺🇸 Boston, MA, USA |
 | [dot Swift](https://2018.dotswift.io/) | **January 29, 2018** | 🇫🇷 Paris, France |
 | [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 1-3, 2018** | 🇯🇵 Tokyo, Japan |
+| [Teki Con](https://teki-con.com/) | **March 12-14, 2018** | 🇺🇸 Atlanta, GA, USA | n/a |
 
 ### Related to Cocoa or Mobile in general
 
