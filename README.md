@@ -11,11 +11,13 @@ All-English conferences for **Cocoa** developers.
 | [WWDC](https://developer.apple.com/wwdc/) | **June 4-8, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
 | [Next Door](https://nextdoorconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
 | [AltConf](http://altconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
+| [try! Swift San Jose](https://www.tryswift.co/events/2018/sanjose/) | **June 8, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
 | [SwiftFest](http://swiftfest.io/) | **June 18-19, 2018** | 🇺🇸 Boston, MA, USA | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform) |
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 21-22, 2018** | 🇵🇹 Aveiro, Portugal | n/a |
 | [Swift Island](http://www.swiftisland.nl/) | **July 4-5, 2018** | 🇳🇱 Texel, Netherlands | n/a |
 | [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA | n/a |
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSc_SjMGwf9sbJjBDSkOHve2itJ3Uq9JY-Lxh_TIDlRCx5eZWg/viewform) |
+| [try! Swift New York City](https://www.tryswift.co/events/2018/nyc/)| **September 4-5, 2018** | 🇺🇸 New York City, NY, USA | n/a |
 | [SwiftConf](https://swiftconf.com) | **September 19-20, 2018** | 🇩🇪 Cologne, Germany | [deadline not specified](https://swiftconf.com/speaker/you/) |
 | [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France | n/a |
 | [Swift by Northwest](https://swiftbynorthwest.com/) | **October 18-20, 2018** | 🇺🇸 Portland, OR, USA | n/a |
