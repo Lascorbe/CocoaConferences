@@ -5,8 +5,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK | [~~November 6, 2017~~](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#get_involved) |
-| [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA | n/a |
 | [UIKonf](http://www.uikonf.com/) | **May 13-16, 2018** | 🇩🇪 Berlin, Germany | [~~February 20, 2018~~](http://cfp.uikonf.com/about) |
 | [WWDC](https://developer.apple.com/wwdc/) | **June 4-8, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
 | [Next Door](https://nextdoorconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
@@ -16,7 +14,7 @@ All-English conferences for **Cocoa** developers.
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 21-22, 2018** | 🇵🇹 Aveiro, Portugal | n/a |
 | [Swift Island](http://www.swiftisland.nl/) | **July 4-5, 2018** | 🇳🇱 Texel, Netherlands | n/a |
 | [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA | n/a |
-| [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSc_SjMGwf9sbJjBDSkOHve2itJ3Uq9JY-Lxh_TIDlRCx5eZWg/viewform) |
+| [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | [~~deadline not specified~~](https://docs.google.com/forms/d/e/1FAIpQLSc_SjMGwf9sbJjBDSkOHve2itJ3Uq9JY-Lxh_TIDlRCx5eZWg/viewform) |
 | [try! Swift New York City](https://www.tryswift.co/events/2018/nyc/)| **September 4-5, 2018** | 🇺🇸 New York City, NY, USA | n/a |
 | [SwiftConf](https://swiftconf.com) | **September 19-20, 2018** | 🇩🇪 Cologne, Germany | [deadline not specified](https://swiftconf.com/speaker/you/) |
 | [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France | n/a |
@@ -27,10 +25,11 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | 🇬🇧 Chester, UK | [~~August 31, 2017~~](http://www.codemobile.co.uk/call-for-speakers/)
 | [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland | [~~January 14~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
+| [Craft Conference](http://craft-conf.com) | **May 8-11, 2018** | 🇭🇺 Budapest, Hungary |
 | [MCE](http://2018.mceconf.com) | **June 5-6, 2018** | 🇵🇱 Warsaw, Poland | n/a |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain | [~~February 15~~](https://addconf.com/2018/call-for-proposals/) |
+| [Mobile Era](https://mobileera.rocks/) | **November 1-2, 2018** | 🇳🇴 Oslo, Norway | [May 31](https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform) |
 
 
 # Has already happened...
@@ -118,7 +117,9 @@ All-English conferences for **Cocoa** developers.
 | [SwiftFest](http://www.swiftfest.io/) | **November 29-30, 2017** | 🇺🇸 Boston, MA, USA |
 | [dot Swift](https://2018.dotswift.io/) | **January 29, 2018** | 🇫🇷 Paris, France |
 | [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 1-3, 2018** | 🇯🇵 Tokyo, Japan |
-| [Teki Con](https://teki-con.com/) | **March 12-14, 2018** | 🇺🇸 Atlanta, GA, USA | n/a |
+| [Teki Con](https://teki-con.com/) | **March 12-14, 2018** | 🇺🇸 Atlanta, GA, USA |
+| [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK |
+| [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA |
 
 ### Related to Cocoa or Mobile in general
 
@@ -159,7 +160,8 @@ All-English conferences for **Cocoa** developers.
 | [UA Mobile](http://www.uamobile.org/) | **November 25, 2017** | 🇺🇦 Kyiv, Ukraine |
 | [MobOS](http://romobos.com/) | **February 15-16, 2018** | 🇷🇴 Cluj-Napoca, Romania |
 | [MobileTech](https://mobiletechcon.de/en/) | **March 12-14, 2018** | 🇩🇪 Munich, Germany | n/a |
-| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 15-18, 2018** | 🇳🇱 Amsterdam, Netherlands | ~~[December 15, 2017](http://appdevcon.nl/call-for-papers-2018/)~~ |
+| [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 15-18, 2018** | 🇳🇱 Amsterdam, Netherlands |
+| [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | 🇬🇧 Chester, UK |
 
 
 ### More
