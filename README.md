@@ -19,6 +19,7 @@ All-English conferences for **Cocoa** developers.
 | [SwiftConf](https://swiftconf.com) | **September 19-20, 2018** | 🇩🇪 Cologne, Germany | [deadline not specified](https://swiftconf.com/speaker/you/) |
 | [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France | n/a |
 | [Swift by Northwest](https://swiftbynorthwest.com/) | **October 18-20, 2018** | 🇺🇸 Portland, OR, USA | n/a |
+| [Swift Alps](http://theswiftalps.com/) | **November 2018** | 🇨🇭 Crans-Montana, Switzerland | n/a |
 
 
 ### Related to Cocoa or Mobile in general
