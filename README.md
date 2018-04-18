@@ -26,7 +26,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland | [~~January 14~~](https://docs.google.com/forms/d/e/1FAIpQLSfvL9muXHeVUe9cujgwmLbXieCe_VC7s5fhWcXW_8KPa6KTVA/viewform) |
 | [Craft Conference](http://craft-conf.com) | **May 8-11, 2018** | 🇭🇺 Budapest, Hungary |
 | [MCE](http://2018.mceconf.com) | **June 5-6, 2018** | 🇵🇱 Warsaw, Poland | n/a |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain | [~~February 15~~](https://addconf.com/2018/call-for-proposals/) |
@@ -163,6 +162,7 @@ All-English conferences for **Cocoa** developers.
 | [MobileTech](https://mobiletechcon.de/en/) | **March 12-14, 2018** | 🇩🇪 Munich, Germany | n/a |
 | [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 15-18, 2018** | 🇳🇱 Amsterdam, Netherlands |
 | [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | 🇬🇧 Chester, UK |
+| [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland |
 
 
 ### More
