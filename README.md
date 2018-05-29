@@ -5,7 +5,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [UIKonf](http://www.uikonf.com/) | **May 13-16, 2018** | 🇩🇪 Berlin, Germany | [~~February 20, 2018~~](http://cfp.uikonf.com/about) |
 | [WWDC](https://developer.apple.com/wwdc/) | **June 4-8, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
 | [Next Door](https://nextdoorconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
 | [AltConf](http://altconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
@@ -122,6 +121,7 @@ All-English conferences for **Cocoa** developers.
 | [Teki Con](https://teki-con.com/) | **March 12-14, 2018** | 🇺🇸 Atlanta, GA, USA |
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK |
 | [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA |
+| [UIKonf](http://www.uikonf.com/) | **May 13-16, 2018** | 🇩🇪 Berlin, Germany |
 
 ### Related to Cocoa or Mobile in general
 
