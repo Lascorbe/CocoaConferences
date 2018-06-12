@@ -115,7 +115,6 @@ All-English conferences for **Cocoa** developers.
 | [Swift Summit](https://www.swiftsummit.com/) | **October 30-31, 2017** | 🇺🇸 San Francisco, CA, USA |
 | [try! Swift India](https://www.tryswift.co/events/2017/bangalore) | **November 18-19, 2017** | 🇮🇳 Bangalore, India |
 | [Swift Alps](http://theswiftalps.com/) | **November 23-24, 2017** | 🇨🇭 Crans-Montana, Switzerland |
-| [SwiftFest](http://www.swiftfest.io/) | **November 29-30, 2017** | 🇺🇸 Boston, MA, USA |
 | [dot Swift](https://2018.dotswift.io/) | **January 29, 2018** | 🇫🇷 Paris, France |
 | [try! Swift Tokyo](https://www.tryswift.co/events/2018/tokyo/en/) | **March 1-3, 2018** | 🇯🇵 Tokyo, Japan |
 | [Teki Con](https://teki-con.com/) | **March 12-14, 2018** | 🇺🇸 Atlanta, GA, USA |
