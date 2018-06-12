@@ -5,10 +5,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [WWDC](https://developer.apple.com/wwdc/) | **June 4-8, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
-| [Next Door](https://nextdoorconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
-| [AltConf](http://altconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
-| [try! Swift San Jose](https://www.tryswift.co/events/2018/sanjose/) | **June 8, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
 | [SwiftFest](http://swiftfest.io/) | **June 18-19, 2018** | 🇺🇸 Boston, MA, USA | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform) |
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 21-22, 2018** | 🇵🇹 Aveiro, Portugal | n/a |
 | [Swift Island](http://www.swiftisland.nl/) | **July 4-5, 2018** | 🇳🇱 Texel, Netherlands | n/a |
@@ -27,8 +23,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Craft Conference](http://craft-conf.com) | **May 8-11, 2018** | 🇭🇺 Budapest, Hungary |
-| [MCE](http://2018.mceconf.com) | **June 5-6, 2018** | 🇵🇱 Warsaw, Poland | n/a |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain | [~~February 15~~](https://addconf.com/2018/call-for-proposals/) |
 | [Mobile Era](https://mobileera.rocks/) | **November 1-2, 2018** | 🇳🇴 Oslo, Norway | [May 31](https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform) |
 
@@ -121,6 +115,10 @@ All-English conferences for **Cocoa** developers.
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK |
 | [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA |
 | [UIKonf](http://www.uikonf.com/) | **May 13-16, 2018** | 🇩🇪 Berlin, Germany |
+| [WWDC](https://developer.apple.com/wwdc/) | **June 4-8, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
+| [Next Door](https://nextdoorconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
+| [AltConf](http://altconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
+| [try! Swift San Jose](https://www.tryswift.co/events/2018/sanjose/) | **June 8, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
 
 ### Related to Cocoa or Mobile in general
 
@@ -164,7 +162,8 @@ All-English conferences for **Cocoa** developers.
 | [Appdevcon](http://appdevcon.nl/) previously called mDevcon | **March 15-18, 2018** | 🇳🇱 Amsterdam, Netherlands |
 | [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | 🇬🇧 Chester, UK |
 | [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland |
-
+| [Craft Conference](http://craft-conf.com) | **May 8-11, 2018** | 🇭🇺 Budapest, Hungary |
+| [MCE](http://2018.mceconf.com) | **June 5-6, 2018** | 🇵🇱 Warsaw, Poland | n/a |
 
 ### More
 
