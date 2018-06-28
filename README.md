@@ -24,7 +24,7 @@ All-English conferences for **Cocoa** developers.
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain | [~~February 15~~](https://addconf.com/2018/call-for-proposals/) |
 | [Mobile Era](https://mobileera.rocks/) | **November 1-2, 2018** | 🇳🇴 Oslo, Norway | [May 31](https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform) |
 | [DevFest Baltics](https://devfest.gdg.lv/) | **November 16** | 🇱🇻 JURMALA, Latvia | [June 29](https://www.papercall.io/devfest-baltics-18) |
-| [Mobiconf](https://2018.mobiconf.org/) | **October 4-5, 2018** | 🇵🇱 Krakow, Poland |
+| [Mobiconf](https://2018.mobiconf.org/) | **October 4-5, 2018** | 🇵🇱 Krakow, Poland | n/a |
 
 
 # Has already happened...
