@@ -5,16 +5,14 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [SwiftFest](http://swiftfest.io/) | **June 18-19, 2018** | 🇺🇸 Boston, MA, USA | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform) |
-| [SwiftAveiro](http://swiftaveiro.xyz/) | **June 21-22, 2018** | 🇵🇹 Aveiro, Portugal | n/a |
 | [Swift Island](http://www.swiftisland.nl/) | **July 4-5, 2018** | 🇳🇱 Texel, Netherlands | n/a |
 | [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA | n/a |
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | [~~deadline not specified~~](https://docs.google.com/forms/d/e/1FAIpQLSc_SjMGwf9sbJjBDSkOHve2itJ3Uq9JY-Lxh_TIDlRCx5eZWg/viewform) |
 | [try! Swift New York City](https://www.tryswift.co/events/2018/nyc/)| **September 4-5, 2018** | 🇺🇸 New York City, NY, USA | n/a |
 | [Swift & Fika](http://www.swiftandfika.com/) | **September 9-10, 2018** | 🇸🇪 Stockholm, Sweden | TBA |
-| [NSSpain](http://nsspain.com/) | **September 12-14, 2018** | 🇪🇸 Logroño, Spain | [23:59 June 24, 2018](https://backstage.nsspain.com/c4p/) |
+| [NSSpain](http://nsspain.com/) | **September 12-14, 2018** | 🇪🇸 Logroño, Spain | [~~June 24, 2018~~](https://backstage.nsspain.com/c4p/) |
 | [SwiftConf](https://swiftconf.com) | **September 19-20, 2018** | 🇩🇪 Cologne, Germany | [deadline not specified](https://swiftconf.com/speaker/you/) |
-| [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France | [June 24, 2018](https://www.papercall.io/frenchkit-2018) |
+| [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France | [~~June 24, 2018~~](https://www.papercall.io/frenchkit-2018) |
 | [Swift by Northwest](https://swiftbynorthwest.com/) | **October 18-20, 2018** | 🇺🇸 Portland, OR, USA | n/a |
 | [Swift Alps](http://theswiftalps.com/) | **November 2018** | 🇨🇭 Crans-Montana, Switzerland | n/a |
 
@@ -25,6 +23,8 @@ All-English conferences for **Cocoa** developers.
 | --- | --- | --- | --- |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain | [~~February 15~~](https://addconf.com/2018/call-for-proposals/) |
 | [Mobile Era](https://mobileera.rocks/) | **November 1-2, 2018** | 🇳🇴 Oslo, Norway | [May 31](https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform) |
+| [DevFest Baltics](https://devfest.gdg.lv/) | **November 16** | 🇱🇻 JURMALA, Latvia | [June 29](https://www.papercall.io/devfest-baltics-18) |
+| [Mobiconf](https://2018.mobiconf.org/) | **October 4-5, 2018** | 🇵🇱 Krakow, Poland |
 
 
 # Has already happened...
@@ -115,10 +115,12 @@ All-English conferences for **Cocoa** developers.
 | [iOSCon 2018](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers) | **March 22-23, 2018** | 🇬🇧 London, UK |
 | [RWDevCon 2018](https://www.rwdevcon.com/) | **April 5-7, 2018** | 🇺🇸 Washington, D.C, USA |
 | [UIKonf](http://www.uikonf.com/) | **May 13-16, 2018** | 🇩🇪 Berlin, Germany |
-| [WWDC](https://developer.apple.com/wwdc/) | **June 4-8, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
-| [Next Door](https://nextdoorconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
-| [AltConf](http://altconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
-| [try! Swift San Jose](https://www.tryswift.co/events/2018/sanjose/) | **June 8, 2018** | 🇺🇸 San Jose, CA, USA | n/a |
+| [WWDC](https://developer.apple.com/wwdc/) | **June 4-8, 2018** | 🇺🇸 San Jose, CA, USA |
+| [Next Door](https://nextdoorconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA |
+| [AltConf](http://altconf.com/) | **June 4-7, 2018** | 🇺🇸 San Jose, CA, USA |
+| [try! Swift San Jose](https://www.tryswift.co/events/2018/sanjose/) | **June 8, 2018** | 🇺🇸 San Jose, CA, USA |
+| [SwiftFest](http://swiftfest.io/) | **June 18-19, 2018** | 🇺🇸 Boston, MA, USA |
+| [SwiftAveiro](http://swiftaveiro.xyz/) | **June 21-22, 2018** | 🇵🇹 Aveiro, Portugal |
 
 ### Related to Cocoa or Mobile in general
 
