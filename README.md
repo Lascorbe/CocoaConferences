@@ -5,7 +5,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Swift Island](http://www.swiftisland.nl/) | **July 4-5, 2018** | 🇳🇱 Texel, Netherlands | n/a |
 | [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA | n/a |
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | [~~deadline not specified~~](https://docs.google.com/forms/d/e/1FAIpQLSc_SjMGwf9sbJjBDSkOHve2itJ3Uq9JY-Lxh_TIDlRCx5eZWg/viewform) |
 | [try! Swift New York City](https://www.tryswift.co/events/2018/nyc/)| **September 4-5, 2018** | 🇺🇸 New York City, NY, USA | n/a |
@@ -21,9 +20,8 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain | [~~February 15~~](https://addconf.com/2018/call-for-proposals/) |
-| [Mobile Era](https://mobileera.rocks/) | **November 1-2, 2018** | 🇳🇴 Oslo, Norway | [May 31](https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform) |
-| [DevFest Baltics](https://devfest.gdg.lv/) | **November 16** | 🇱🇻 JURMALA, Latvia | [June 29](https://www.papercall.io/devfest-baltics-18) |
+| [Mobile Era](https://mobileera.rocks/) | **November 1-2, 2018** | 🇳🇴 Oslo, Norway | [~~May 31~~](https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform) |
+| [DevFest Baltics](https://devfest.gdg.lv/) | **November 16** | 🇱🇻 JURMALA, Latvia | [~~June 29~~](https://www.papercall.io/devfest-baltics-18) |
 | [Mobiconf](https://2018.mobiconf.org/) | **October 4-5, 2018** | 🇵🇱 Krakow, Poland | n/a |
 
 
@@ -121,6 +119,7 @@ All-English conferences for **Cocoa** developers.
 | [try! Swift San Jose](https://www.tryswift.co/events/2018/sanjose/) | **June 8, 2018** | 🇺🇸 San Jose, CA, USA |
 | [SwiftFest](http://swiftfest.io/) | **June 18-19, 2018** | 🇺🇸 Boston, MA, USA |
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 21-22, 2018** | 🇵🇹 Aveiro, Portugal |
+| [Swift Island](http://www.swiftisland.nl/) | **July 4-5, 2018** | 🇳🇱 Texel, Netherlands |
 
 ### Related to Cocoa or Mobile in general
 
@@ -165,7 +164,8 @@ All-English conferences for **Cocoa** developers.
 | [Code Mobile](http://www.codemobile.co.uk) | **April 2-5, 2018** | 🇬🇧 Chester, UK |
 | [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland |
 | [Craft Conference](http://craft-conf.com) | **May 8-11, 2018** | 🇭🇺 Budapest, Hungary |
-| [MCE](http://2018.mceconf.com) | **June 5-6, 2018** | 🇵🇱 Warsaw, Poland | n/a |
+| [MCE](http://2018.mceconf.com) | **June 5-6, 2018** | 🇵🇱 Warsaw, Poland | 
+| [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain ||
 
 ### More
 
