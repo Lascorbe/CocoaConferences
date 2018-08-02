@@ -13,6 +13,7 @@ All-English conferences for **Cocoa** developers.
 | [SwiftConf](https://swiftconf.com) | **September 19-20, 2018** | 🇩🇪 Cologne, Germany | [deadline not specified](https://swiftconf.com/speaker/you/) |
 | [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France | [~~June 24, 2018~~](https://www.papercall.io/frenchkit-2018) |
 | [Swift by Northwest](https://swiftbynorthwest.com/) | **October 18-20, 2018** | 🇺🇸 Portland, OR, USA | n/a |
+| [Swift Heroes](http://www.swiftheroes.com/) | **November 9, 2018** | 🇮🇹 Turin, Italy | n/a
 | [Swift Alps](http://theswiftalps.com/) | **November 29-30, 2018** | 🇨🇭 Crans-Montana, Switzerland | n/a |
 
 
