@@ -16,7 +16,7 @@ All-English conferences for **Cocoa** developers.
 | [Do iOS](https://do-ios.com/) | **November 2, 2018** | 🇳🇱 Amsterdam, The Netherlands | n/a
 | [Swift Heroes](http://www.swiftheroes.com/) | **November 9, 2018** | 🇮🇹 Turin, Italy | n/a
 | [Swift Alps](http://theswiftalps.com/) | **November 29-30, 2018** | 🇨🇭 Crans-Montana, Switzerland | n/a |
-
+| [iOS Conf SG](http://iosconf.sg/) | **January 18-19, 2019** | 🇸🇬 Singapore, Singapore | [October 15, 2018](https://www.papercall.io/iosconfsg) |
 
 ### Related to Cocoa or Mobile in general
 
