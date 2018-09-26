@@ -18,7 +18,7 @@ All-English conferences for **Cocoa** developers.
 | [Swift Alps](http://theswiftalps.com/) | **November 29-30, 2018** | 🇨🇭 Crans-Montana, Switzerland | n/a |
 | [iOS Conf SG](http://iosconf.sg/) | **January 18-19, 2019** | 🇸🇬 Singapore, Singapore | [October 15, 2018](https://www.papercall.io/iosconfsg) |
 | [dotSwift](https://www.dotswift.io) | **January 28, 2019** | 🇫🇷 Paris, France | [deadline not specified](https://goo.gl/forms/T4Z7rTy2RxfhUebd2) |
-| [iOSCon 2019](http://ioscon.co.uk) | **March 22-23, 2018** | 🇬🇧 London, UK | [November 26, 2018](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved) |
+| [iOSCon 2019](http://ioscon.co.uk) | **March 21-22, 2019** | 🇬🇧 London, UK | [November 26, 2018](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved) |
 
 
 ### Related to Cocoa or Mobile in general
