@@ -5,13 +5,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA | n/a |
-| [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK | [~~deadline not specified~~](https://docs.google.com/forms/d/e/1FAIpQLSc_SjMGwf9sbJjBDSkOHve2itJ3Uq9JY-Lxh_TIDlRCx5eZWg/viewform) |
-| [try! Swift New York City](https://www.tryswift.co/events/2018/nyc/)| **September 4-5, 2018** | 🇺🇸 New York City, NY, USA | n/a |
-| [Swift & Fika](http://www.swiftandfika.com/) | **September 9-10, 2018** | 🇸🇪 Stockholm, Sweden | TBA |
-| [NSSpain](http://nsspain.com/) | **September 12-14, 2018** | 🇪🇸 Logroño, Spain | [~~June 24, 2018~~](https://backstage.nsspain.com/c4p/) |
-| [SwiftConf](https://swiftconf.com) | **September 19-20, 2018** | 🇩🇪 Cologne, Germany | [deadline not specified](https://swiftconf.com/speaker/you/) |
-| [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France | [~~June 24, 2018~~](https://www.papercall.io/frenchkit-2018) |
 | [Swift by Northwest](https://swiftbynorthwest.com/) | **October 18-20, 2018** | 🇺🇸 Portland, OR, USA | n/a |
 | [Do iOS](https://do-ios.com/) | **November 2, 2018** | 🇳🇱 Amsterdam, The Netherlands | n/a
 | [Swift Heroes](http://www.swiftheroes.com/) | **November 9, 2018** | 🇮🇹 Turin, Italy | n/a
@@ -125,6 +118,13 @@ All-English conferences for **Cocoa** developers.
 | [SwiftFest](http://swiftfest.io/) | **June 18-19, 2018** | 🇺🇸 Boston, MA, USA |
 | [SwiftAveiro](http://swiftaveiro.xyz/) | **June 21-22, 2018** | 🇵🇹 Aveiro, Portugal |
 | [Swift Island](http://www.swiftisland.nl/) | **July 4-5, 2018** | 🇳🇱 Texel, Netherlands |
+| [360\|iDev](http://360idev.com/) | **August 26-29, 2018** | 🇺🇸 Denver, CO, USA |
+| [iOSDevUK](http://www.iosdevuk.com/) | **September 3-6, 2018** | 🇬🇧 Aberystwyth, UK |
+| [try! Swift New York City](https://www.tryswift.co/events/2018/nyc/)| **September 4-5, 2018** | 🇺🇸 New York City, NY, USA |
+| [Swift & Fika](http://www.swiftandfika.com/) | **September 9-10, 2018** | 🇸🇪 Stockholm, Sweden |
+| [NSSpain](http://nsspain.com/) | **September 12-14, 2018** | 🇪🇸 Logroño, Spain |
+| [SwiftConf](https://swiftconf.com) | **September 19-20, 2018** | 🇩🇪 Cologne, Germany |
+| [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France |
 
 ### Related to Cocoa or Mobile in general
 
