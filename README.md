@@ -12,6 +12,7 @@ All-English conferences for **Cocoa** developers.
 | [iOS Conf SG](http://iosconf.sg/) | **January 18-19, 2019** | 🇸🇬 Singapore, Singapore | [October 15, 2018](https://www.papercall.io/iosconfsg) |
 | [dotSwift](https://www.dotswift.io) | **January 28, 2019** | 🇫🇷 Paris, France | [deadline not specified](https://goo.gl/forms/T4Z7rTy2RxfhUebd2) |
 | [iOSCon 2019](http://ioscon.co.uk) | **March 21-22, 2019** | 🇬🇧 London, UK | [November 26, 2018](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved) |
+| [CodeMobile](http://www.codemobile.co.uk/) | **April 1-4, 2019** | 🇬🇧 Chester, UK | [October 31, 2018](http://www.codemobile.co.uk/call-for-speakers/) |
 
 
 ### Related to Cocoa or Mobile in general
