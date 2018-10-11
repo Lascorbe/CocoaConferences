@@ -12,7 +12,6 @@ All-English conferences for **Cocoa** developers.
 | [iOS Conf SG](http://iosconf.sg/) | **January 18-19, 2019** | 🇸🇬 Singapore, Singapore | [October 15, 2018](https://www.papercall.io/iosconfsg) |
 | [dotSwift](https://www.dotswift.io) | **January 28, 2019** | 🇫🇷 Paris, France | [deadline not specified](https://goo.gl/forms/T4Z7rTy2RxfhUebd2) |
 | [iOSCon 2019](http://ioscon.co.uk) | **March 21-22, 2019** | 🇬🇧 London, UK | [November 26, 2018](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved) |
-| [CodeMobile](http://www.codemobile.co.uk/) | **April 1-4, 2019** | 🇬🇧 Chester, UK | [October 31, 2018](http://www.codemobile.co.uk/call-for-speakers/) |
 
 
 ### Related to Cocoa or Mobile in general
@@ -20,7 +19,8 @@ All-English conferences for **Cocoa** developers.
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
 | [Mobile Era](https://mobileera.rocks/) | **November 1-2, 2018** | 🇳🇴 Oslo, Norway | [~~May 31~~](https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform) |
-| [DevFest Baltics](https://devfest.gdg.lv/) | **November 16** | 🇱🇻 JURMALA, Latvia | [~~June 29~~](https://www.papercall.io/devfest-baltics-18) |
+| [DevFest Baltics](https://devfest.gdg.lv/) | **November 16** | 🇱🇻 Jurmala, Latvia | [~~June 29~~](https://www.papercall.io/devfest-baltics-18) |
+| [CodeMobile](http://www.codemobile.co.uk/) | **April 1-4, 2019** | 🇬🇧 Chester, UK | [October 31, 2018](http://www.codemobile.co.uk/call-for-speakers/) |
 | [App Builders](https://appbuilders.ch/) | **April 29-30, 2019** | 🇨🇭 Lugano, Switzerland | n/a |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **June 26-28, 2019** | 🇪🇸 Barcelona, Spain | TBA |
 
