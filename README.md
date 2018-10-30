@@ -5,7 +5,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Swift by Northwest](https://swiftbynorthwest.com/) | **October 18-20, 2018** | 🇺🇸 Portland, OR, USA | n/a |
 | [Do iOS](https://do-ios.com/) | **November 2, 2018** | 🇳🇱 Amsterdam, The Netherlands | n/a
 | [Swift Heroes](http://www.swiftheroes.com/) | **November 9, 2018** | 🇮🇹 Turin, Italy | n/a
 | [Swift Alps](http://theswiftalps.com/) | **November 29-30, 2018** | 🇨🇭 Crans-Montana, Switzerland | n/a |
@@ -19,9 +18,9 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Functional Swift Conference 2018](http://2018.funswiftconf.com) | **December 1, 2018** | 🇺🇸 New York, NY | See site for details
 | [Mobile Era](https://mobileera.rocks/) | **November 1-2, 2018** | 🇳🇴 Oslo, Norway | [~~May 31~~](https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform) |
 | [DevFest Baltics](https://devfest.gdg.lv/) | **November 16** | 🇱🇻 Jurmala, Latvia | [~~June 29~~](https://www.papercall.io/devfest-baltics-18) |
+| [Functional Swift Conference 2018](http://2018.funswiftconf.com) | **December 1, 2018** | 🇺🇸 New York, NY | See CFP section on the website for details |
 | [CodeMobile](http://www.codemobile.co.uk/) | **April 1-4, 2019** | 🇬🇧 Chester, UK | [October 31, 2018](http://www.codemobile.co.uk/call-for-speakers/) |
 | [App Builders](https://appbuilders.ch/) | **April 29-30, 2019** | 🇨🇭 Lugano, Switzerland | n/a |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **June 26-28, 2019** | 🇪🇸 Barcelona, Spain | TBA |
@@ -176,6 +175,7 @@ All-English conferences for **Cocoa** developers.
 | [MCE](http://2018.mceconf.com) | **June 5-6, 2018** | 🇵🇱 Warsaw, Poland | 
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain ||
 | [Mobiconf](https://2018.mobiconf.org/) | **October 4-5, 2018** | 🇵🇱 Krakow, Poland | n/a |
+| [Swift by Northwest](https://swiftbynorthwest.com/) | **October 18-20, 2018** | 🇺🇸 Portland, OR, USA | n/a |
 
 ### More
 
