@@ -19,6 +19,7 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
+| [Functional Swift Conference 2018](http://2018.funswiftconf.com) | **December 1, 2018** | 🇺🇸 New York, NY | See site for details
 | [Mobile Era](https://mobileera.rocks/) | **November 1-2, 2018** | 🇳🇴 Oslo, Norway | [~~May 31~~](https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform) |
 | [DevFest Baltics](https://devfest.gdg.lv/) | **November 16** | 🇱🇻 Jurmala, Latvia | [~~June 29~~](https://www.papercall.io/devfest-baltics-18) |
 | [CodeMobile](http://www.codemobile.co.uk/) | **April 1-4, 2019** | 🇬🇧 Chester, UK | [October 31, 2018](http://www.codemobile.co.uk/call-for-speakers/) |
