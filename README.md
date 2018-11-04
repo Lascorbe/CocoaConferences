@@ -13,6 +13,7 @@ All-English conferences for **Cocoa** developers.
 | [Appdevcon](https://appdevcon.nl) | **March 12-15, 2019** | 🇳🇱 Amsterdam, The Netherlands | [December 21, 2018](https://appdevcon.nl/the-call-for-presentations-for-appdevcon-2019-is-now-open/) |
 | [iOSCon 2019](http://ioscon.co.uk) | **March 21-22, 2019** | 🇬🇧 London, UK | [November 26, 2018](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved) |
 | [NSNorth](http://nsnorth.ca/) | **April 26-28, 2019** | 🇨🇦 Toronto, Canada | n/a |
+| [UIKonf](https://uikonf.com) | **May 2019** | 🇩🇪 Berlin, Germany | TBA |
 
 ### Related to Cocoa or Mobile in general
 
