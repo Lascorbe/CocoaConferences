@@ -5,7 +5,6 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Swift Alps](http://theswiftalps.com/) | **November 29-30, 2018** | 🇨🇭 Crans-Montana, Switzerland | n/a |
 | [iOS Conf SG](http://iosconf.sg/) | **January 18-19, 2019** | 🇸🇬 Singapore, Singapore | [October 15, 2018](https://www.papercall.io/iosconfsg) |
 | [dotSwift](https://www.dotswift.io) | **January 28, 2019** | 🇫🇷 Paris, France | [deadline not specified](https://goo.gl/forms/T4Z7rTy2RxfhUebd2) |
 | [Appdevcon](https://appdevcon.nl) | **March 12-15, 2019** | 🇳🇱 Amsterdam, The Netherlands | [December 21, 2018](https://appdevcon.nl/the-call-for-presentations-for-appdevcon-2019-is-now-open/) |
@@ -22,7 +21,7 @@ All-English conferences for **Cocoa** developers.
 | [DevFest Baltics](https://devfest.gdg.lv/) | **November 16** | 🇱🇻 Jurmala, Latvia | [~~June 29~~](https://www.papercall.io/devfest-baltics-18) |
 | [Functional Swift Conference 2018](http://2018.funswiftconf.com) | **December 1, 2018** | 🇺🇸 New York, NY | See CFP section on the website for details |
 | [CodeMobile](http://www.codemobile.co.uk/) | **April 1-4, 2019** | 🇬🇧 Chester, UK | [October 31, 2018](http://www.codemobile.co.uk/call-for-speakers/) |
-| [App Builders](https://appbuilders.ch/) | **April 29-30, 2019** | 🇨🇭 Lugano, Switzerland | n/a |
+| [App Builders](https://appbuilders.ch/) | **April 29-30, 2019** | 🇨🇭 Lugano, Switzerland | [January 12](https://docs.google.com/forms/d/1nC_NO7zQoYjldBIgcgmc47qgbTxHZrcIur-uQlOu-sA/) |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **June 26-28, 2019** | 🇪🇸 Barcelona, Spain | TBA |
 
 
@@ -128,8 +127,9 @@ All-English conferences for **Cocoa** developers.
 | [NSSpain](http://nsspain.com/) | **September 12-14, 2018** | 🇪🇸 Logroño, Spain |
 | [SwiftConf](https://swiftconf.com) | **September 19-20, 2018** | 🇩🇪 Cologne, Germany |
 | [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France |
-| [Do iOS](https://do-ios.com/) | **November 2, 2018** | 🇳🇱 Amsterdam, The Netherlands | n/a
-| [Swift Heroes](http://www.swiftheroes.com/) | **November 9, 2018** | 🇮🇹 Turin, Italy | n/a
+| [Do iOS](https://do-ios.com/) | **November 2, 2018** | 🇳🇱 Amsterdam, The Netherlands |
+| [Swift Heroes](http://www.swiftheroes.com/) | **November 9, 2018** | 🇮🇹 Turin, Italy |
+| [Swift Alps](http://theswiftalps.com/) | **November 29-30, 2018** | 🇨🇭 Crans-Montana, Switzerland |
 
 ### Related to Cocoa or Mobile in general
 
