@@ -11,7 +11,7 @@ All-English conferences for **Cocoa** developers.
 | [iOSCon 2019](http://ioscon.co.uk) | **March 21-22, 2019** | 🇬🇧 London, UK | [~~November 26, 2018~~](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved) |
 | [trySwift! Tokyo 2019](https://www.tryswift.co/events/2019/tokyo/en/) | **March 21-22, 2019** | 🇯🇵 Tokyo, Japan | n/a |
 | [NSNorth](http://nsnorth.ca/) | **April 26-28, 2019** | 🇨🇦 Toronto, Canada | n/a |
-| [UIKonf](https://uikonf.com) | **May 26-29 2019** | 🇩🇪 Berlin, Germany | TBA |
+| [UIKonf](https://uikonf.com) | **May 26-29, 2019** | 🇩🇪 Berlin, Germany | TBA |
 | [360\|iDev](http://360idev.com/) | **August 25-28, 2019** | 🇺🇸 Denver, CO, USA | n/a |
 | [iOSDevUK](http://www.iosdevuk.com/) | **September 2-5, 2019** | 🇬🇧 Aberystwyth, UK | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSehHlTPYDW0NjegZfJDAiOWE65GMAK1k36Yf-TTIteYswP3CA/viewform) |
 
