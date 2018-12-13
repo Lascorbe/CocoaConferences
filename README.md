@@ -5,22 +5,22 @@ All-English conferences for **Cocoa** developers.
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [iOS Conf SG](http://iosconf.sg/) | **January 18-19, 2019** | 🇸🇬 Singapore, Singapore | [October 15, 2018](https://www.papercall.io/iosconfsg) |
+| [iOS Conf SG](http://iosconf.sg/) | **January 18-19, 2019** | 🇸🇬 Singapore, Singapore | [~~October 15, 2018~~](https://www.papercall.io/iosconfsg) |
 | [dotSwift](https://www.dotswift.io) | **January 28, 2019** | 🇫🇷 Paris, France | [deadline not specified](https://goo.gl/forms/T4Z7rTy2RxfhUebd2) |
 | [Appdevcon](https://appdevcon.nl) | **March 12-15, 2019** | 🇳🇱 Amsterdam, The Netherlands | [December 21, 2018](https://appdevcon.nl/the-call-for-presentations-for-appdevcon-2019-is-now-open/) |
-| [iOSCon 2019](http://ioscon.co.uk) | **March 21-22, 2019** | 🇬🇧 London, UK | [November 26, 2018](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved) |
+| [iOSCon 2019](http://ioscon.co.uk) | **March 21-22, 2019** | 🇬🇧 London, UK | [~~November 26, 2018~~](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved) |
 | [trySwift! Tokyo 2019](https://www.tryswift.co/events/2019/tokyo/en/) | **March 21-22, 2019** | 🇯🇵 Tokyo, Japan | n/a |
 | [NSNorth](http://nsnorth.ca/) | **April 26-28, 2019** | 🇨🇦 Toronto, Canada | n/a |
 | [UIKonf](https://uikonf.com) | **May 26-29 2019** | 🇩🇪 Berlin, Germany | TBA |
+| [360\|iDev](http://360idev.com/) | **August 25-28, 2019** | 🇺🇸 Denver, CO, USA | n/a |
+| [iOSDevUK](http://www.iosdevuk.com/) | **September 2-5, 2019** | 🇬🇧 Aberystwyth, UK | [deadline not specified](https://docs.google.com/forms/d/e/1FAIpQLSehHlTPYDW0NjegZfJDAiOWE65GMAK1k36Yf-TTIteYswP3CA/viewform) |
 
 ### Related to Cocoa or Mobile in general
 
 | Name | Date | Place | CfP deadline |
 | --- | --- | --- | --- |
-| [Mobile Era](https://mobileera.rocks/) | **November 1-2, 2018** | 🇳🇴 Oslo, Norway | [~~May 31~~](https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform) |
-| [DevFest Baltics](https://devfest.gdg.lv/) | **November 16** | 🇱🇻 Jurmala, Latvia | [~~June 29~~](https://www.papercall.io/devfest-baltics-18) |
-| [Functional Swift Conference 2018](http://2018.funswiftconf.com) | **December 1, 2018** | 🇺🇸 New York, NY | See CFP section on the website for details |
-| [CodeMobile](http://www.codemobile.co.uk/) | **April 1-4, 2019** | 🇬🇧 Chester, UK | [October 31, 2018](http://www.codemobile.co.uk/call-for-speakers/) |
+| [MobOS](http://romobos.com/) | **February 14-16, 2018** | 🇷🇴 Cluj-Napoca, Romania | [~~December 15~~](http://romobos.com/2019-edition/call-for-papers)
+| [CodeMobile](http://www.codemobile.co.uk/) | **April 1-4, 2019** | 🇬🇧 Chester, UK | [~~October 31, 2018~~](http://www.codemobile.co.uk/call-for-speakers/) |
 | [App Builders](https://appbuilders.ch/) | **April 29-30, 2019** | 🇨🇭 Lugano, Switzerland | [January 12](https://docs.google.com/forms/d/1nC_NO7zQoYjldBIgcgmc47qgbTxHZrcIur-uQlOu-sA/) |
 | [ADDC - App Design & Development Conference](https://addconf.com/) | **June 26-28, 2019** | 🇪🇸 Barcelona, Spain | TBA |
 
@@ -127,6 +127,7 @@ All-English conferences for **Cocoa** developers.
 | [NSSpain](http://nsspain.com/) | **September 12-14, 2018** | 🇪🇸 Logroño, Spain |
 | [SwiftConf](https://swiftconf.com) | **September 19-20, 2018** | 🇩🇪 Cologne, Germany |
 | [FrenchKit](http://www.frenchkit.fr/) | **September 20-21, 2018** | 🇫🇷 Paris, France |
+| [Swift by Northwest](https://swiftbynorthwest.com/) | **October 18-20, 2018** | 🇺🇸 Portland, OR, USA |
 | [Do iOS](https://do-ios.com/) | **November 2, 2018** | 🇳🇱 Amsterdam, The Netherlands |
 | [Swift Heroes](http://www.swiftheroes.com/) | **November 9, 2018** | 🇮🇹 Turin, Italy |
 | [Swift Alps](http://theswiftalps.com/) | **November 29-30, 2018** | 🇨🇭 Crans-Montana, Switzerland |
@@ -175,9 +176,11 @@ All-English conferences for **Cocoa** developers.
 | [App Builders](https://www.appbuilders.ch/) | **April 16-17, 2018** | 🇨🇭 Lugano, Switzerland |
 | [Craft Conference](http://craft-conf.com) | **May 8-11, 2018** | 🇭🇺 Budapest, Hungary |
 | [MCE](http://2018.mceconf.com) | **June 5-6, 2018** | 🇵🇱 Warsaw, Poland | 
-| [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain ||
-| [Mobiconf](https://2018.mobiconf.org/) | **October 4-5, 2018** | 🇵🇱 Krakow, Poland | n/a |
-| [Swift by Northwest](https://swiftbynorthwest.com/) | **October 18-20, 2018** | 🇺🇸 Portland, OR, USA | n/a |
+| [ADDC - App Design & Development Conference](https://addconf.com/) | **July 4-6, 2018** | 🇪🇸 Barcelona, Spain |
+| [Mobiconf](https://2018.mobiconf.org/) | **October 4-5, 2018** | 🇵🇱 Krakow, Poland |
+| [Mobile Era](https://mobileera.rocks/) | **November 1-2, 2018** | 🇳🇴 Oslo, Norway |
+| [DevFest Baltics](https://devfest.gdg.lv/) | **November 16** | 🇱🇻 Jurmala, Latvia |
+| [Functional Swift Conference 2018](http://2018.funswiftconf.com) | **December 1, 2018** | 🇺🇸 New York, NY |
 
 ### More
 
