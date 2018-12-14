@@ -1464,7 +1464,7 @@ function buildRow(conference, includeCFP) {
 	var nameCell = document.createElement("td");
 	var conferenceName = document.createTextNode(conference.name);
 	if (conference.link !== null) {
-		var linkNode = document.createNode("a");
+		var linkNode = document.createElement("a");
 		linkNode.setAttribute("href", conference.link);
 		linkNode.setAttribute("title", conference.name);
 		linkNode.appendChild(conferenceName);
