@@ -41,8 +41,8 @@ If you want to add a conference to this list or edit the info, send a **pull req
 	var pastCocoa = sorted.filter(function(conf){ return now > conf.end && conf.cocoa === true });
 	var pastGeneral = sorted.filter(function(conf){ return now > conf.end && conf.cocoa === false });
 	
-	buildTable(document.getElementById("upcoming-cocoa"), cocoa, true);
-	buildTable(document.getElementById("upcoming-general"), general, true);
-	buildTable(document.getElementById("past-cocoa"), pastCocoa, false);
-	buildTable(document.getElementById("past-general"), pastGeneral, false);
+	buildTable(document.getElementById("upcoming-cocoa"), cocoa.reverse(), true);
+	buildTable(document.getElementById("upcoming-general"), general.reverse(), true);
+	buildTable(document.getElementById("past-cocoa"), pastCocoa, true);
+	buildTable(document.getElementById("past-general"), pastGeneral, true);
 </script>
