@@ -50,11 +50,11 @@ If you want to add a conference to this list or edit the info, send a **pull req
 	var general = sorted.filter(function(conf){ return conf.cocoa === false });
 	
 	var isUpcoming = function(conf) {
-		if (conf.end.year > y) { return true; }
-		if (conf.end.year < y) { return false; }
-		if (conf.end.month > m) { return true; }
-		if (conf.end.month < m) { return false; }
-		return conf.end.day >= d;
+		if (conf.end.year < y) { return true; }
+		if (conf.end.year > y) { return false; }
+		if (conf.end.month < m) { return true; }
+		if (conf.end.month > m) { return false; }
+		return conf.end.day < d;
 	};
 	var isPast = function(conf) { return isUpcoming(conf) == false; }
 	
