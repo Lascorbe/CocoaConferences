@@ -1501,7 +1501,7 @@ function buildRow(conference, includeCFP) {
 	tr.appendChild(dateNode);
 	
 	var placeNode = document.createElement("td");
-	if conference.location === null || conference.location.length == 0 {
+	if (conference.location === null || conference.location.length == 0) {
 		placeNode.appendChild(document.createTextNode("TBA"));
 	} else {
 		placeNode.appendChild(document.createTextNode(conference.location));
