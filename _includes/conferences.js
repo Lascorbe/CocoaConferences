@@ -368,8 +368,8 @@ var conferences = [
 	{
 		"name": "CocoaConf Chicago",
 		"link": "http://cocoaconf.com/chicago-2016/home",
-		"start": "03-25–26, 2016",
-		"end": "03-25–26, 2016",
+		"start": "2016-03-25",
+		"end": "2016-03-26",
 		"location": "🇺🇸 Chicago, IL, USA",
 		"cocoa": true,
 		"cfp": null
@@ -1034,8 +1034,8 @@ var conferences = [
 	{
 		"name": "Snow*Mobile",
 		"link": "http://2014.snow-mobile.org/",
-		"start": "Feb 21-22, 2014",
-		"end": "Feb 21-22, 2014",
+		"start": "2014-02-21",
+		"end": "2014-02-22",
 		"location": "🇺🇸 Madison, WI, USA",
 		"cocoa": false,
 		"cfp": null
@@ -1043,8 +1043,8 @@ var conferences = [
 	{
 		"name": "WIPJam at MWC",
 		"link": "http://wip.org/wip-event/wipjam-mwc14/",
-		"start": "Feb 24-27, 2014",
-		"end": "Feb 24-27, 2014",
+		"start": "2014-02-24",
+		"end": "2014-02-27",
 		"location": "🇪🇸 Barcelona, Spain",
 		"cocoa": false,
 		"cfp": null
