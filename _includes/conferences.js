@@ -75,6 +75,30 @@ var conferences = [
 		"cfp": null
 	},
 	{
+		"name": "360|iDev",
+		"link": "http://360idev.com/",
+		"start": { year: 2019, month: 08, day: 25 },
+		"end": { year: 2019, month: 08, day: 28 },
+		"location": "🇺🇸 Denver, CO, USA",
+		"cocoa": true,
+		"cfp": {
+			"link": null,
+			"deadline": null
+		}
+	},
+	{
+		"name": "iOSDevUK",
+		"link": "http://www.iosdevuk.com/",
+		"start": { year: 2019, month: 09, day: 02 },
+		"end": { year: 2019, month: 09, day: 05 },
+		"location": "🇬🇧 Aberystwyth, UK",
+		"cocoa": true,
+		"cfp": {
+			"link": "https://docs.google.com/forms/d/e/1FAIpQLSehHlTPYDW0NjegZfJDAiOWE65GMAK1k36Yf-TTIteYswP3CA/viewform",
+			"deadline": null
+		}
+	},
+	{
 		"name": "Mobile Era",
 		"link": "https://mobileera.rocks/",
 		"start": { year: 2018, month: 11, day: 01 },
