@@ -1542,7 +1542,7 @@ function buildRow(conference, includeCFP) {
 				strike.appendChild(textNode);
 				link.appendChild(strike);
 			} else {
-				link.appendChild(text);
+				link.appendChild(textNode);
 			}
 			cfpNode.appendChild(link);
 		} else if (hasLink === true && hasDeadline === false) {
