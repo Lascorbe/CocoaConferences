@@ -36,10 +36,10 @@ If you want to add a conference to this list or edit the info, send a **pull req
 	var now = new Date();
 	
 	var sorted = conferences.sort(function(l,r){ if (l.end < r.end) { return true; } if (l.end > r.end) { return false; } return l.start < r.start; })
-	var cocoa = sorted.filter(function(conf){ return now < conf.end && conf.cocoa == true });
-	var general = sorted.filter(function(conf){ return now < conf.end && conf.cocoa == false });
-	var pastCocoa = sorted.filter(function(conf){ return now > conf.end && conf.cocoa == true });
-	var pastGeneral = sorted.filter(function(conf){ return now > conf.end && conf.cocoa == false });
+	var cocoa = sorted.filter(function(conf){ return now < conf.end && conf.cocoa === true });
+	var general = sorted.filter(function(conf){ return now < conf.end && conf.cocoa === false });
+	var pastCocoa = sorted.filter(function(conf){ return now > conf.end && conf.cocoa === true });
+	var pastGeneral = sorted.filter(function(conf){ return now > conf.end && conf.cocoa === false });
 	
 	buildTable(document.getElementById("upcoming-cocoa"), cocoa, true);
 	buildTable(document.getElementById("upcoming-general"), general, true);
