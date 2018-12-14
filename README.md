@@ -56,7 +56,7 @@ If you want to add a conference to this list or edit the info, send a **pull req
 		if (conf.end.month < m) { return false; }
 		return conf.end.day >= d;
 	};
-	var isPast = function(conf) { return isUpcoming(conf) == false; }
+	var isPast = function(conf) { return isUpcoming(conf) === false; }
 	
 	var upcomingCocoa = cocoa.filter(isUpcoming);
 	var upcomingGeneral = general.filter(isUpcoming);
