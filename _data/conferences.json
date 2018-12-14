@@ -7,7 +7,7 @@
 		"location": "🇸🇬 Singapore, Singapore",
 		"cocoa": true,
 		"cfp": {
-			"link": "https://www.papercall.io/iosconfsg"
+			"link": "https://www.papercall.io/iosconfsg",
 			"deadline": "2018-10-15"
 		}
 	},
@@ -19,7 +19,7 @@
 		"location": "🇫🇷 Paris, France",
 		"cocoa": true,
 		"cfp": {
-			"link": "https://goo.gl/forms/T4Z7rTy2RxfhUebd2"
+			"link": "https://goo.gl/forms/T4Z7rTy2RxfhUebd2",
 			"deadline": null
 		}
 	},
@@ -31,7 +31,7 @@
 		"location": "🇳🇱 Amsterdam, The Netherlands",
 		"cocoa": true,
 		"cfp": {
-			"link": "https://appdevcon.nl/the-call-for-presentations-for-appdevcon-2019-is-now-open/"
+			"link": "https://appdevcon.nl/the-call-for-presentations-for-appdevcon-2019-is-now-open/",
 			"deadline": "2018-12-21"
 		}
 	},
@@ -43,7 +43,7 @@
 		"location": "🇬🇧 London, UK",
 		"cocoa": true,
 		"cfp": {
-			"link": "https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved"
+			"link": "https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved",
 			"deadline": "2018-11-26"
 		}
 	},
@@ -82,7 +82,7 @@
 		"location": "🇳🇴 Oslo, Norway",
 		"cocoa": false,
 		"cfp": {
-			"link": "https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform"
+			"link": "https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform",
 			"deadline": "2018-05-31"
 		}
 	},
@@ -115,7 +115,7 @@
 		"location": "🇬🇧 Chester, UK",
 		"cocoa": false,
 		"cfp": {
-			"link": "http://www.codemobile.co.uk/call-for-speakers/"
+			"link": "http://www.codemobile.co.uk/call-for-speakers/",
 			"deadline": "2018-10-31"
 		}
 	},
@@ -127,7 +127,7 @@
 		"location": "🇨🇭 Lugano, Switzerland",
 		"cocoa": false,
 		"cfp": {
-			"link": "https://docs.google.com/forms/d/1nC_NO7zQoYjldBIgcgmc47qgbTxHZrcIur-uQlOu-sA/"
+			"link": "https://docs.google.com/forms/d/1nC_NO7zQoYjldBIgcgmc47qgbTxHZrcIur-uQlOu-sA/",
 			"deadline": "2019-01-12"
 		}
 	},
