@@ -225,7 +225,7 @@ var conferences = [
 		"name": "iOSDevCampDC",
 		"link": "http://iosdevcampdc.com/",
 		"start": "2014-08-01",
-		"end": "-08-1",
+		"end": "2014-08-01",
 		"location": "🇺🇸 Tysons Corner, VA, USA",
 		"cocoa": true,
 		"cfp": null
@@ -323,8 +323,8 @@ var conferences = [
 	{
 		"name": "/dev/world",
 		"link": "http://2015.devworld.com.au/",
-		"start": "08-31 - September 1, 2015",
-		"end": "08-31 - September 1, 2015",
+		"start": "2015-08-31",
+		"end": "2015-09-01",
 		"location": "🇦🇺 Melbourne, Australia",
 		"cocoa": true,
 		"cfp": null
@@ -441,7 +441,7 @@ var conferences = [
 		"name": "CMD+U Conference",
 		"link": "http://cmduconf.com",
 		"start": "2016-07-08",
-		"end": "-07-8",
+		"end": "2016-07-08",
 		"location": "🇪🇸 Barcelona, Spain",
 		"cocoa": true,
 		"cfp": null
@@ -602,8 +602,8 @@ var conferences = [
 	{
 		"name": "Forward Swift",
 		"link": "http://forwardswift.com",
-		"start": "02-25 - March 4, 2017",
-		"end": "02-25 - March 4, 2017",
+		"start": "2017-02-25",
+		"end": "2017-03-04",
 		"location": "🇺🇸 San Francisco, CA, USA",
 		"cocoa": true,
 		"cfp": null
@@ -638,8 +638,8 @@ var conferences = [
 	{
 		"name": "RWDevCon",
 		"link": "http://www.rwdevcon.com/",
-		"start": "03-30 - April 1, 2017",
-		"end": "03-30 - April 1, 2017",
+		"start": "2017-03-30",
+		"end": "2017-04-01",
 		"location": "🇺🇸 Washington DC, USA",
 		"cocoa": true,
 		"cfp": null
@@ -909,7 +909,7 @@ var conferences = [
 		"name": "try! Swift San Jose",
 		"link": "https://www.tryswift.co/events/2018/sanjose/",
 		"start": "2018-06-08",
-		"end": "-06-8",
+		"end": "2018-06-08",
 		"location": "🇺🇸 San Jose, CA, USA",
 		"cocoa": true,
 		"cfp": null
@@ -1008,7 +1008,7 @@ var conferences = [
 		"name": "Do iOS",
 		"link": "https://do-ios.com/",
 		"start": "2018-11-02",
-		"end": "-11-2",
+		"end": "2018-11-02",
 		"location": "🇳🇱 Amsterdam, The Netherlands",
 		"cocoa": true,
 		"cfp": null
@@ -1017,7 +1017,7 @@ var conferences = [
 		"name": "Swift Heroes",
 		"link": "http://www.swiftheroes.com/",
 		"start": "2018-11-09",
-		"end": "-11-9",
+		"end": "2018-11-09",
 		"location": "🇮🇹 Turin, Italy",
 		"cocoa": true,
 		"cfp": null
