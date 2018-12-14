@@ -8,7 +8,7 @@ var conferences = [
 		"cocoa": true,
 		"cfp": {
 			"link": "https://www.papercall.io/iosconfsg",
-			"deadline": "2018-10-15"
+			"deadline": new Date("2018-10-15")
 		}
 	},
 	{
@@ -32,7 +32,7 @@ var conferences = [
 		"cocoa": true,
 		"cfp": {
 			"link": "https://appdevcon.nl/the-call-for-presentations-for-appdevcon-2019-is-now-open/",
-			"deadline": "2018-12-21"
+			"deadline": new Date("2018-12-21")
 		}
 	},
 	{
@@ -44,7 +44,7 @@ var conferences = [
 		"cocoa": true,
 		"cfp": {
 			"link": "https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved",
-			"deadline": "2018-11-26"
+			"deadline": new Date("2018-11-26")
 		}
 	},
 	{
@@ -83,7 +83,7 @@ var conferences = [
 		"cocoa": false,
 		"cfp": {
 			"link": "https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform",
-			"deadline": "2018-05-31"
+			"deadline": new Date("2018-05-31")
 		}
 	},
 	{
@@ -95,7 +95,7 @@ var conferences = [
 		"cocoa": false,
 		"cfp": {
 			"link": "https://www.papercall.io/devfest-baltics-18",
-			"deadline": "2018-06-29"
+			"deadline": new Date("2018-06-29")
 		}
 	},
 	{
@@ -116,7 +116,7 @@ var conferences = [
 		"cocoa": false,
 		"cfp": {
 			"link": "http://www.codemobile.co.uk/call-for-speakers/",
-			"deadline": "2018-10-31"
+			"deadline": new Date("2018-10-31")
 		}
 	},
 	{
@@ -128,7 +128,7 @@ var conferences = [
 		"cocoa": false,
 		"cfp": {
 			"link": "https://docs.google.com/forms/d/1nC_NO7zQoYjldBIgcgmc47qgbTxHZrcIur-uQlOu-sA/",
-			"deadline": "2019-01-12"
+			"deadline": new Date("2019-01-12")
 		}
 	},
 	{
@@ -1418,7 +1418,7 @@ var conferences = [
 		"cocoa": false,
 		"cfp": null
 	}
-].sort(function(l,r){ if (l.end < r.end) { return true; } if (l.end > r.end) { return false; } return l.start < r.start; });
+];
 
 
 function buildTable(insideNode, tableID, confs, includeCFP) {
