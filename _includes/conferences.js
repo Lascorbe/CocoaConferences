@@ -180,7 +180,7 @@ var conferences = [
 		"name": "Alt Tech Talks Berlin",
 		"link": "http://www.alt-tech-talks.com",
 		"start": "2013-12-11",
-		"end": "-12-11",
+		"end": "2013-12-11",
 		"location": "🇩🇪 Berlin, Germany",
 		"cocoa": true,
 		"cfp": null
@@ -189,7 +189,7 @@ var conferences = [
 		"name": "Alt Tech Talks London",
 		"link": "http://www.alttechtalks.com",
 		"start": "2013-12-16",
-		"end": "-12-16",
+		"end": "2013-12-16",
 		"location": "🇬🇧 London, UK",
 		"cocoa": true,
 		"cfp": null
@@ -243,7 +243,7 @@ var conferences = [
 		"name": "A Swift Start",
 		"link": "http://aswiftstart.com/",
 		"start": "2014-08-29",
-		"end": "-08-29",
+		"end": "2014-08-29",
 		"location": "🇺🇸 New York City, NY, USA",
 		"cocoa": true,
 		"cfp": null
@@ -351,7 +351,7 @@ var conferences = [
 		"name": "@Swift",
 		"link": "http://atswift.io/index-en.html",
 		"start": "2016-01-10",
-		"end": "-01-10",
+		"end": "2016-01-10",
 		"location": "🇨🇳 Beijing, China",
 		"cocoa": true,
 		"cfp": null
@@ -360,7 +360,7 @@ var conferences = [
 		"name": "SwiftAveiro",
 		"link": "https://attending.io/events/swiftaveiro/",
 		"start": "2016-03-20",
-		"end": "-03-20",
+		"end": "2016-03-20",
 		"location": "🇵🇹 Aveiro, Portugal",
 		"cocoa": true,
 		"cfp": null
@@ -432,7 +432,7 @@ var conferences = [
 		"name": "Swift With The Best",
 		"link": "http://swift.withthebest.com",
 		"start": "2016-06-25",
-		"end": "-06-25",
+		"end": "2016-06-25",
 		"location": "Online",
 		"cocoa": true,
 		"cfp": null
@@ -585,7 +585,7 @@ var conferences = [
 		"name": "dot Swift",
 		"link": "http://www.dotswift.io",
 		"start": "2017-01-27",
-		"end": "-01-27",
+		"end": "2017-01-27",
 		"location": "🇫🇷 Paris, France",
 		"cocoa": true,
 		"cfp": null
@@ -648,7 +648,7 @@ var conferences = [
 		"name": "Functional Swift Conference",
 		"link": "http://2017.funswiftconf.com/",
 		"start": "2017-04-15",
-		"end": "-04-15",
+		"end": "2017-04-15",
 		"location": "🇺🇸 New York, NY, USA",
 		"cocoa": true,
 		"cfp": null
@@ -756,7 +756,7 @@ var conferences = [
 		"name": "Functional Swift Conference Fall 2017",
 		"link": "http://www.funswiftconf.com",
 		"start": "2017-09-30",
-		"end": "-09-30",
+		"end": "2017-09-30",
 		"location": "🇩🇪 Berlin, Germany",
 		"cocoa": true,
 		"cfp": null
@@ -765,7 +765,7 @@ var conferences = [
 		"name": "Swift Cloud Workshop 2",
 		"link": "https://www.swiftcloudwork.shop",
 		"start": "2017-09-30",
-		"end": "-09-30",
+		"end": "2017-09-30",
 		"location": "🇺🇸 Austin, TX, USA",
 		"cocoa": true,
 		"cfp": null
@@ -828,7 +828,7 @@ var conferences = [
 		"name": "dot Swift",
 		"link": "https://2018.dotswift.io/",
 		"start": "2018-01-29",
-		"end": "-01-29",
+		"end": "2018-01-29",
 		"location": "🇫🇷 Paris, France",
 		"cocoa": true,
 		"cfp": null
@@ -1071,7 +1071,7 @@ var conferences = [
 		"name": "Mobile March",
 		"link": "http://mobilemarchtc.com/",
 		"start": "2015-03-26",
-		"end": "-03-26",
+		"end": "2015-03-26",
 		"location": "🇺🇸 Minneapolis, MN, USA",
 		"cocoa": false,
 		"cfp": null
@@ -1080,7 +1080,7 @@ var conferences = [
 		"name": "Istanbul Tech Talks",
 		"link": "http://www.istanbultechtalks.com/",
 		"start": "2015-04-27",
-		"end": "-04-27",
+		"end": "2015-04-27",
 		"location": "🇹🇷 Istanbul, Turkey",
 		"cocoa": false,
 		"cfp": null
@@ -1116,7 +1116,7 @@ var conferences = [
 		"name": "Mobilization",
 		"link": "http://mobilization.pl",
 		"start": "2015-10-17",
-		"end": "-10-17",
+		"end": "2015-10-17",
 		"location": "🇵🇱 Łódź, Poland",
 		"cocoa": false,
 		"cfp": null
@@ -1134,7 +1134,7 @@ var conferences = [
 		"name": "MobCon Europe",
 		"link": "http://mobcon.com/mobcon-europe/",
 		"start": "2016-04-10",
-		"end": "-04-10",
+		"end": "2016-04-10",
 		"location": "🇧🇬 Sofia, Bulgaria",
 		"cocoa": false,
 		"cfp": null
@@ -1296,7 +1296,7 @@ var conferences = [
 		"name": "Mobilization",
 		"link": "http://2017.mobilization.pl/",
 		"start": "2017-10-21",
-		"end": "-10-21",
+		"end": "2017-10-21",
 		"location": "🇵🇱 Łódź, Poland",
 		"cocoa": false,
 		"cfp": null
@@ -1305,7 +1305,7 @@ var conferences = [
 		"name": "Mobius",
 		"link": "https://mobiusconf.com/en/",
 		"start": "2017-11-11",
-		"end": "-11-11",
+		"end": "2017-11-11",
 		"location": "🇷🇺 Moscow, Russia",
 		"cocoa": false,
 		"cfp": null
@@ -1314,7 +1314,7 @@ var conferences = [
 		"name": "DevFest Baltics",
 		"link": "https://devfest.gdg.lv/",
 		"start": "2017-11-17",
-		"end": "-11-17",
+		"end": "2017-11-17",
 		"location": "🇱🇻 Riga, Latvia",
 		"cocoa": false,
 		"cfp": null
@@ -1323,7 +1323,7 @@ var conferences = [
 		"name": "UA Mobile",
 		"link": "http://www.uamobile.org/",
 		"start": "2017-11-25",
-		"end": "-11-25",
+		"end": "2017-11-25",
 		"location": "🇺🇦 Kyiv, Ukraine",
 		"cocoa": false,
 		"cfp": null
@@ -1419,3 +1419,9 @@ var conferences = [
 		"cfp": null
 	}
 ];
+
+function buildTable(tableID, cocoaOnly, includeCFP) {
+
+	
+
+}
