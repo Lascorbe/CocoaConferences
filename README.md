@@ -7,37 +7,43 @@ description: List of cocoa conferences for iOS & macOS developers
 
 ## All-English conferences for **Cocoa** developers.
 
-
-
 ### Cocoa-only
 
-{% comment %}
-	print out a table of conferences that have not *ended* yet where cocoa == true
-	name | date | place | cfp
-{% endcomment %}
+<div id="upcoming-cocoa"></div>
+<script type="text/javascript">
+	var now = new Date();
+	var confs = conferences.filter(function(conf){ return now < conf.end && conf.cocoa == true });
+	buildTable(document.getElementById("upcoming-cocoa"), confs, true);
+</script>
 
 ### Related to Cocoa or Mobile in general
 
-{% comment %}
-	print out a table of conferences that have not *ended* yet where cocoa == false
-	name | date | place | cfp
-{% endcomment %}
+<div id="upcoming-general"></div>
+<script type="text/javascript">
+	var now = new Date();
+	var confs = conferences.filter(function(conf){ return now < conf.end && conf.cocoa == false });
+	buildTable(document.getElementById("upcoming-general"), confs, true);
+</script>
 
 ## Past Conferences
 
 ### Cocoa-only
 
-{% comment %}
-	print out a table of conferences that have ended where cocoa == true
-	name | date | place
-{% endcomment %}
+<div id="past-cocoa"></div>
+<script type="text/javascript">
+	var now = new Date();
+	var confs = conferences.filter(function(conf){ return now > conf.end && conf.cocoa == true });
+	buildTable(document.getElementById("past-cocoa"), confs, true);
+</script>
 
 ### Related to Cocoa or Mobile in general
 
-{% comment %}
-	print out a table of conferences that have ended where cocoa == false
-	name | date | place
-{% endcomment %}
+<div id="past-general"></div>
+<script type="text/javascript">
+	var now = new Date();
+	var confs = conferences.filter(function(conf){ return now > conf.end && conf.cocoa == false });
+	buildTable(document.getElementById("past-general"), confs, true);
+</script>
 
 ### More
 

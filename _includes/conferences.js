@@ -1418,10 +1418,101 @@ var conferences = [
 		"cocoa": false,
 		"cfp": null
 	}
-];
+].sort(function(l,r){ if (l.end < r.end) { return true; } if (l.end > r.end) { return false; } return l.start < r.start; });
 
-function buildTable(tableID, cocoaOnly, includeCFP) {
 
+function buildTable(insideNode, tableID, confs, includeCFP) {
+	var table = document.createElement("table");
+	insideNode.appendChild(table);
+	var thead = document.createElement("thead");
+	table.appendChild(thead);
+	var headRow = document.createElement("tr");
+	thead.appendChild(headRow);
 	
+	var nameHead = document.createElement("th");
+	nameHead.appendChild(document.createTextNode("Name"));
+	headRow.appendChild(nameHead);
+	var dateHead = document.createElement("th");
+	dateHead.appendChild(document.createTextNode("Date"));
+	headRow.appendChild(dateHead);
+	var placeHead = document.createElement("th");
+	placeHead.appendChild(document.createTextNode("Place"));
+	headRow.appendChild(placeHead);
 
+	if (includeCFP == true) {
+		var cfpHead = document.createElement("th");
+		cfpHead.appendChild(document.createTextNode("CFP Deadline"));
+		headRow.appendChild(cfpHead);
+	}
+	
+	var tbody = document.createElement("tbody");
+	table.appendChild(tbody);
+	
+	for (var i = 0; i < confs.length; i++) {
+		tbody.appendChild(buildRow(confs[i], includeCFP));
+	}
+
+}
+
+function getLocale() {
+	return (navigator.languages && navigator.languages.length) ? navigator.languages[0] : navigator.language;
+}
+
+function buildRow(conference, includeCFP) {
+	var tr = document.createElement("tr");
+	
+	var nameCell = document.createElement("td");
+	var conferenceName = document.createTextNode(conference.name);
+	if conference.link !== null {
+		var linkNode = document.createNode("a");
+		linkNode.setAttribute("href", conference.link);
+		linkNode.setAttribute("title", conference.name);
+		linkNode.appendChild(conferenceName);
+		nameCell.appendChild(linkNode);
+	} else {
+		nameCell.appendChild(conferenceName);
+	}
+	tr.appendChild(nameCell);
+	
+	var dateNode = document.createElement("td");
+	var start = conference.start;
+	var end = conference.end;
+	var dateString = "";
+	var dateOptions = {
+		year: 'numeric',
+		month: 'long',
+		day: 'numeric'
+	};
+	if (start.getYear() == end.getYear() && start.getMonth() == end.getMonth() && start.getDay() == end.getDay()) {
+		// 1-day conference
+		dateString = start.toLocaleDateString(getLocale(), dateOptions);
+	} else  if (start.getMonth() != end.getMonth()) {
+		// conference spans the end of a month
+		var startString = start.toLocaleDateString(getLocale(), { month: 'long', day: 'numeric' });
+		var endString = end.toLocaleDateString(getLocale(), dateOptions);
+		dateString = startString + " – " + endString;
+	} else {
+		// multi-day conference, all within a single month
+		
+	}
+	var strong = document.createElement("strong");
+	strong.appendChild(document.createTextNode(dateString));
+	dateNode.appendChild(strong);
+	tr.appendChild(dateNode);
+	
+	var placeNode = document.createElement("td");
+	if conference.location === null || conference.location.length == 0 {
+		placeNode.appendChild(document.createTextNode("TBA"));
+	} else {
+		placeNode.appendChild(document.createTextNode(conference.location));
+	}
+	tr.appendChild(placeNode);
+	
+	if (includeCFP == true) {
+		var cfpNode = document.createElement("td");
+		cfpNode.appendChild(document.createTextNode("todo"));
+		tr.appendChild(cfpNode);
+	}
+	
+	return tr;
 }
