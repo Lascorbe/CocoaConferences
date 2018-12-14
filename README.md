@@ -12,14 +12,14 @@ description: List of cocoa conferences for iOS & macOS developers
 {% comment %}
 	print out a table of conferences that have not *ended* yet where cocoa == true
 	name | date | place | cfp
-{% end comment %}
+{% endcomment %}
 
 ### Related to Cocoa or Mobile in general
 
 {% comment %}
 	print out a table of conferences that have not *ended* yet where cocoa == false
 	name | date | place | cfp
-{% end comment %}
+{% endcomment %}
 
 ## Past Conferences
 
@@ -28,14 +28,14 @@ description: List of cocoa conferences for iOS & macOS developers
 {% comment %}
 	print out a table of conferences that have ended where cocoa == true
 	name | date | place
-{% end comment %}
+{% endcomment %}
 
 ### Related to Cocoa or Mobile in general
 
 {% comment %}
 	print out a table of conferences that have ended where cocoa == false
 	name | date | place
-{% end comment %}
+{% endcomment %}
 
 ### More
 
