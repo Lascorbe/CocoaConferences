@@ -1,4 +1,4 @@
-[
+var conferences = [
 	{
 		"name": "iOS Conf SG",
 		"link": "http://iosconf.sg/",
@@ -1418,4 +1418,4 @@
 		"cocoa": false,
 		"cfp": null
 	}
-]
+];

@@ -3,6 +3,8 @@ title: Cocoa Conferences
 description: List of cocoa conferences for iOS & macOS developers
 ---
 
+<script type="text/javascript"> {% include conferences.js %} </script>
+
 ## All-English conferences for **Cocoa** developers.
 
 
