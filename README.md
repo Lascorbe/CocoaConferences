@@ -34,7 +34,7 @@ If you want to add a conference to this list or edit the info, send a **pull req
 
 <script type="text/javascript">
 	var now = new Date();
-	var y = now.getYear();
+	var y = now.getFullYear();
 	var m = now.getMonth();
 	var d = now.getDay();
 	

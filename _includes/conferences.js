@@ -1518,7 +1518,7 @@ function buildRow(conference, includeCFP) {
 		
 		if (hasDeadline) {
 			var today = new Date();
-			var year = today.getYear(); var dYear = cfpDeadline.year;
+			var year = today.getFullYear(); var dYear = cfpDeadline.year;
 			var month = today.getMonth(); var dMonth = cfpDeadline.month;
 			var day = today.getDay(); var dDay = cfpDeadline.day;
 			
