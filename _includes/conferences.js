@@ -629,8 +629,8 @@ var conferences = [
 	{
 		"name": "iOSCon 2017",
 		"link": "https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers",
-		"start": "03-30-31",
-		"end": "03-30-31",
+		"start": "2017-03-30",
+		"end": "2017-03-31",
 		"location": "🇬🇧 London, UK",
 		"cocoa": true,
 		"cfp": null
