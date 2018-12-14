@@ -111,7 +111,7 @@ var conferences = [
 		"name": "CodeMobile",
 		"link": "http://www.codemobile.co.uk/",
 		"start": { year: 2019, month: 04, day: 01 },
-		"end": { year: 2018, month: 04, day: 04 },
+		"end": { year: 2019, month: 04, day: 04 },
 		"location": "🇬🇧 Chester, UK",
 		"cocoa": false,
 		"cfp": {
@@ -123,7 +123,7 @@ var conferences = [
 		"name": "App Builders",
 		"link": "https://appbuilders.ch/",
 		"start": { year: 2019, month: 04, day: 29 },
-		"end": { year: 2018, month: 04, day: 30 },
+		"end": { year: 2019, month: 04, day: 30 },
 		"location": "🇨🇭 Lugano, Switzerland",
 		"cocoa": false,
 		"cfp": {
