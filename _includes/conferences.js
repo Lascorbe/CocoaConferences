@@ -1514,8 +1514,12 @@ function buildRow(conference, includeCFP) {
 	if (includeCFP === true) {
 		var cfpNode = document.createElement("td");
 		
-		var cfpLink = conference.cfp.link;
-		var cfpDeadline = conference.cfp.deadline;
+		var cfpLink = null;
+		var cfpDeadline = null;
+		if (conference.cfp !== null || conference.cfp !== undefined) {
+			cfpLink = conference.cfp.link;
+			cfpDeadline = conference.cfp.deadline;
+		}
 		
 		var hasLink = (cfpLink !== null && cfpLink !== undefined);
 		var hasDeadline = (cfpDeadline !== null && cfpDeadline !== undefined);
