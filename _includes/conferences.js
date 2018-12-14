@@ -1439,7 +1439,7 @@ function buildTable(insideNode, tableID, confs, includeCFP) {
 	placeHead.appendChild(document.createTextNode("Place"));
 	headRow.appendChild(placeHead);
 
-	if (includeCFP == true) {
+	if (includeCFP === true) {
 		var cfpHead = document.createElement("th");
 		cfpHead.appendChild(document.createTextNode("CFP Deadline"));
 		headRow.appendChild(cfpHead);
@@ -1483,16 +1483,17 @@ function buildRow(conference, includeCFP) {
 		month: 'long',
 		day: 'numeric'
 	};
-	if (start.getYear() == end.getYear() && start.getMonth() == end.getMonth() && start.getDay() == end.getDay()) {
+	if (start.getYear() === end.getYear() && start.getMonth() === end.getMonth() && start.getDay() === end.getDay()) {
 		// 1-day conference
 		dateString = start.toLocaleDateString(getLocale(), dateOptions);
-	} else  if (start.getMonth() != end.getMonth()) {
+	} else  if (start.getMonth() !== end.getMonth()) {
 		// conference spans the end of a month
 		var startString = start.toLocaleDateString(getLocale(), { month: 'long', day: 'numeric' });
 		var endString = end.toLocaleDateString(getLocale(), dateOptions);
 		dateString = startString + " – " + endString;
 	} else {
 		// multi-day conference, all within a single month
+		dateString = "something awful";
 		
 	}
 	var strong = document.createElement("strong");
@@ -1508,7 +1509,7 @@ function buildRow(conference, includeCFP) {
 	}
 	tr.appendChild(placeNode);
 	
-	if (includeCFP == true) {
+	if (includeCFP === true) {
 		var cfpNode = document.createElement("td");
 		cfpNode.appendChild(document.createTextNode("todo"));
 		tr.appendChild(cfpNode);
