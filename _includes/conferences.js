@@ -1516,7 +1516,7 @@ function buildRow(conference, includeCFP) {
 		
 		var cfpLink = null;
 		var cfpDeadline = null;
-		if (conference.cfp !== null || conference.cfp !== undefined) {
+		if (conference.cfp !== null && conference.cfp !== undefined) {
 			cfpLink = conference.cfp.link;
 			cfpDeadline = conference.cfp.deadline;
 		}
