@@ -1548,7 +1548,7 @@ function buildRow(conference, includeCFP) {
 			var textNode = document.createTextNode(text);
 			if (deadlineHasPassed === true) {
 				var strike = document.createElement("del");
-				strike.appendChild(text);
+				strike.appendChild(textNode);
 				link.appendChild(strike);
 			} else {
 				link.appendChild(text);
