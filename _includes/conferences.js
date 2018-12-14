@@ -1421,7 +1421,7 @@ var conferences = [
 ];
 
 
-function buildTable(insideNode, tableID, confs, includeCFP) {
+function buildTable(insideNode, confs, includeCFP) {
 	var table = document.createElement("table");
 	insideNode.appendChild(table);
 	var thead = document.createElement("thead");
