@@ -1567,7 +1567,7 @@ function buildRow(conference, includeCFP) {
 			var textNode = document.createTextNode(text);
 			cfpNode.appendChild(textNode);
 		} else {
-			cpfNode.appendChild(document.createTextNode("See website for details"));
+			cfpNode.appendChild(document.createTextNode("See website for details"));
 		}
 		tr.appendChild(cfpNode);
 	}
