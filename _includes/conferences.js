@@ -1560,7 +1560,7 @@ function buildRow(conference, includeCFP) {
 			
 			var text = "Deadline not specified";
 			var textNode = document.createTextNode(text);
-			link.appendChild(text);
+			link.appendChild(textNode);
 			cfpNode.appendChild(link);
 		} else if (hasLink === false && hasDeadline === true) {
 			var text = cfpDeadline.toLocaleDateString(getLocale(), { year: 'numeric', month: 'long', day: 'numeric' });
