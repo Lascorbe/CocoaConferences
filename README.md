@@ -35,7 +35,14 @@ If you want to add a conference to this list or edit the info, send a **pull req
 <script type="text/javascript">
 	var now = new Date();
 	
-	var sorted = conferences.sort(function(l,r){ if (l.end < r.end) { return true; } if (l.end > r.end) { return false; } return l.start < r.start; })
+	var sorted = conferences.sort(function(l,r){ 
+		if (l.end.year < r.end.year) { return true; }
+		if (l.end.year > r.end.year) { return false; }
+		if (l.end.month < r.end.month) { return true; }
+		if (l.end.month > r.end.month) { return false;}
+		if (l.end.day < r.end.day) { return true; }
+		return false;
+	});
 	var cocoa = sorted.filter(function(conf){ return now < conf.end && conf.cocoa === true });
 	var general = sorted.filter(function(conf){ return now < conf.end && conf.cocoa === false });
 	var pastCocoa = sorted.filter(function(conf){ return now > conf.end && conf.cocoa === true });
