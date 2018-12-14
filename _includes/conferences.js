@@ -1493,7 +1493,9 @@ function buildRow(conference, includeCFP) {
 		dateString = startString + " – " + endString;
 	} else {
 		// multi-day conference, all within a single month
-		dateString = "something awful";
+		var startString = start.toLocaleDateString(getLocale(), { month: 'long', day: 'numeric' });
+		var endString = end.toLocaleDateString(getLocale(), dateOptions);
+		dateString = startString + " – " + endString;
 		
 	}
 	var strong = document.createElement("strong");
@@ -1511,7 +1513,58 @@ function buildRow(conference, includeCFP) {
 	
 	if (includeCFP === true) {
 		var cfpNode = document.createElement("td");
-		cfpNode.appendChild(document.createTextNode("todo"));
+		
+		var cfpLink = conference.cfp.link;
+		var cfpDeadline = conference.cfp.deadline;
+		
+		var hasLink = (cfpLink !== null && cfpLink !== undefined);
+		var hasDeadline = (cfpDeadline !== null && cfpDeadline !== undefined);
+		var deadlineHasPassed = false;
+		
+		if (hasDeadline) {
+			var today = new Date();
+			var year = today.getYear(); var dYear = cfpDeadline.getYear();
+			var month = today.getMonth(); var dMonth = cfpDeadline.getMonth();
+			var day = today.getDay(); var dDay = cfpDeadline.getDay();
+			
+			if (year > dYear) {
+				deadlineHasPassed = true;
+			} else if (year == dYear && month > dMonth) {
+				deadlineHasPassed = true;
+			} else if (year == dYear && month == dMonth && day > dDay) {
+				deadlineHasPassed = true;
+			}
+		}
+		
+		if (hasLink === true && hasDeadline === true) {
+			var link = document.createElement("a");
+			link.setAttribute("href", cfpLink);
+			
+			var text = cfpDeadline.toLocaleDateString(getLocale(), { year: 'numeric', month: 'long', day: 'numeric' });
+			var textNode = document.createTextNode(text);
+			if (deadlineHasPassed === true) {
+				var strike = document.createElement("del");
+				strike.appendChild(text);
+				link.appendChild(strike);
+			} else {
+				link.appendChild(text);
+			}
+			cfpNode.appendChild(link);
+		} else if (hasLink === true && hasDeadline === false) {
+			var link = document.createElement("a");
+			link.setAttribute("href", cfpLink);
+			
+			var text = "Deadline not specified";
+			var textNode = document.createTextNode(text);
+			link.appendChild(text);
+			cfpNode.appendChild(link);
+		} else if (hasLink === false && hasDeadline === true) {
+			var text = cfpDeadline.toLocaleDateString(getLocale(), { year: 'numeric', month: 'long', day: 'numeric' });
+			var textNode = document.createTextNode(text);
+			cfpNode.appendChild(textNode);
+		} else {
+			cpfNode.appendChild(document.createTextNode("See website for details"));
+		}
 		tr.appendChild(cfpNode);
 	}
 	
