@@ -65,6 +65,6 @@ If you want to add a conference to this list or edit the info, send a **pull req
 	
 	buildTable(document.getElementById("upcoming-cocoa"), upcomingCocoa.reverse(), true);
 	buildTable(document.getElementById("upcoming-general"), upcomingGeneral.reverse(), true);
-	buildTable(document.getElementById("past-cocoa"), pastCocoa, true);
-	buildTable(document.getElementById("past-general"), pastGeneral, true);
+	buildTable(document.getElementById("past-cocoa"), pastCocoa, false);
+	buildTable(document.getElementById("past-general"), pastGeneral, false);
 </script>
