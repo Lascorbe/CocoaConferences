@@ -35,12 +35,14 @@ If you want to add a conference to this list or edit the info, send a **pull req
 var conferences = [
 
 {% for conference in site.data.conferences %}
+
   {
     name: "{{ conference.name }}",
     link: "{{ conference.link }}",
     location: "{{ conference.location }}",
     cocoa: {{ conference.cocoa }},
   },
+  
 {% endfor %}
 
 ];
