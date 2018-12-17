@@ -38,22 +38,32 @@ var conferences = [
   {% assign end = conference.end | split: "-" %}
   {
     name: "{{ conference.name }}",
-    link: "{{ conference.link }}",
+    link: {% if conference.link %} "{{ conference.link }}" {% else %} null {% endif %},
     location: {% if conference.location %} "{{ conference.location }}" {% else %} "TBA" {% endif %},
     cocoa: {% if conference.cocoa %} true {% else %} false {% endif %},
-    start: { year: {{ start[0] }}, month: {{ start[1] }}, day: {{ start[2] }} },
-    end: { year: {{ end[0] }}, month: {{ end[1] }}, day: {{ end[2] }} },
+    {% if start %}
+    	start: { year: {{ start[0] }}, month: {{ start[1] }}, day: {{ start[2] }} },
+    {% else %}
+	    start: null,
+    {% endif %}
+    {% if end and start %}
+	    end: { year: {{ end[0] }}, month: {{ end[1] }}, day: {{ end[2] }} },
+	{% elsif start %}
+	    end: { year: {{ start[0] }}, month: {{ start[1] }}, day: {{ start[2] }} },
+	{% else %}
+		end: null,
+	{% endif %}
     cfp: {
       {% if conference.cfp.link %}
-      link: "{{ conference.cfp.link }}",
+     	 link: "{{ conference.cfp.link }}",
       {% else %}
-      link: null,
+   	   link: null,
       {% endif %}
       {% if conference.cfp.deadline %}
         {% assign dead = conference.cfp.deadline | split: "-" %}
-      deadline: { year: {{ dead[0] }}, month: {{ dead[1] }}, day: {{ dead[2] }} }
+    	  deadline: { year: {{ dead[0] }}, month: {{ dead[1] }}, day: {{ dead[2] }} }
       {% else %}
-      deadline: null
+    	  deadline: null
       {% endif %}
     }
   },

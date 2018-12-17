@@ -2,15 +2,17 @@
 #
 # Use this file to add a new conference to the list of past/upcoming Cococa conferences
 #
-# All items in the list must provide:
-#  - name
-#  - link
-#  - start
-#  - end
+# All conferences must provide a name.
 #
-# If the "location" is left out, it will display as "TBA" on the website
+# If the "link" is left out, then the conference name will not link to anywhere.
 #
-# If "cocoa" is left out, it will be assumed to be "false" (ie, it'll be a "mobile development in general" conference)
+# If the "location" is left out, it will display as "TBA".
+#
+# If the "start" date is left out, the conference date will display as "TBA".
+#
+# If the "end" date is left out, it will be assumed to be the same as the start date (ie, either "TBA" or a one-day conference)
+#
+# If "cocoa" is left out, it will be assumed to be "false" (ie, it'll be listed as a "mobile development in general" conference)
 #
 # If both the CFP link and deadline are included, the date will be formatted as the link text. If the date has passed, it will also be struck-through.
 # If only the CFP link is included, the link text will be "Deadline not specified"
@@ -21,6 +23,8 @@
 #
 ##########################
 
+- name: Example Con 2019
+  link: https://2019.example.com
 
 - name: iOS Conf SG
   link: http://iosconf.sg/
