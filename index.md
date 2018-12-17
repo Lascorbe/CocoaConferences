@@ -39,7 +39,7 @@ var conferences = [
   {
     name: "{{ conference.name }}",
     link: "{{ conference.link }}",
-    location: "{{ conference.location }}",
+    location: {% if conference.location %} "{{ conference.location }}" {% else %} "TBA" {% endif %},
     cocoa: {% if conference.cocoa %} true {% else %} false {% endif %},
     start: { year: {{ start[0] }}, month: {{ start[1] }}, day: {{ start[2] }} },
     end: { year: {{ end[0] }}, month: {{ end[1] }}, day: {{ end[2] }} },
