@@ -79,8 +79,8 @@ var conferences = [
 	var d = now.getDay();
 	
 	var sorted = conferences.sort(function(l,r){ 
-		if (l === null) { return true; }
-		if (r === null) { return false; }
+		if (l.end === null) { return true; }
+		if (r.end === null) { return false; }
 		if (l.end.year < r.end.year) { return true; }
 		if (l.end.year > r.end.year) { return false; }
 		if (l.end.month < r.end.month) { return true; }
