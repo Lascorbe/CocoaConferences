@@ -66,8 +66,6 @@ conferences:
   end: 2019-08-28
   location: 🇺🇸 Denver, CO, USA
   cocoa: true
-  cfp:
-			"link": null
 
 - name: iOSDevUK
   link: http://www.iosdevuk.com/
