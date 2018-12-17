@@ -49,6 +49,12 @@ var conferences = [
       {% else %}
       link: null,
       {% endif %}
+      {% if conference.cfp.deadline %}
+        {% assign dead = conference.cfp.deadline | split: "-" %}
+      deadline: { year: {{ dead[0] }}, month: {{ dead[1] }}, day: {{ dead[2] }} }
+      {% else %}
+      deadline: null
+      {% endif %}
     }
   },
 {% endfor %}
