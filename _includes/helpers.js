@@ -1,4 +1,11 @@
 function buildTable(insideNode, confs, includeCFP) {
+	if (confs.length === 0) {
+		const none = "No conferences";
+		const node = document.createTextNode(none);
+		insideNode.appendChild(node);
+		return;
+	}
+
 	const table = document.createElement("table");
 	insideNode.appendChild(table);
 	const thead = document.createElement("thead");
