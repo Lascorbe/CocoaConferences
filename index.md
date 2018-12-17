@@ -6,21 +6,13 @@ description: List of cocoa conferences for iOS & macOS developers
 
 ## All-English conferences for **Cocoa** developers.
 
-### Cocoa-only
-
 <div id="upcoming-cocoa"></div>
-
-### Related to Cocoa or Mobile in general
 
 <div id="upcoming-general"></div>
 
 ## Past Conferences
 
-### Cocoa-only
-
 <div id="past-cocoa"></div>
-
-### Related to Cocoa or Mobile in general
 
 <div id="past-general"></div>
 
@@ -106,8 +98,8 @@ const conferences = [
 	const pastCocoa = cocoa.filter(isPast);
 	const pastGeneral = general.filter(isPast);
 	
-	buildTable(document.getElementById("upcoming-cocoa"), upcomingCocoa.reverse(), true);
-	buildTable(document.getElementById("upcoming-general"), upcomingGeneral.reverse(), true);
-	buildTable(document.getElementById("past-cocoa"), pastCocoa, false);
-	buildTable(document.getElementById("past-general"), pastGeneral, false);
+	buildSection(true, true, upcomingCocoa.reverse());
+	buildSection(false, true, upcomingGeneral.reverse());
+	buildSection(true, false, pastCocoa);
+	buildSection(false, false, pastGeneral);
 </script>

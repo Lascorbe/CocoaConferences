@@ -1,3 +1,26 @@
+function buildSection(cocoa, upcoming, confs) {
+	const divId = (upcoming === true ? "upcoming" : "past") + "-" + (cocoa === true ? "cocoa" : "general");
+	const node = document.getElementById(divId);
+	
+	const h3 = document.createElement("h3");
+	
+	const count = confs.length;
+	var formattedCount = count.toString();
+	var formattedConference = "Conferences";
+	if (count === 0) { formattedCount = "No"; }
+	if (count === 1) { formattedConference = "Conference"; }
+	
+	const tense = (upcoming === true) ? "Upcoming" : "Past";
+	const category = (cocoa === true) ? "Cocoa-only" : "mobile development"
+	
+	const title = formattedCount + " " + tense + " " + category + " " + formattedConference;
+	h3.appendChild(document.createTextNode(title));
+	node.appendChild(h3);
+	
+	buildTable(node, confs, upcoming);
+	
+}
+
 function buildTable(insideNode, confs, includeCFP) {
 	if (confs.length === 0) {
 		const none = "No conferences";
