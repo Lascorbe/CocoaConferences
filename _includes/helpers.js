@@ -1,28 +1,28 @@
 function buildTable(insideNode, confs, includeCFP) {
-	var table = document.createElement("table");
+	const table = document.createElement("table");
 	insideNode.appendChild(table);
-	var thead = document.createElement("thead");
+	const thead = document.createElement("thead");
 	table.appendChild(thead);
-	var headRow = document.createElement("tr");
+	const headRow = document.createElement("tr");
 	thead.appendChild(headRow);
 	
-	var nameHead = document.createElement("th");
+	const nameHead = document.createElement("th");
 	nameHead.appendChild(document.createTextNode("Name"));
 	headRow.appendChild(nameHead);
-	var dateHead = document.createElement("th");
+	const dateHead = document.createElement("th");
 	dateHead.appendChild(document.createTextNode("Date"));
 	headRow.appendChild(dateHead);
-	var placeHead = document.createElement("th");
+	const placeHead = document.createElement("th");
 	placeHead.appendChild(document.createTextNode("Place"));
 	headRow.appendChild(placeHead);
 
 	if (includeCFP === true) {
-		var cfpHead = document.createElement("th");
+		const cfpHead = document.createElement("th");
 		cfpHead.appendChild(document.createTextNode("CFP Deadline"));
 		headRow.appendChild(cfpHead);
 	}
 	
-	var tbody = document.createElement("tbody");
+	const tbody = document.createElement("tbody");
 	table.appendChild(tbody);
 	
 	for (var i = 0; i < confs.length; i++) {
@@ -31,13 +31,13 @@ function buildTable(insideNode, confs, includeCFP) {
 
 }
 
-var months = ["", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+const months = ["", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
 function buildRow(conference, includeCFP) {
-	var tr = document.createElement("tr");
+	const tr = document.createElement("tr");
 	
-	var nameCell = document.createElement("td");
-	var conferenceName = document.createTextNode(conference.name);
+	const nameCell = document.createElement("td");
+	const conferenceName = document.createTextNode(conference.name);
 	if (conference.link !== null) {
 		var linkNode = document.createElement("a");
 		linkNode.setAttribute("href", conference.link);
@@ -49,31 +49,30 @@ function buildRow(conference, includeCFP) {
 	}
 	tr.appendChild(nameCell);
 	
-	var dateNode = document.createElement("td");
-	var start = conference.start;
-	var end = conference.end;
+	const dateNode = document.createElement("td");
+	const start = conference.start;
+	const end = conference.end;
 	var dateString = "";
 	if (start === null || end === null) {
 		dateString = "TBA";
 	} else if (start.year === end.year && start.month === end.month && start.day === end.day) {
 		// 1-day conference
 		dateString = months[start.month] + " " + start.day + ", " + start.year;
-	} else  if (start.month !== end.month) {
+	} else if (start.month !== end.month) {
 		// conference spans the end of a month
-		var startString = months[start.month] + " " + start.day;
-		var endString = months[end.month] + " " + end.day + ", " + end.year;
+		const startString = months[start.month] + " " + start.day;
+		const endString = months[end.month] + " " + end.day + ", " + end.year;
 		dateString = startString + " – " + endString;
 	} else {
 		// multi-day conference, all within a single month
 		dateString = months[start.month] + " " + start.day + "–" + end.day + ", " + end.year;
-		
 	}
-	var strong = document.createElement("strong");
+	const strong = document.createElement("strong");
 	strong.appendChild(document.createTextNode(dateString));
 	dateNode.appendChild(strong);
 	tr.appendChild(dateNode);
 	
-	var placeNode = document.createElement("td");
+	const placeNode = document.createElement("td");
 	if (conference.location === null || conference.location.length == 0) {
 		placeNode.appendChild(document.createTextNode("TBA"));
 	} else {
@@ -82,7 +81,7 @@ function buildRow(conference, includeCFP) {
 	tr.appendChild(placeNode);
 	
 	if (includeCFP === true) {
-		var cfpNode = document.createElement("td");
+		const cfpNode = document.createElement("td");
 		
 		var cfpLink = null;
 		var cfpDeadline = null;
@@ -96,10 +95,16 @@ function buildRow(conference, includeCFP) {
 		var textNode = null;
 		
 		if (cfpDeadline !== null && cfpDeadline !== undefined) {
-			var today = new Date();
-			var year = today.getFullYear(); var dYear = cfpDeadline.year;
-			var month = today.getMonth() + 1; var dMonth = cfpDeadline.month;
-			var day = today.getDay(); var dDay = cfpDeadline.day;
+			const today = new Date();
+			
+			const year = today.getFullYear(); 
+			const dYear = cfpDeadline.year;
+			
+			const month = today.getMonth() + 1; 
+			const dMonth = cfpDeadline.month;
+			
+			const day = today.getDay(); 
+			const dDay = cfpDeadline.day;
 			
 			var deadlineHasPassed = false;
 			if (year > dYear) {
@@ -110,7 +115,7 @@ function buildRow(conference, includeCFP) {
 				deadlineHasPassed = true;
 			}
 			
-			var text = months[cfpDeadline.month] + " " + cfpDeadline.day + ", " + cfpDeadline.year;
+			const text = months[cfpDeadline.month] + " " + cfpDeadline.day + ", " + cfpDeadline.year;
 			var node = document.createTextNode(text);
 			
 			if (deadlineHasPassed) {
@@ -128,7 +133,7 @@ function buildRow(conference, includeCFP) {
 		
 		if (hasLink === true) {
 			// link
-			var link = document.createElement("a");
+			const link = document.createElement("a");
 			link.setAttribute("href", cfpLink);
 			link.appendChild(textNode);
 			cfpNode.appendChild(link);

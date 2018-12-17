@@ -32,7 +32,7 @@ If you want to add a conference to this list or edit the info, send a **pull req
 
 
 <script type="text/javascript"> 
-var conferences = [
+const conferences = [
 {% for conference in site.data.conferences %}
   {
     name: "{{ conference.name }}",
@@ -73,12 +73,12 @@ var conferences = [
 <script type="text/javascript"> {% include helpers.js %} </script>
 
 <script type="text/javascript">
-	var now = new Date();
-	var y = now.getFullYear();
-	var m = now.getMonth() + 1;
-	var d = now.getDay();
+	const now = new Date();
+	const y = now.getFullYear();
+	const m = now.getMonth() + 1;
+	const d = now.getDay();
 	
-	var sorted = conferences.sort(function(l,r){ 
+	const sorted = conferences.sort(function(l,r){ 
 		if (l.end === null) { return true; }
 		if (r.end === null) { return false; }
 		if (l.end.year < r.end.year) { return true; }
@@ -88,10 +88,10 @@ var conferences = [
 		if (l.end.day < r.end.day) { return true; }
 		return false;
 	});
-	var cocoa = sorted.filter(function(conf){ return conf.cocoa === true });
-	var general = sorted.filter(function(conf){ return conf.cocoa === false });
+	const cocoa = sorted.filter(function(conf){ return conf.cocoa === true });
+	const general = sorted.filter(function(conf){ return conf.cocoa === false });
 	
-	var isUpcoming = function(conf) {
+	const isUpcoming = function(conf) {
 		if (conf.end === null) { return true; }
 		if (conf.end.year > y) { return true; }
 		if (conf.end.year < y) { return false; }
@@ -99,12 +99,12 @@ var conferences = [
 		if (conf.end.month < m) { return false; }
 		return conf.end.day >= d;
 	};
-	var isPast = function(conf) { return isUpcoming(conf) === false; }
+	const isPast = function(conf) { return isUpcoming(conf) === false; }
 	
-	var upcomingCocoa = cocoa.filter(isUpcoming);
-	var upcomingGeneral = general.filter(isUpcoming);
-	var pastCocoa = cocoa.filter(isPast);
-	var pastGeneral = general.filter(isPast);
+	const upcomingCocoa = cocoa.filter(isUpcoming);
+	const upcomingGeneral = general.filter(isUpcoming);
+	const pastCocoa = cocoa.filter(isPast);
+	const pastGeneral = general.filter(isPast);
 	
 	buildTable(document.getElementById("upcoming-cocoa"), upcomingCocoa.reverse(), true);
 	buildTable(document.getElementById("upcoming-general"), upcomingGeneral.reverse(), true);
