@@ -3,8 +3,6 @@ title: Cocoa Conferences
 description: List of cocoa conferences for iOS & macOS developers
 ---
 
-<script type="text/javascript"> {% include conferences.js %} </script>
-<script type="text/javascript"> {% include helpers.js %} </script>
 
 ## All-English conferences for **Cocoa** developers.
 
@@ -32,6 +30,15 @@ description: List of cocoa conferences for iOS & macOS developers
 
 If you want to add a conference to this list or edit the info, send a **pull request**, [ping me on twitter](https://twitter.com/lascorbe) or get in touch at [luis@nsspain.com](mailto:luis@nsspain.com). Thank you!
 
+
+<script type="text/javascript"> 
+var conferences = [
+
+
+];
+
+</script>
+<script type="text/javascript"> {% include helpers.js %} </script>
 
 <script type="text/javascript">
 	var now = new Date();
