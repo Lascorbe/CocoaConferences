@@ -79,6 +79,8 @@ var conferences = [
 	var d = now.getDay();
 	
 	var sorted = conferences.sort(function(l,r){ 
+		if (l === null) { return true; }
+		if (r === null) { return false; }
 		if (l.end.year < r.end.year) { return true; }
 		if (l.end.year > r.end.year) { return false; }
 		if (l.end.month < r.end.month) { return true; }
@@ -90,6 +92,7 @@ var conferences = [
 	var general = sorted.filter(function(conf){ return conf.cocoa === false });
 	
 	var isUpcoming = function(conf) {
+		if (conf.end === null) { return true; }
 		if (conf.end.year > y) { return true; }
 		if (conf.end.year < y) { return false; }
 		if (conf.end.month > m) { return true; }
