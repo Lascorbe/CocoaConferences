@@ -24,7 +24,7 @@
 ##########################
 
 - name: Example Con 2019
-  link: https://2019.example.com
+  start: 2019-06-18
 
 - name: iOS Conf SG
   link: http://iosconf.sg/
