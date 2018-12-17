@@ -499,7 +499,7 @@
   location: 🇨🇭 Crans-Montana, Switzerland
   cocoa-only: true
 
-- name: doiOS
+- name: do {iOS}
   link: http://do-ios.com/
   start: 2016-11-15
   end: 2016-11-16
