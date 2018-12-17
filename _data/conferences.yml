@@ -291,7 +291,7 @@ conferences:
   location: 🇺🇸 Los Angeles, CA, USA
   cocoa: true
 
-- name: @Swift
+- name: \@Swift
   link: http://atswift.io/index-en.html
   start: 2016-01-10
   end: 2016-01-10
