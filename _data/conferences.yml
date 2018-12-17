@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: MobOS
+  link: http://romobos.com/
+  start: 2019-02-14
+  end: 2019-02-16
+  location: 🇷🇴 Cluj-Napoca, Romania
+  cocoa-only: false
+  cfp:
+    link: http://romobos.com/2019-edition/call-for-papers
+    deadline: 2018-12-15
+
 - name: iOS Conf SG
   link: http://iosconf.sg/
   start: 2019-01-18
@@ -149,7 +159,7 @@
 - name: ADDC - App Design & Development Conference
   link: https://addconf.com/
   start: 2019-06-26
-  end: 2018-06-28
+  end: 2019-06-28
   location: 🇪🇸 Barcelona, Spain
   cocoa-only: false
 
