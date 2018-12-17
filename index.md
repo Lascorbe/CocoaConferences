@@ -43,6 +43,13 @@ var conferences = [
     cocoa: {{ conference.cocoa }},
     start: { year: {{ start[0] }}, month: {{ start[1] }}, day: {{ start[2] }} },
     end: { year: {{ end[0] }}, month: {{ end[1] }}, day: {{ end[2] }} },
+    cfp: {
+      {% if conference.cfp.link %}
+      link: "{{ conference.cfp.link }}",
+      {% else %}
+      link: null,
+      {% endif %}
+    }
   },
 {% endfor %}
 ];
