@@ -499,7 +499,7 @@
   location: 🇨🇭 Crans-Montana, Switzerland
   cocoa-only: true
 
-- name: doiOS}
+- name: doiOS
   link: http://do-ios.com/
   start: 2016-11-15
   end: 2016-11-16
@@ -898,11 +898,11 @@
   location: 🇹🇷 Istanbul, Turkey
   cocoa-only: false
 
-- name: #inspect
+- name: \#inspect
   link: http://conference.rubymotion.com/
   start: 2015-07-01
   end: 2015-07-02
-  location: 🇫🇷 Paris, Francia
+  location: 🇫🇷 Paris, France
   cocoa-only: false
 
 - name: Hybrid Conf
