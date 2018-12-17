@@ -33,18 +33,18 @@ If you want to add a conference to this list or edit the info, send a **pull req
 
 <script type="text/javascript"> 
 var conferences = [
-
 {% for conference in site.data.conferences %}
-
+  {% assign start = conference.start | split: "-" %}
+  {% assign end = conference.end | split: "-" %}
   {
     name: "{{ conference.name }}",
     link: "{{ conference.link }}",
     location: "{{ conference.location }}",
     cocoa: {{ conference.cocoa }},
+    start: { year: {{ start[0] }}, month: {{ start[1] }}, day: {{ start[2] }} },
+    end: { year: {{ end[0] }}, month: {{ end[1] }}, day: {{ end[2] }} },
   },
-  
 {% endfor %}
-
 ];
 
 </script>
