@@ -6,15 +6,11 @@ description: List of cocoa conferences for iOS & macOS developers
 
 ## All-English conferences for **Cocoa** developers.
 
-<div id="upcoming-cocoa"></div>
-
-<div id="upcoming-general"></div>
+<div id="upcoming"></div>
 
 ## Past Conferences
 
-<div id="past-cocoa"></div>
-
-<div id="past-general"></div>
+<div id="past"></div>
 
 ### More
 

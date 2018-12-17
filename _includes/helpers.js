@@ -1,8 +1,10 @@
 function buildSection(cocoa, upcoming, confs) {
-	const divId = (upcoming === true ? "upcoming" : "past") + "-" + (cocoa === true ? "cocoa" : "general");
-	const node = document.getElementById(divId);
+	const nodeId = (upcoming === true ? "upcoming" : "past");
+	const node = document.getElementById(nodeId);
 	
 	const h3 = document.createElement("h3");
+	const headerId = nodeId + "-" + (cocoa === true ? "cocoa" : "general");
+	h3.setAttribute("id", headerId);
 	
 	const count = confs.length;
 	var formattedCount = count.toString();
@@ -11,10 +13,13 @@ function buildSection(cocoa, upcoming, confs) {
 	if (count === 1) { formattedConference = "Conference"; }
 	
 	const tense = (upcoming === true) ? "Upcoming" : "Past";
-	const category = (cocoa === true) ? "Cocoa-only" : "mobile development"
+	const category = (cocoa === true) ? "Cocoa-Only" : "Mobile Development"
 	
-	const title = formattedCount + " " + tense + " " + category + " " + formattedConference;
-	h3.appendChild(document.createTextNode(title));
+	h3.appendChild(document.createTextNode(formattedCount + " " + tense + " "));
+	const strong = document.createElement("strong");
+	strong.appendChild(document.createTextNode(category));
+	h3.appendChild(strong);
+	h3.appendChild(document.createTextNode(" " + formattedConference));
 	node.appendChild(h3);
 	
 	buildTable(node, confs, upcoming);
