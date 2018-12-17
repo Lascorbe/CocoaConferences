@@ -103,7 +103,7 @@ function buildRow(conference, includeCFP) {
 			const month = today.getMonth() + 1; 
 			const dMonth = cfpDeadline.month;
 			
-			const day = today.getDay(); 
+			const day = today.getDate(); 
 			const dDay = cfpDeadline.day;
 			
 			var deadlineHasPassed = false;

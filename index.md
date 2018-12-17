@@ -76,7 +76,7 @@ const conferences = [
 	const now = new Date();
 	const y = now.getFullYear();
 	const m = now.getMonth() + 1;
-	const d = now.getDay();
+	const d = now.getDate();
 	
 	const sorted = conferences.sort(function(l,r){ 
 		if (l.end === null) { return true; }
