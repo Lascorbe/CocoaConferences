@@ -34,25 +34,24 @@ If you want to add a conference to this list or edit the info, send a **pull req
 <script type="text/javascript"> 
 var conferences = [
 {% for conference in site.data.conferences %}
-  {% assign start = conference.start | split: "-" %}
-  {% assign end = conference.end | split: "-" %}
   {
     name: "{{ conference.name }}",
     link: {% if conference.link %} "{{ conference.link }}" {% else %} null {% endif %},
     location: {% if conference.location %} "{{ conference.location }}" {% else %} "TBA" {% endif %},
     cocoa: {% if conference.cocoa %} true {% else %} false {% endif %},
-    {% if start %}
+    {% if conference.start %}
+		{% assign start = conference.start | split: "-" %}
     	start: { year: {{ start[0] }}, month: {{ start[1] }}, day: {{ start[2] }} },
+    	{% if conference.end %}
+			{% assign end = conference.end | split: "-" %}
+		    end: { year: {{ end[0] }}, month: {{ end[1] }}, day: {{ end[2] }} },
+    	{% else %}
+	    end: { year: {{ start[0] }}, month: {{ start[1] }}, day: {{ start[2] }} },
+    	{% endif %}
     {% else %}
 	    start: null,
+	    end: null,
     {% endif %}
-    {% if end and start %}
-	    end: { year: {{ end[0] }}, month: {{ end[1] }}, day: {{ end[2] }} },
-	{% elsif start %}
-	    end: { year: {{ start[0] }}, month: {{ start[1] }}, day: {{ start[2] }} },
-	{% else %}
-		end: null,
-	{% endif %}
     cfp: {
       {% if conference.cfp.link %}
      	 link: "{{ conference.cfp.link }}",
