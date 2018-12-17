@@ -1,9 +1,9 @@
 
-## To see the list of conferences go here:
+# To see the list of conferences go here:
 
 ## [http://ascor.be/CocoaConferences/](http://ascor.be/CocoaConferences/)
 
-=========================================================
+---
 
 List of Cocoa conferences for iOS & macOS developers.
 
