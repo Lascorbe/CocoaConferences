@@ -1,3 +1,27 @@
+##########################
+#
+# Use this file to add a new conference to the list of past/upcoming Cococa conferences
+#
+# All items in the list must provide:
+#  - name
+#  - link
+#  - start
+#  - end
+#
+# If the "location" is left out, it will display as "TBA" on the website
+#
+# If "cocoa" is left out, it will be assumed to be "false" (ie, it'll be a "mobile development in general" conference)
+#
+# If both the CFP link and deadline are included, the date will be formatted as the link text. If the date has passed, it will also be struck-through.
+# If only the CFP link is included, the link text will be "Deadline not specified"
+# If only the CFP deadline is included, the date will be formatted. There will not be a link.
+# If both the CFP deadline and link are omitted, the text will say "See website for details". There will not be a link.
+#
+# Special characters (like leading @ symbols) may need to be escaped. You can do so using a backslash. Eg: \@Swift
+#
+##########################
+
+
 - name: iOS Conf SG
   link: http://iosconf.sg/
   start: 2019-01-18

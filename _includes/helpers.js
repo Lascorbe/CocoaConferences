@@ -90,15 +90,16 @@ function buildRow(conference, includeCFP) {
 		}
 		
 		var hasLink = (cfpLink !== null && cfpLink !== undefined);
-		var hasDeadline = (cfpDeadline !== null && cfpDeadline !== undefined);
-		var deadlineHasPassed = false;
 		
-		if (hasDeadline) {
+		var textNode = null;
+		
+		if (cfpDeadline !== null && cfpDeadline !== undefined) {
 			var today = new Date();
 			var year = today.getFullYear(); var dYear = cfpDeadline.year;
 			var month = today.getMonth() + 1; var dMonth = cfpDeadline.month;
 			var day = today.getDay(); var dDay = cfpDeadline.day;
 			
+			var deadlineHasPassed = false;
 			if (year > dYear) {
 				deadlineHasPassed = true;
 			} else if (year == dYear && month > dMonth) {
@@ -106,36 +107,32 @@ function buildRow(conference, includeCFP) {
 			} else if (year == dYear && month == dMonth && day > dDay) {
 				deadlineHasPassed = true;
 			}
+			
+			var text = months[cfpDeadline.month] + " " + cfpDeadline.day + ", " + cfpDeadline.year;
+			var node = document.createTextNode(text);
+			
+			if (deadlineHasPassed) {
+				var strike = document.createElement("del");
+				strike.appendChild(node);
+				textNode = strike;
+			} else {
+				textNode = node;
+			}
+		} else if (hasLink === true) {
+			textNode = document.createTextNode("Deadline not specified");
+		} else {
+			textNode = document.createTextNode("See website for details");
 		}
 		
-		if (hasLink === true && hasDeadline === true) {
+		if (hasLink === true) {
+			// link
 			var link = document.createElement("a");
 			link.setAttribute("href", cfpLink);
-			
-			var text = months[cfpDeadline.month] + " " + cfpDeadline.day + ", " + cfpDeadline.year;
-			var textNode = document.createTextNode(text);
-			if (deadlineHasPassed === true) {
-				var strike = document.createElement("del");
-				strike.appendChild(textNode);
-				link.appendChild(strike);
-			} else {
-				link.appendChild(textNode);
-			}
-			cfpNode.appendChild(link);
-		} else if (hasLink === true && hasDeadline === false) {
-			var link = document.createElement("a");
-			link.setAttribute("href", cfpLink);
-			
-			var text = "Deadline not specified";
-			var textNode = document.createTextNode(text);
 			link.appendChild(textNode);
 			cfpNode.appendChild(link);
-		} else if (hasLink === false && hasDeadline === true) {
-			var text = months[cfpDeadline.month] + " " + cfpDeadline.day + ", " + cfpDeadline.year;
-			var textNode = document.createTextNode(text);
-			cfpNode.appendChild(textNode);
 		} else {
-			cfpNode.appendChild(document.createTextNode("See website for details"));
+			// no link
+			cfpNode.appendChild(textNode);
 		}
 		tr.appendChild(cfpNode);
 	}
