@@ -53,7 +53,9 @@ function buildRow(conference, includeCFP) {
 	var start = conference.start;
 	var end = conference.end;
 	var dateString = "";
-	if (start.year === end.year && start.month === end.month && start.day === end.day) {
+	if (start.year === null || end.year === null) {
+		dateString = "TBA";
+	} else if (start.year === end.year && start.month === end.month && start.day === end.day) {
 		// 1-day conference
 		dateString = months[start.month] + " " + start.day + ", " + start.year;
 	} else  if (start.month !== end.month) {
