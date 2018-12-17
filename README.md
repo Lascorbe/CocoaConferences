@@ -1,4 +1,8 @@
-[http://ascor.be/CocoaConferences/](http://ascor.be/CocoaConferences/)
+
+## To see the list of conferences go here:
+
+## [http://ascor.be/CocoaConferences/](http://ascor.be/CocoaConferences/)
+
 =========================================================
 
 List of Cocoa conferences for iOS & macOS developers.
@@ -56,7 +60,7 @@ If you get stuck, just open an issue!
 
 1. Fork the project.
 2. Clone it locally.
-3. Edit the conferences.yml file to add your conference
+3. Add your conference to `conferences.yml`
 4. Open a PR 🎉  
 
 ## Deploying
