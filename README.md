@@ -1,7 +1,7 @@
 
 # To see the list of conferences go here:
 
-## [http://ascor.be/CocoaConferences/](http://ascor.be/CocoaConferences/)
+## [https://cocoaconferences.com](https://cocoaconferences.com)
 
 ---
 
