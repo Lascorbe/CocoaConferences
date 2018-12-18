@@ -9,7 +9,7 @@ List of Cocoa conferences for iOS & macOS developers.
 
 ## Adding a new conference
 
-The site is generated from [this file](https://github.com/lascorbe/CocoaConferences/_data/conferences.yml); add new conferences there in YAML format.
+The site is generated from [this file](https://github.com/Lascorbe/CocoaConferences/blob/master/_data/conferences.yml); add new conferences there in YAML format.
 
 When editing an existing conference, there is no need to manually remove the corresponding date fields for past conferences; those are updated automatically. Your entry should look like this:
 
