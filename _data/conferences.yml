@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: MobileEra
+  link: http://mobileera.rocks
+  start: 2019-11-07
+  end: 2019-11-08
+  location: 🇳🇴 Oslo, Norway
+  cocoa-only: false
+
 - name: MobOS
   link: http://romobos.com/
   start: 2019-02-14
