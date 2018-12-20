@@ -66,15 +66,18 @@ const conferences = [
 	const m = now.getMonth() + 1;
 	const d = now.getDate();
 	
+	// this sorts the conferences in descending (newest first) order
 	const sorted = conferences.sort(function(l,r){ 
 		if (l.end === null) { return true; }
 		if (r.end === null) { return false; }
-		if (l.end.year < r.end.year) { return true; }
-		if (l.end.year > r.end.year) { return false; }
-		if (l.end.month < r.end.month) { return true; }
-		if (l.end.month > r.end.month) { return false;}
-		if (l.end.day < r.end.day) { return true; }
-		return false;
+		
+		const yearDiff = r.end.year - l.end.year;
+		if (yearDiff != 0) { return yearDiff; }
+		
+		const monthDiff = r.end.month - l.end.month;
+		if (monthDiff != 0) { return monthDiff; }
+		
+		return r.end.day - l.end.day;
 	});
 	const cocoa = sorted.filter(function(conf){ return conf.cocoa === true });
 	const general = sorted.filter(function(conf){ return conf.cocoa === false });
@@ -94,6 +97,7 @@ const conferences = [
 	const pastCocoa = cocoa.filter(isPast);
 	const pastGeneral = general.filter(isPast);
 	
+	// reverse the upcoming arrays, so that the oldest (ie, soonest) conferences are first
 	buildSection(true, true, upcomingCocoa.reverse());
 	buildSection(false, true, upcomingGeneral.reverse());
 	buildSection(true, false, pastCocoa);
