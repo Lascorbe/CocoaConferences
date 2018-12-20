@@ -64,7 +64,7 @@
   start: 2019-03-12
   end: 2019-03-15
   location: 🇳🇱 Amsterdam, The Netherlands
-  cocoa-only: true
+  cocoa-only: false
   cfp:
     link: https://appdevcon.nl/the-call-for-presentations-for-appdevcon-2019-is-now-open/
     deadline: 2018-12-21
