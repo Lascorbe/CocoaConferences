@@ -60,10 +60,18 @@ If you get stuck, just open an issue!
 
 ## Contributing
 
+### Adding a Conference
+
 1. Fork the project.
 2. Clone it locally.
 3. Add your conference to `conferences.yml`. It will be automatically sorted to the right spot on the website
 4. Open a PR 🎉  
+
+### Work on the code locally
+1. Fork the project.
+2. Clone it locally.
+3. Run `bundle install` to install initial dependencies.
+4. Run `bundle exec jekyll serve`. The local site will be available at [http://127.0.0.1:4000](http://127.0.0.1:4000).
 
 ## Deploying
 
