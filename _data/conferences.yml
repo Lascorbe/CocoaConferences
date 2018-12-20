@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: Swift by Midwest
+  link: https://swiftbymidwest.com
+  start: 2019-04-17
+  end: 2019-04-18
+  location: 🇺🇸 Chicago, IL, USA
+  cocoa-only: true
+
 - name: MobileEra
   link: http://mobileera.rocks
   start: 2019-11-07
