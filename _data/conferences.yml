@@ -1173,3 +1173,10 @@
   end: 2018-10-20
   location: 🇺🇸 Portland, OR, USA
   cocoa-only: false
+
+- name: Swift Island
+  link: https://swiftisland.nl
+  start: 2019-07-03
+  end: 2019-07-04
+  location: 🇳🇱 Texel, Netherlands
+  cocoa-only: true
