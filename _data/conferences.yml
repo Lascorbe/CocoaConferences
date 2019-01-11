@@ -1180,3 +1180,10 @@
   end: 2019-07-04
   location: 🇳🇱 Texel, Netherlands
   cocoa-only: true
+  
+- name: FrenchKit
+  link: https://frenchkit.fr
+  start: 2019-10-07
+  end: 2019-10-08
+  location: 🇫🇷 Paris, France
+  cocoa-only: true
