@@ -23,6 +23,15 @@
 #
 ##########################
 
+- name: try! Swift NYC 2019
+  link: https://www.tryswift.co/events/2019/nyc/
+  start: 2019-09-08
+  end: 2019-09-10
+  location: 🇺🇸 New York City, NY, USA
+  cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform?c=0&w=1
+
 - name: mDevCamp
   link: https://mdevcamp.eu/
   start: 2019-05-30
@@ -102,7 +111,7 @@
     link: https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved
     deadline: 2018-11-26
 
-- name: trySwift! Tokyo 2019
+- name: try! Swift Tokyo 2019
   link: https://www.tryswift.co/events/2019/tokyo/en/
   start: 2019-03-21
   end: 2019-03-22
