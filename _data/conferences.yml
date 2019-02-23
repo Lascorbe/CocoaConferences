@@ -1212,3 +1212,10 @@
   end: 2019-10-08
   location: 🇫🇷 Paris, France
   cocoa-only: true
+  
+- name: SwiftConf
+  link: https://swiftconf.com
+  start: 2019-08-28
+  end: 2019-08-29
+  location: 🇩🇪 Cologne, Germany
+  cocoa-only: true
