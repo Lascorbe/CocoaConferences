@@ -41,13 +41,7 @@
   cfp:
     link: https://goo.gl/forms/eoX2WfG1LRoZPxxo1
     deadline: 2019-02-28
-    
-- name: iOS Conf Budapest
-  link: https://iosconfbudapest.com/
-  start: 2019-04-12
-  location: 🇭🇺 Budapest, Hungary
-  cocoa-only: true
-  
+ 
 - name: Swift by Midwest
   link: https://swiftbymidwest.com
   start: 2019-04-17
