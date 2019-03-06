@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: Pragma Conference
+  link: https://pragmaconference.com/
+  start: 2019-10-09
+  end: 2019-10-11
+  location: 🇮🇹 Bologna, Italy
+  cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSdoCMmd4XKceV6TJYaZ-0KK10RrsGbS_r1qh_14L_hOx-11kg/viewform
+    deadline: 2019-07-10
+    
 - name: try! Swift NYC 2019
   link: https://www.tryswift.co/events/2019/nyc/
   start: 2019-09-08
@@ -96,7 +106,7 @@
     deadline: 2018-12-21
 
 - name: iOSCon 2019
-  link: http://ioscon.co.uk
+  link: https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers
   start: 2019-03-21
   end: 2019-03-22
   location: 🇬🇧 London, UK
