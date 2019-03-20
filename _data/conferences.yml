@@ -1226,3 +1226,10 @@
   cfp:
     link: https://swiftconf.com/#/cfp
     deadline: 2019-04-30
+    
+- name: WWDC
+  link: https://developer.apple.com/wwdc/
+  start: 2019-06-03
+  end: 2019-06-07
+  location: 🇺🇸 San Jose, CA, USA
+  cocoa-only: true
