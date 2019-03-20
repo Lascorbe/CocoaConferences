@@ -1223,7 +1223,10 @@
   end: 2019-08-29
   location: 🇩🇪 Cologne, Germany
   cocoa-only: true
-
+  cfp:
+    link: https://swiftconf.com/#/cfp
+    deadline: 2019-04-30
+    
 - name: WWDC
   link: https://developer.apple.com/wwdc/
   start: 2019-06-03
