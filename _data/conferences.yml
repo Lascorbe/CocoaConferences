@@ -1223,3 +1223,10 @@
   end: 2019-08-29
   location: 🇩🇪 Cologne, Germany
   cocoa-only: true
+
+- name: WWDC
+  link: https://developer.apple.com/wwdc/
+  start: 2019-06-03
+  end: 2019-06-07
+  location: 🇺🇸 San Jose, CA, USA
+  cocoa-only: true
