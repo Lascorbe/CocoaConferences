@@ -1233,3 +1233,49 @@
   end: 2019-06-07
   location: 🇺🇸 San Jose, CA, USA
   cocoa-only: true
+
+- name: AltConf
+  link: http://altconf.com
+  start: 2019-06-03
+  end: 2019-06-06
+  location: 🇺🇸 San Jose, CA, USA
+  cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSdtpfJDh53Mu6HHh539Uo51RDfd34QtXaGsvtMW8_dbUz5qSQ/viewform?usp=sf_link
+    deadline: 2019-04-29
+
+- name: AltConf London
+  link: http://london.altconf.com
+  start: 2019-06-03
+  location: 🇬🇧 London, UK
+  cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSduekXvS9wldtYUslGb_5ulhe7WTX4kiAL45UWXQgSfh0gSkg/viewform?usp=sf_link
+    deadline: 2019-04-29
+
+- name: AltConf Berlin
+  link: http://berlin.altconf.com
+  start: 2019-06-03
+  location: 🇩🇪 Berlin, Germany
+  cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLScFVjXpQnmZZsEQEX3qkKhJL48QFlGy_ZVGGusGAWJHXpwI3w/viewform?usp=sf_link
+    deadline: 2019-04-29
+
+- name: AltConf Paris
+  link: http://paris.altconf.com
+  start: 2019-06-03
+  location: 🇫🇷 Paris, France
+  cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLScSuuFh2o2xrgh4uNrl-NL0BNLCISM3Hw9ehmBvQgsAdBwlbA/viewform?usp=sf_link
+    deadline: 2019-04-29
+
+- name: AltConf Madrid
+  link: http://madrid.altconf.com
+  start: 2019-06-03
+  location: 🇪🇸 Madrid, Spain
+  cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLScCwUdS6Bi7m9X7RVnu68OtbkfRYoKs5eQ8CZ0_t9s-GG0wFA/viewform?usp=sf_link
+    deadline: 2019-04-29
