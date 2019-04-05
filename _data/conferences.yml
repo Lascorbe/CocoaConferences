@@ -47,7 +47,7 @@
   start: 2019-07-28
   end: 2019-07-28
   location: 🇮🇳 Bangalore, India
-  cocoa-only: false
+  cocoa-only: true
 
 - name: mDevCamp
   link: https://mdevcamp.eu/
