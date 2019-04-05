@@ -42,6 +42,13 @@
   cfp:
     link: https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform?c=0&w=1
 
+- name: Swift India
+  link: https://swiftindia.in
+  start: 2019-07-28
+  end: 2019-07-28
+  location: 🇮🇳 Bangalore, India
+  cocoa-only: true
+
 - name: mDevCamp
   link: https://mdevcamp.eu/
   start: 2019-05-30
