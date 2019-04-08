@@ -1,3 +1,118 @@
+function sortUpcoming(l, r) {
+    // -1 = before, 0 = same, 1 = after
+    if (l.end === null) { return 1; }
+    if (r.end === null) { return -1; }
+    
+    // figure out which one starts first
+    // that should go first
+    if (l.start.year < r.start.year) { return -1; }
+    if (l.start.year > r.start.year) { return 1; }
+    
+    if (l.start.month < r.start.month) { return -1; }
+    if (l.start.month > r.start.month) { return 1; }
+    
+    if (l.start.day < r.start.day) { return -1; }
+    if (l.start.day > r.start.day) { return 1; }
+    
+    // figure out which one is LONGEST (ie, it ends AFTER)
+    // the longest one should go first
+    
+    if (l.end.year > r.end.year) { return -1; }
+    if (l.end.year < r.end.year) { return 1; }
+    
+    if (l.end.month > r.end.month) { return -1; }
+    if (l.end.month < r.end.month) { return 1; }
+    
+    if (l.end.day > r.end.day) { return -1; }
+    if (l.end.day < r.end.day) { return 1; }
+    
+    // these two conferences both start and end on the same day
+    // sort them alphabetically (case insensitive)
+    
+    const lName = l.name.toLowerCase();
+    const rName = r.name.toLowerCase();
+    if (lName < rName) { return -1; }
+    if (lName > rName) { return 1; }
+    
+    return 0;
+}
+
+function sortPast(l, r) {
+    // -1 = before, 0 = same, 1 = after
+    
+    // for conferences that have past, we want the most recent and longest ones *first*
+    
+    if (r.end === null) { return -1; }
+    if (l.end === null) { return 1; }
+    
+    if (l.end.year > r.end.year) { return -1; }
+    if (l.end.year < r.end.year) { return 1; }
+    
+    if (l.end.month > r.end.month) { return -1; }
+    if (l.end.month < r.end.month) { return 1; }
+    
+    if (l.end.day > r.end.day) { return -1; }
+    if (l.end.day < r.end.day) { return 1; }
+    
+    // these conferences end on the same day. now sort them by when they started
+    // we want the most-recently-started on first
+    
+    if (l.start.year > r.start.year) { return -1; }
+    if (l.start.year < r.start.year) { return 1; }
+    
+    if (l.start.month > r.start.month) { return -1; }
+    if (l.start.month < r.start.month) { return 1; }
+    
+    if (l.start.day > r.start.day) { return -1; }
+    if (l.start.day < r.start.day) { return 1; }
+    
+    // these two conferences both start and end on the same day
+    // sort them alphabetically (case insensitive)
+    
+    const lName = l.name.toLowerCase();
+    const rName = r.name.toLowerCase();
+    if (lName < rName) { return -1; }
+    if (lName > rName) { return 1; }
+    
+    return 0;
+}
+
+function buildSections(conferences) {
+	const now = new Date();
+	const y = now.getFullYear();
+	const m = now.getMonth() + 1;
+	const d = now.getDate();
+	
+	const isUpcoming = function(conf) {
+		if (conf.end === null) { return true; }
+		if (conf.end.year > y) { return true; }
+		if (conf.end.year < y) { return false; }
+		if (conf.end.month > m) { return true; }
+		if (conf.end.month < m) { return false; }
+		return conf.end.day >= d;
+	};
+	const isPast = function(conf) { return isUpcoming(conf) === false; }
+
+	const isCocoa = function(conf) { return conf.cocoa === true };
+	const isGeneral = function(conf) { return isCocoa(conf) === false };
+
+
+    const upcoming = conferences.filter(isUpcoming);
+    const past = conferences.filter(isPast);
+	
+	const upcomingCocoa = upcoming.filter(isCocoa).sort(sortUpcoming);
+	buildSection(true, true, upcomingCocoa);
+	
+	const upcomingGeneral = upcoming.filter(isGeneral).sort(sortUpcoming);
+	buildSection(false, true, upcomingGeneral);
+	
+	const pastCocoa = past.filter(isCocoa).sort(sortPast);
+	buildSection(true, false, pastCocoa);
+	
+	const pastGeneral = past.filter(isGeneral).sort(sortPast);
+	buildSection(false, false, pastGeneral);
+}
+
 function buildSection(cocoa, upcoming, confs) {
 	const nodeId = (upcoming === true ? "upcoming" : "past");
 	const node = document.getElementById(nodeId);
