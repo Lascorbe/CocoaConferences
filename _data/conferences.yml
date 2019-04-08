@@ -1286,3 +1286,10 @@
   cfp:
     link: https://docs.google.com/forms/d/e/1FAIpQLScCwUdS6Bi7m9X7RVnu68OtbkfRYoKs5eQ8CZ0_t9s-GG0wFA/viewform?usp=sf_link
     deadline: 2019-04-29
+
+- name: SwiftAveiro
+  link: https://www.swiftaveiro.xyz/
+  location: Aveiro, Portugal
+  start: 2019-06-20
+  end: 2019-06-21
+  cocoa-only: true
