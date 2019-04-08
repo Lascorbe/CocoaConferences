@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: try! Swift San Jose
+  link: https://www.tryswift.co/events/2019/sanjose/
+  start: 2019-06-07
+  end: 2019-06-07
+  location: 🇺🇸 San Jose, CA, USA
+  cocoa-only: true
+
 - name: Pragma Conference
   link: https://pragmaconference.com/
   start: 2019-10-09
