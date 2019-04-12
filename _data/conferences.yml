@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: Hacking with Swift: Live!
+  link: https://www.hackingwithswift.com/live
+  start: 2019-07-08
+  end: 2019-07-09
+  location: 🇬🇧 Bath, UK
+  cocoa-only: true
+
 - name: try! Swift San Jose
   link: https://www.tryswift.co/events/2019/sanjose/
   start: 2019-06-07
