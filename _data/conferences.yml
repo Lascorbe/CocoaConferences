@@ -1307,3 +1307,10 @@
   start: 2019-06-20
   end: 2019-06-21
   cocoa-only: true
+
+- name: SwiftFest
+  link: http://swiftfest.io/
+  location: 🇺🇸 Boston, MA, US
+  start: 2019-07-29
+  end: 2019-07-30
+  cocoa-only: true
