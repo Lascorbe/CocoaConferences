@@ -57,49 +57,8 @@ const conferences = [
 {% endfor %}
 ];
 
-</script>
-<script type="text/javascript"> {% include helpers.js %} </script>
+{% include helpers.js %} 
 
-<script type="text/javascript">
-	const now = new Date();
-	const y = now.getFullYear();
-	const m = now.getMonth() + 1;
-	const d = now.getDate();
-	
-	// this sorts the conferences in descending (newest first) order
-	const sorted = conferences.sort(function(l,r){ 
-		if (l.end === null) { return true; }
-		if (r.end === null) { return false; }
-		
-		const yearDiff = r.end.year - l.end.year;
-		if (yearDiff != 0) { return yearDiff; }
-		
-		const monthDiff = r.end.month - l.end.month;
-		if (monthDiff != 0) { return monthDiff; }
-		
-		return r.end.day - l.end.day;
-	});
-	const cocoa = sorted.filter(function(conf){ return conf.cocoa === true });
-	const general = sorted.filter(function(conf){ return conf.cocoa === false });
-	
-	const isUpcoming = function(conf) {
-		if (conf.end === null) { return true; }
-		if (conf.end.year > y) { return true; }
-		if (conf.end.year < y) { return false; }
-		if (conf.end.month > m) { return true; }
-		if (conf.end.month < m) { return false; }
-		return conf.end.day >= d;
-	};
-	const isPast = function(conf) { return isUpcoming(conf) === false; }
-	
-	const upcomingCocoa = cocoa.filter(isUpcoming);
-	const upcomingGeneral = general.filter(isUpcoming);
-	const pastCocoa = cocoa.filter(isPast);
-	const pastGeneral = general.filter(isPast);
-	
-	// reverse the upcoming arrays, so that the oldest (ie, soonest) conferences are first
-	buildSection(true, true, upcomingCocoa.reverse());
-	buildSection(false, true, upcomingGeneral.reverse());
-	buildSection(true, false, pastCocoa);
-	buildSection(false, false, pastGeneral);
+buildSections(conferences);
+
 </script>
