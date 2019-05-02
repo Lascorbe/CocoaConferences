@@ -1314,3 +1314,10 @@
   start: 2019-07-29
   end: 2019-07-30
   cocoa-only: true
+
+- name: "BA: Swiftable"
+  link: https://www.swiftable.io
+  location: 🇦🇷 Buenos Aires, Argentina
+  start: 2019-11-28
+  end: 2019-11-29
+  cocoa-only: true
