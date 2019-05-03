@@ -1321,3 +1321,10 @@
   start: 2019-11-28
   end: 2019-11-29
   cocoa-only: true
+
+- name: Swift Heroes
+  link: http://www.swiftheroes.com/
+  start: 2019-11-15
+  end: 2019-11-15
+  location: 🇮🇹 Turin, Italy
+  cocoa-only: true
