@@ -86,6 +86,9 @@
   end: 2019-11-08
   location: 🇳🇴 Oslo, Norway
   cocoa-only: false
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSc1jaV9hfpSz5Y-ZTvWhUMSgANaB2bSjzLG8_nYnNabbzB0mw/viewform
+    deadline: 2019-05-19
 
 - name: MobOS
   link: http://romobos.com/
