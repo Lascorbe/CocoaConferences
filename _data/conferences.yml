@@ -1332,6 +1332,16 @@
   location: 🇮🇹 Turin, Italy
   cocoa-only: true
 
+- name: Mobiconf
+  link: http://www.mobiconf.org/
+  start: 2019-10-04
+  end: 2019-10-05
+  location: 🇵🇱 Kraków, Poland
+  cocoa-only: false
+  cfp:
+    link: https://www.papercall.io/mobiconf
+    deadline: 2019-05-23
+
 - name: Swift TO
   link: https://www.swiftconf.to/
   start: 2019-09-13
