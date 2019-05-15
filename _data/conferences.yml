@@ -1317,6 +1317,9 @@
   start: 2019-07-29
   end: 2019-07-30
   cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSdqZDtFNAMnoO7Bsr9Xc4dyQAmkFZOXv0YioI-AHG50uLdlUw/viewform
+    deadline: 2019-05-31
 
 - name: "BA: Swiftable"
   link: https://www.swiftable.io
