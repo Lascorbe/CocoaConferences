@@ -1344,8 +1344,8 @@
 
 - name: Swift TO
   link: https://www.swiftconf.to/
-  start: 2019-09-13
-  end: 2019-09-13
+  start: 2019-08-13
+  end: 2019-08-13
   location: 🇨🇦 Toronto, Canada
   cocoa-only: true
   cfp:
