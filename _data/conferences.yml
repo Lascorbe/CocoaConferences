@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: /dev/world/2019
+  link: https://devworld.com.au
+  start: 2019-09-02
+  end: 2019-09-04
+  location: 🇦🇺 Melbourne, Australia
+  cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSfMy_CVigYeioDJ9mpoLX41TuVGbyDBmBrG-aqFAfX4ZlmENw/viewform
+    deadline: 2019-06-05
+
 - name: "Hacking with Swift: Live!"
   link: https://www.hackingwithswift.com/live
   start: 2019-07-08
