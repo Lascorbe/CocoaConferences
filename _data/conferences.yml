@@ -1250,6 +1250,9 @@
   end: 2019-10-08
   location: 🇫🇷 Paris, France
   cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/frenchkit-2019
+    deadline: 2019-06-21
   
 - name: SwiftConf
   link: https://swiftconf.com
