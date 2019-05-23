@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: NSSpain
+  link: http://nsspain.com/
+  start: 2018-09-19
+  end: 2018-09-20
+  location: 🇪🇸 Logroño, Spain
+  cocoa-only: true
+  cfp:
+    link: https://luisascorbe.typeform.com/to/V5t8cH
+    deadline: 2019-06-24
+
 - name: /dev/world/2019
   link: https://devworld.com.au
   start: 2019-09-02
