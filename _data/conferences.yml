@@ -1377,3 +1377,13 @@
   cfp:
     link: https://www.papercall.io/swift-to
     deadline: 2019-06-30
+
+- name: iOS Conf SG
+  link: http://iosconf.sg
+  start: 2020-01-16
+  end: 2020-01-18
+  location: 🇸🇬 Singapore, Singapore
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/iosconfsg2020
+    deadline: 2019-09-15
