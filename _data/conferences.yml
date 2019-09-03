@@ -29,6 +29,9 @@
   end: 2020-03-13
   location: 🇳🇱 Amsterdam, The Netherlands
   cocoa-only: false
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSfDVG0D_F71flB4MnfZwnnJOxoBvHzMyOjynEgd3JnG31dgow/viewform
+    deadline: 2019-12-01
 
 - name: iOSCon 2020
   link: https://skillsmatter.com/conferences/12283-ioscon-2020-the-conference-for-ios-and-swift-developers
