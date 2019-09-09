@@ -23,6 +23,33 @@
 #
 ##########################
 
+- name: Mobius
+  link: https://mobiusconf.com/en/
+  start: 2019-11-07
+  end: 2019-11-08
+  location: 🇷🇺 Moscow, Russia
+  cocoa-only: false
+  cfp:
+    link: https://mobiusconf.com/en/cfp/
+    deadline: 2019-09-16
+
+- name: NSBrazil
+  link: https://nsbrazil.com/en/
+  start: 2019-11-09
+  end: 2019-11-10
+  location: 🇧🇷 São Paulo, Brazil
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/nsbrazil
+    deadline: 2019-09-15
+
+- name: MobileOptimized 2019
+  link: https://moconf.by/
+  start: 2019-10-16
+  end: 2019-10-16
+  location: 🇧🇾 Minsk, Belarus
+  cocoa-only: false
+
 - name: Appdevcon
   link: https://appdevcon.nl
   start: 2020-03-10
