@@ -23,6 +23,22 @@
 #
 ##########################
 
+- name: dot Swift
+  link: http://www.dotswift.io
+  start: 2020-02-03
+  end: 2020-02-03
+  location: 🇫🇷 Paris, France
+  cocoa-only: true
+  cfp:
+    link: https://www.dotconferences.com/cfp
+
+- name: Mobilization
+  link: http://2019.mobilization.pl/
+  start: 2019-10-26
+  end: 2019-10-26
+  location: 🇵🇱 Łódź, Poland
+  cocoa-only: false
+
 - name: try! Swift Tokyo
   link: https://www.tryswift.co/events/2020/tokyo/en/
   start: 2020-03-18
