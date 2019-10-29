@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: MobOS
+  link: http://romobos.com/
+  start: 2020-02-20
+  end: 2020-02-21
+  location: 🇷🇴 Cluj-Napoca, Romania
+  cocoa-only: false
+  cfp:
+    link: https://romobos.com/2020-edition/call-4-papers
+    deadline: 2019-11-15
+
 - name: dot Swift
   link: http://www.dotswift.io
   start: 2020-02-03
