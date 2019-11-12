@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: SwiftLeeds
+  link: https://swiftleeds.co.uk/
+  start: 2020-10-07
+  end: 2020-10-08
+  location: 🇬🇧 Leeds, UK
+  cocoa-only: true
+
 - name: MobOS
   link: http://romobos.com/
   start: 2020-02-20
