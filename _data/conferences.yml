@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: ADDC - App Design & Development Conference
+  link: https://addconf.com/
+  start: 2020-06-24
+  end: 2020-06-26
+  location: 🇪🇸 Barcelona, Spain
+  cocoa-only: false
+
 - name: SwiftLeeds
   link: https://swiftleeds.co.uk/
   start: 2020-10-07
