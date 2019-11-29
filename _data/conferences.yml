@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: UIKonf
+  link: https://uikonf.com
+  start: 2020-05-17
+  end: 2020-05-20
+  location: 🇩🇪 Berlin, Germany
+  cocoa-only: true
+
 - name: ADDC - App Design & Development Conference
   link: https://addconf.com/
   start: 2020-06-24
