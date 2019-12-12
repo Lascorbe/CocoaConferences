@@ -36,6 +36,9 @@
   end: 2020-06-26
   location: 🇪🇸 Barcelona, Spain
   cocoa-only: false
+  cfp:
+    link: https://addconf.typeform.com/to/UYLfh
+    deadline: 2020-02-15
 
 - name: SwiftLeeds
   link: https://swiftleeds.co.uk/
