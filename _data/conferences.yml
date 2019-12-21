@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: 360iDev
+  link: https://360idev.com
+  start: 2020-08-16
+  end: 2020-08-19
+  location: 🇺🇸 Denver, CO, USA
+  cocoa-only: true
+
 - name: App Builders
   link: https://appbuilders.ch
   start: 2020-05-11
