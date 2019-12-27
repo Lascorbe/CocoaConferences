@@ -35,7 +35,10 @@
   start: 2020-05-11
   end: 2020-05-12
   location: 🇨🇭 Lugano, Switzerland
-  cocoa-only: true
+  cocoa-only: false
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSegSs5vGzVmd_wM-TN8yZsi2tZ0uhhwQqNjxYBc3o8ovmEWvg/viewform
+    deadline: 2020-01-26
 
 - name: UIKonf
   link: https://uikonf.com
