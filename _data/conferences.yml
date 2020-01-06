@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: SwiftAveiro
+  link: https://www.swiftaveiro.xyz/
+  location: 🇵🇹 Aveiro, Portugal
+  start: 2020-06-25
+  end: 2020-06-27
+  cocoa-only: true
+
 - name: 360iDev
   link: https://360idev.com
   start: 2020-08-16
