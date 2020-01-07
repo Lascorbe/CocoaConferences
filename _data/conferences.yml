@@ -23,6 +23,15 @@
 #
 ##########################
 
+- name: try! Swift NYC 2020
+  link: https://www.tryswift.co/events/2020/nyc/
+  start: 2020-08-30
+  end: 2020-09-01
+  location: 🇺🇸 New York City, NY, USA
+  cocoa-only: true
+  cfp:
+    link: https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTkzMzg1NCIsImRlbGl2ZXJ5X2lkIjoiZGFnenp6YnBhMTZnMWN3bDJ5aW8iLCJ1cmwiOiJodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9mb3Jtcy9kL2UvMUZBSXBRTFNkWkdBS1FMbjhDbVN6MmRWa0R6VVVWVHAzZVYwSS03a3J4NVZVbkpRUnk5RmxEVlEvdmlld2Zvcm0_Yz0wXHUwMDI2dz0xXHUwMDI2X19zPXh4eHh4eHhcdTAwMjZfX3M9bXFzemhub213YWgyeWF2dnR1a3EifQ
+
 - name: SwiftAveiro
   link: https://www.swiftaveiro.xyz/
   location: 🇵🇹 Aveiro, Portugal
