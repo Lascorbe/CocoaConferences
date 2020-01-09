@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: "Hacking with Swift: Live!"
+  link: https://www.hackingwithswift.com/live
+  start: 2020-07-13
+  end: 2020-07-14
+  location: 🇬🇧 Bath, UK
+  cocoa-only: true
+
 - name: try! Swift NYC 2020
   link: https://www.tryswift.co/events/2020/nyc/
   start: 2020-08-30
