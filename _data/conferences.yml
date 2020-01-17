@@ -69,6 +69,9 @@
   end: 2020-05-20
   location: 🇩🇪 Berlin, Germany
   cocoa-only: true
+  cfp:
+    link: https://cfp.uikonf.com/
+    deadline: 2020-02-09
 
 - name: ADDC - App Design & Development Conference
   link: https://addconf.com/
