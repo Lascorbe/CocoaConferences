@@ -23,6 +23,26 @@
 #
 ##########################
 
+- name: iOS Conf SG
+  link: http://iosconf.sg/
+  start: 2021-01-21
+  end: 2021-01-22
+  location: 🇸🇬 Singapore, Singapore
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/iosconfsg2021
+    deadline: 2020-08-18
+    
+- name: iOSDevUK
+  link: http://www.iosdevuk.com/
+  start: 2020-09-06
+  end: 2020-09-09
+  location: 🇬🇧 Aberystwyth, UK
+  cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSehHlTPYDW0NjegZfJDAiOWE65GMAK1k36Yf-TTIteYswP3CA/viewform
+    deadline: 2020-01-31
+    
 - name: "Hacking with Swift: Live!"
   link: https://www.hackingwithswift.com/live
   start: 2020-07-13
