@@ -4,7 +4,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//lascorbe/CocoaConferences/cocoa v1.0//EN
 CALSCALE:GREGORIAN
-NAME:All Conferences
+NAME:Cocoa Conferences
 {% for conference in site.data.conferences %}
 {%- if conference.cocoa-only == true -%}
 {%- include event.ics conference=conference -%}
