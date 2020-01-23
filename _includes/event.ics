@@ -1,0 +1,18 @@
+{%- assign conference = include.conference -%}
+BEGIN:VEVENT
+UID:{{ conference.name | url_encode }}{% if conference.start %}-{{ conference.start }}{% endif %}
+SUMMARY:{{ conference.name }}
+{% if conference.link %}URL:{{ conference.link }}{% endif %}
+LOCATION:{% if conference.location %}{{ conference.location }}{% else %}TBA{% endif %}
+{% if conference.start %}
+{%- assign start = conference.start | split: "-" -%}
+DTSTART;VALUE=DATE:{{ start[0] }}{{ start[1] }}{{ start[2] }}
+{% if conference.end %}
+	{%- assign end = conference.end -%}
+{%- else -%}
+	{%- assign end = conference.start -%}
+{%- endif -%}
+DTEND;VALUE=DATE:{{ end | date: "%s" | plus: 129600 | date: "%Y%m%d" }}
+{% endif -%}
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%S"}}
+END:VEVENT

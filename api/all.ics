@@ -1,0 +1,11 @@
+---
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//lascorbe/CocoaConferences/all v1.0//EN
+CALSCALE:GREGORIAN
+NAME:All Conferences
+{% for conference in site.data.conferences %}
+{%- include event.ics conference=conference -%}
+{% endfor %}
+END:VCALENDAR
