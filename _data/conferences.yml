@@ -23,6 +23,13 @@
 #
 ##########################
 
+name: "Swift Island"
+  link: https://swiftisland.nl
+  start: 2020-08-25
+  end: 2019-08-27
+  location: 🇳🇱 Texel, Netherlands
+  cocoa-only: true
+
 - name: iOS Conf SG
   link: http://iosconf.sg/
   start: 2021-01-21
