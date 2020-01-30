@@ -23,6 +23,20 @@
 #
 ##########################
 
+- name: Mobile Conf Thailand
+  link: https://mobileconfth.com
+  start: 2019-08-24
+  end: 2019-08-24
+  location: 🇹🇭 Bangkok, Thailand
+  cocoa-only: false
+
+- name: Mobile Conf Thailand
+  link: https://mobileconfth.com
+  start: 2018-08-25
+  end: 2018-08-25
+  location: 🇹🇭 Bangkok, Thailand
+  cocoa-only: false
+
 - name: Swift Island
   link: https://swiftisland.nl
   start: 2020-08-25
