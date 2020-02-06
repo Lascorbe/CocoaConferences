@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: Pragma Conference
+  link: https://pragmaconference.com/
+  start: 2020-10-07
+  end: 2020-10-09
+  location: 🇮🇹 Bologna, Italy
+  cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSd24Hp5KRDiaLkOh7kGkjQHol88cz-7ruRt--3nqumWoOVgow/viewform?usp=sf_link
+    deadline: 2020-06-30
+    
 - name: Mobile Conf Thailand
   link: https://mobileconfth.com
   start: 2020-08-29
