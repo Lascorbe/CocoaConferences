@@ -33,6 +33,13 @@
     link: https://docs.google.com/forms/d/e/1FAIpQLSd24Hp5KRDiaLkOh7kGkjQHol88cz-7ruRt--3nqumWoOVgow/viewform?usp=sf_link
     deadline: 2020-06-30
     
+- name: FrenchKit
+  link: https://www.frenchkit.fr/
+  start: 2020-10-05
+  end: 2020-10-06
+  location: 🇫🇷 Paris, France
+  cocoa-only: true
+    
 - name: Mobile Conf Thailand
   link: https://mobileconfth.com
   start: 2020-08-29
