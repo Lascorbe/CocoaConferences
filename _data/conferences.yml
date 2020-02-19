@@ -194,15 +194,6 @@
   location: 🇵🇱 Łódź, Poland
   cocoa-only: false
 
-- name: try! Swift Tokyo
-  link: https://www.tryswift.co/events/2020/tokyo/en/
-  start: 2020-03-18
-  end: 2020-03-20
-  location: 🇯🇵 Tokyo, Japan
-  cocoa-only: true
-  cfp:
-    link: https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform
-
 - name: Mobius
   link: https://mobiusconf.com/en/
   start: 2019-11-07
