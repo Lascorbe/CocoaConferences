@@ -23,6 +23,23 @@
 #
 ##########################
 
+- name: Pragma Conference
+  link: https://pragmaconference.com/
+  start: 2020-10-07
+  end: 2020-10-09
+  location: 🇮🇹 Bologna, Italy
+  cocoa-only: true
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSd24Hp5KRDiaLkOh7kGkjQHol88cz-7ruRt--3nqumWoOVgow/viewform?usp=sf_link
+    deadline: 2020-06-30
+    
+- name: FrenchKit
+  link: https://www.frenchkit.fr/
+  start: 2020-10-05
+  end: 2020-10-06
+  location: 🇫🇷 Paris, France
+  cocoa-only: true
+    
 - name: Mobile Conf Thailand
   link: https://mobileconfth.com
   start: 2020-08-29
@@ -52,6 +69,13 @@
   start: 2020-08-25
   end: 2020-08-27
   location: 🇳🇱 Texel, Netherlands
+  cocoa-only: true
+
+- name: Do iOS
+  link: https://do-ios.com/
+  start: 2020-11-06
+  end: 2020-11-06
+  location: 🇳🇱 Amsterdam, Netherlands
   cocoa-only: true
 
 - name: iOS Conf SG
@@ -169,15 +193,6 @@
   end: 2019-10-26
   location: 🇵🇱 Łódź, Poland
   cocoa-only: false
-
-- name: try! Swift Tokyo
-  link: https://www.tryswift.co/events/2020/tokyo/en/
-  start: 2020-03-18
-  end: 2020-03-20
-  location: 🇯🇵 Tokyo, Japan
-  cocoa-only: true
-  cfp:
-    link: https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform
 
 - name: Mobius
   link: https://mobiusconf.com/en/
