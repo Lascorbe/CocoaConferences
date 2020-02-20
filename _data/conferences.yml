@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: Swift TO
+  link: https://www.swiftconf.to/
+  start: 2020-08-13
+  end: 2020-08-14
+  location: 🇨🇦 Toronto, Canada
+  cocoa-only: true
+
 - name: Pragma Conference
   link: https://pragmaconference.com/
   start: 2020-10-07
@@ -49,7 +56,7 @@
   cfp:
     link: https://www.papercall.io/mobileconf2020
     deadline: 2020-06-30
-  
+
 - name: Mobile Conf Thailand
   link: https://mobileconfth.com
   start: 2019-08-24
