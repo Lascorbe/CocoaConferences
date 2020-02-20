@@ -1,12 +1,12 @@
 ---
 title: Cocoa Conferences
-description: List of cocoa conferences for iOS & macOS developers
+description: List of all-English conferences for Cocoa (macOS, iOS, watchOS & tvOS) developers
 ---
 
-
-## All-English conferences for **Cocoa** developers.
-
-You can download a Calendar for all conferences [here](api/all.ics), one for Cocoa conferences [here](api/cocoa.ics), and one for mobile conferences [here](api/mobile.ics).
+You can download a 📆 Calendar (.ics) for:
+- [All conferences here](api/all.ics)
+- [Cocoa conferences here](api/cocoa.ics) 
+- [Mobile conferences here](api/mobile.ics)
 
 <div id="upcoming"></div>
 
