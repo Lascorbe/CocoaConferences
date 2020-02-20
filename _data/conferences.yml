@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: Swift TO
+  link: https://www.swiftconf.to/
+  start: 2020-08-13
+  end: 2020-08-14
+  location: 🇨🇦 Toronto, Canada
+  cocoa-only: true
+
 - name: Pragma Conference
   link: https://pragmaconference.com/
   start: 2020-10-07
