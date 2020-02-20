@@ -18,8 +18,7 @@ You can download a 📆 Calendar (.ics) for:
 
 * A [Twitter list](https://twitter.com/NeoNacho/lists/cocoaconferences) with all the conferences made by [Boris Bügling](https://twitter.com/NeoNacho)
 
-If you want to add a conference to this list or edit the info, send a **pull request**, [ping me on twitter](https://twitter.com/lascorbe) or get in touch at [luis@nsspain.com](mailto:luis@nsspain.com). Thank you!
-
+If you want to add a conference to this list or edit the info, please open a **PR (Pull Request)**. Thank you!
 
 <script type="text/javascript"> 
 const conferences = [
