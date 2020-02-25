@@ -29,6 +29,9 @@
   end: 2020-08-14
   location: 🇨🇦 Toronto, Canada
   cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/swift-to-2020
+    deadline: 2020-06-16
 
 - name: Pragma Conference
   link: https://pragmaconference.com/
