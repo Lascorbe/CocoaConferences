@@ -233,8 +233,8 @@
 
 - name: Appdevcon
   link: https://appdevcon.nl
-  start: 2020-03-10
-  end: 2020-03-13
+  start: 2020-09-15
+  end: 2020-09-18
   location: 🇳🇱 Amsterdam, The Netherlands
   cocoa-only: false
   cfp:
