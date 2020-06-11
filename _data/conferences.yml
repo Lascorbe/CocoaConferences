@@ -133,6 +133,13 @@
   cfp:
     link: https://360idev.com/call-for-papers/
     deadline: 2020-05-08
+    
+- name: WWDC
+  link: https://developer.apple.com/wwdc/
+  start: 2020-06-22
+  end: 2020-06-26
+  location: online
+  cocoa-only: true
 
 - name: App Builders
   link: https://appbuilders.ch
