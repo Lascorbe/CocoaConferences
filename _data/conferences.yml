@@ -74,20 +74,6 @@
   location: 🇹🇭 Bangkok, Thailand
   cocoa-only: false
 
-- name: Swift Island
-  link: https://swiftisland.nl
-  start: 2020-08-25
-  end: 2020-08-27
-  location: 🇳🇱 Texel, Netherlands
-  cocoa-only: true
-
-- name: Do iOS
-  link: https://do-ios.com/
-  start: 2020-11-06
-  end: 2020-11-06
-  location: 🇳🇱 Amsterdam, Netherlands
-  cocoa-only: true
-
 - name: iOS Conf SG
   link: http://iosconf.sg/
   start: 2021-01-21
@@ -98,37 +84,18 @@
     link: https://www.papercall.io/iosconfsg2021
     deadline: 2020-08-18
     
-- name: iOSDevUK
-  link: http://www.iosdevuk.com/
-  start: 2020-09-06
-  end: 2020-09-09
-  location: 🇬🇧 Aberystwyth, UK
-  cocoa-only: true
-  cfp:
-    link: https://docs.google.com/forms/d/e/1FAIpQLSehHlTPYDW0NjegZfJDAiOWE65GMAK1k36Yf-TTIteYswP3CA/viewform
-    deadline: 2020-01-31
-    
 - name: "Hacking with Swift: Live!"
   link: https://www.hackingwithswift.com/live
   start: 2020-07-13
   end: 2020-07-14
-  location: 🇬🇧 Bath, UK
+  location: 🌐 Online
   cocoa-only: true
-
-- name: try! Swift NYC 2020
-  link: https://www.tryswift.co/events/2020/nyc/
-  start: 2020-08-30
-  end: 2020-09-01
-  location: 🇺🇸 New York City, NY, USA
-  cocoa-only: true
-  cfp:
-    link: https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTkzMzg1NCIsImRlbGl2ZXJ5X2lkIjoiZGFnenp6YnBhMTZnMWN3bDJ5aW8iLCJ1cmwiOiJodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9mb3Jtcy9kL2UvMUZBSXBRTFNkWkdBS1FMbjhDbVN6MmRWa0R6VVVWVHAzZVYwSS03a3J4NVZVbkpRUnk5RmxEVlEvdmlld2Zvcm0_Yz0wXHUwMDI2dz0xXHUwMDI2X19zPXh4eHh4eHhcdTAwMjZfX3M9bXFzemhub213YWgyeWF2dnR1a3EifQ
 
 - name: 360iDev
   link: https://360idev.com
   start: 2020-08-16
   end: 2020-08-19
-  location: 🇺🇸 Denver, CO, USA
+  location: 🌐 Online
   cocoa-only: true
   cfp:
     link: https://360idev.com/call-for-papers/
@@ -163,18 +130,15 @@
 
 - name: ADDC - App Design & Development Conference
   link: https://addconf.com/
-  start: 2020-06-24
-  end: 2020-06-26
+  start: 2021-06-23
+  end: 2021-06-25
   location: 🇪🇸 Barcelona, Spain
   cocoa-only: false
-  cfp:
-    link: https://addconf.typeform.com/to/UYLfhu
-    deadline: 2020-02-15
 
 - name: SwiftLeeds
   link: https://swiftleeds.co.uk/
-  start: 2020-10-07
-  end: 2020-10-08
+  start: 2021-10-07
+  end: 2021-10-07
   location: 🇬🇧 Leeds, UK
   cocoa-only: true
 
