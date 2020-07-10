@@ -43,10 +43,10 @@
     link: https://docs.google.com/forms/d/e/1FAIpQLSd24Hp5KRDiaLkOh7kGkjQHol88cz-7ruRt--3nqumWoOVgow/viewform?usp=sf_link
     deadline: 2020-06-30
     
-- name: FrenchKit
+- name: FrenchKit SE
   link: https://www.frenchkit.fr/
-  start: 2020-10-05
-  end: 2020-10-06
+  start: 2020-10-02
+  end: 2020-10-02
   location: 🇫🇷 Paris, France
   cocoa-only: true
     
