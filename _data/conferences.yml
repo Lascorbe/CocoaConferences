@@ -49,6 +49,9 @@
   end: 2020-10-02
   location: 🇫🇷 Paris, France
   cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/frenchkit-2020
+    deadline: 2020-08-24
     
 - name: Mobile Conf Thailand
   link: https://mobileconfth.com
