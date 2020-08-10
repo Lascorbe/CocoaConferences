@@ -52,16 +52,6 @@
   cfp:
     link: https://www.papercall.io/frenchkit-2020
     deadline: 2020-08-24
-    
-- name: Mobile Conf Thailand
-  link: https://mobileconfth.com
-  start: 2020-08-29
-  end: 2020-08-29
-  location: 🇹🇭 Bangkok, Thailand
-  cocoa-only: false
-  cfp:
-    link: https://www.papercall.io/mobileconf2020
-    deadline: 2020-06-30
 
 - name: Mobile Conf Thailand
   link: https://mobileconfth.com
