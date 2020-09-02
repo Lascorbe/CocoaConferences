@@ -190,13 +190,10 @@
 
 - name: Appdevcon
   link: https://appdevcon.nl
-  start: 2020-09-15
-  end: 2020-09-18
+  start: 2021-03-15
+  end: 2021-03-18
   location: 🇳🇱 Amsterdam, The Netherlands
   cocoa-only: false
-  cfp:
-    link: https://docs.google.com/forms/d/e/1FAIpQLSfDVG0D_F71flB4MnfZwnnJOxoBvHzMyOjynEgd3JnG31dgow/viewform
-    deadline: 2019-12-01
 
 - name: Swift Alps
   link: https://theswiftalps.com/
