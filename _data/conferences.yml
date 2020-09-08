@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: NSSpain 2020: Remote Edition
+  link: https://remote.nsspain.com/
+  start: 2020-11-19
+  end: 2020-11-20
+  location: 🌐 Online
+  cocoa-only: true
+  cfp:
+    link: https://remote.nsspain.com/index.html#c4p
+    deadline: 2020-10-10
+
 - name: Swift Heroes Digital
   link: https://swiftheroes.com/2020/
   start: 2020-10-01
