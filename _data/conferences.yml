@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: Swift Heroes Digital
+  link: https://swiftheroes.com/2020/
+  start: 2020-10-01
+  end: 2020-10-02
+  location: 🌐 Online
+  cocoa-only: true
+
 - name: Back to the Mac
   link: https://backtomac.org
   start: 2020-11-09
