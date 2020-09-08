@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: Back to the Mac
+  link: https://backtomac.org
+  start: 2020-11-09
+  end: 2020-11-10
+  location: 🌐 Online
+  cocoa-only: true
+  cfp:
+    link: https://backtomac.org
+    deadline: 2020-09-15
+  
 - name: Swift TO
   link: https://www.swiftconf.to/
   start: 2020-08-13
