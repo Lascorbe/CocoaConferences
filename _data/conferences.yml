@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: Swift Alps 2020
+  link: https://theswiftalps.com
+  location: 🌐 Online
+  start: 2020-11-26
+  end: 2020-11-27
+  cocoa-only: true
+
 - name: NSSpain 2020 Remote Edition
   link: https://remote.nsspain.com/
   start: 2020-11-19
