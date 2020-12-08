@@ -86,6 +86,13 @@
   cfp:
     link: https://www.papercall.io/frenchkit-2020
     deadline: 2020-08-24
+    
+- name: Let’s Swift
+  link: http://letswift.kr/2020/
+  start: 2020-11-30
+  end: 2020-12-04
+  location: 🇰🇷 Seoul, South Korea
+  cocoa-only: true
 
 - name: Mobile Conf Thailand
   link: https://mobileconfth.com
