@@ -1628,3 +1628,12 @@
     link: https://forms.gle/gWpQGta1mpykU6sE8
     deadline: 2020-09-28
     
+- name: Swift Heroes
+  link: https://swiftheroes.com/2021/
+  start: 2021-04-16
+  end: 2021-04-16
+  location: 🌐 Online
+  cocoa-only: true
+  cfp:
+    link: https://sessionize.com/swift-heroes-digital-2021/
+    deadline: 2021-01-30
