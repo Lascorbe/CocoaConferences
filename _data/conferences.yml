@@ -112,7 +112,7 @@
   link: http://iosconf.sg/
   start: 2021-01-21
   end: 2021-01-22
-  location: 🇸🇬 Singapore, Singapore
+  location: 🌐 Online
   cocoa-only: true
   cfp:
     link: https://www.papercall.io/iosconfsg2021
@@ -306,11 +306,18 @@
   cfp:
     link: https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform?c=0&w=1
 
-- name: Swift India
+- name: Swift India 2019
   link: https://swiftindia.in
   start: 2019-07-28
   end: 2019-07-28
   location: 🇮🇳 Bangalore, India
+  cocoa-only: true
+
+- name: Swift India 2020
+  link: https://swiftindia.in
+  start: 2020-11-07
+  end: 2020-11-07
+  location: 🌐 Online
   cocoa-only: true
 
 - name: mDevCamp
