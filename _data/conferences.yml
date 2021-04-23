@@ -1644,3 +1644,13 @@
   cfp:
     link: https://sessionize.com/swift-heroes-digital-2021/
     deadline: 2021-01-30
+
+- name: 360iDev
+  link: https://360idev.com
+  start: 2021-08-22
+  end: 2021-08-25
+  location: Hybrid 🌐 Online / 🇺🇸 Denver, CO, USA
+  cocoa-only: true
+  cfp:
+    link: https://360idev.com/call-for-papers/
+    deadline: 2021-05-07
