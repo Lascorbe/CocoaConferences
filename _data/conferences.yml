@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: iOS Conf SG
+  link: http://iosconf.sg/
+  start: 2022-01-20
+  end: 2022-01-21
+  location: 🌐 Online
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/iosconfsg2022
+    deadline: 2021-08-31
+
 - name: Swift Alps 2020
   link: https://theswiftalps.com
   location: 🌐 Online
