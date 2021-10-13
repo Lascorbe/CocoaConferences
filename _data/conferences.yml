@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: NSSpain 2021: Remote Edition
+  link: https://2021.nsspain.com/
+  start: 2021-11-18
+  end: 2021-11-19
+  location: 🌐 Online
+  cocoa-only: true
+  cfp:
+    link: https://2021.nsspain.com/index.html#c4p
+    deadline: 2020-10-10
+
 - name: iOS Conf SG
   link: http://iosconf.sg/
   start: 2022-01-20
