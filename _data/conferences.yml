@@ -33,6 +33,13 @@
     link: https://2021.nsspain.com/index.html#c4p
     deadline: 2020-10-10
 
+- name: 360iDev
+  link: https://360idev.com
+  start: 2022-08-28
+  end: 2022-08-31
+  location: Hybrid 🌐 Online / 🇺🇸 Denver, CO, USA
+  cocoa-only: true
+  
 - name: iOS Conf SG
   link: http://iosconf.sg/
   start: 2022-01-20
