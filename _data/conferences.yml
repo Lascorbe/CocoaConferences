@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: FrenchKit
+  link: https://www.frenchkit.fr/
+  start: 2022-09-29
+  end: 2022-09-30
+  location: 🇫🇷 Paris, France
+  cocoa-only: true
+
 - name: NSSpain 2021 Remote Edition
   link: https://2021.nsspain.com/
   start: 2021-11-18
