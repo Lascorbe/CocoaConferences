@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: Swift Heroes 2022
+  link: https://swiftheroes.com/2022/#
+  start: 2022-04-07
+  end: 2022-04-08
+  location: 🌐 Online and 🇮🇹 Turin, Italy
+  cocoa-only: true
+  cfp:
+    link: https://sessionize.com/swift-heroes-2022/
+    deadline: 2022-02-13
+    
 - name: NSSpain 2021 Remote Edition
   link: https://2021.nsspain.com/
   start: 2021-11-18
