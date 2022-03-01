@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: FrenchKit
+  link: https://www.frenchkit.fr/
+  start: 2022-09-29
+  end: 2022-09-30
+  location: 🇫🇷 Paris, France
+  cocoa-only: true
+
 - name: SwiftConf
   link: https://swiftconf.com
   start: 2022-08-17
