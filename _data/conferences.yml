@@ -30,6 +30,16 @@
   location: 🇫🇷 Paris, France
   cocoa-only: true
 
+- name: SwiftConf
+  link: https://swiftconf.com
+  start: 2022-08-17
+  end: 2022-08-18
+  location: 🇩🇪 Cologne, Germany
+  cocoa-only: true
+  cfp:
+    link: https://swiftconf.com/#/cfp
+    deadline: 2022-04-30
+  
 - name: NSSpain 2021 Remote Edition
   link: https://2021.nsspain.com/
   start: 2021-11-18
@@ -46,6 +56,9 @@
   end: 2022-08-31
   location: Hybrid 🌐 Online / 🇺🇸 Denver, CO, USA
   cocoa-only: true
+  cfp:
+    link: https://360idev.com/call-for-papers/
+    deadline: 2022-05-25
   
 - name: iOS Conf SG
   link: http://iosconf.sg/
