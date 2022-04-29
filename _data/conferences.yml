@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: plSwift
+  link: https://plswift.com
+  start: 2022-05-25
+  end: 2022-05-26
+  location: 🇵🇱 Wroclaw, Poland
+  cocoa-only: true
+
 - name: Swift Heroes 2022
   link: https://swiftheroes.com/2022/#
   start: 2022-04-07
@@ -1055,7 +1062,7 @@
   link: https://swiftbynorthwest.com/
   start: 2017-10-27
   end: 2017-10-28
-  location: 🇺🇸 Seattle, WA, USA 
+  location: 🇺🇸 Seattle, WA, USA
   cocoa-only: true
 
 - name: Swift Summit
