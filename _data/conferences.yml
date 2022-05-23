@@ -46,6 +46,9 @@
   end: 2022-09-30
   location: 🇫🇷 Paris, France
   cocoa-only: true
+  cfp:
+    link: https://papercall.io/frenchkit-2022/
+    deadline: 2022-06-20
 
 - name: SwiftConf
   link: https://swiftconf.com
