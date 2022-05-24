@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: NSSpain 2022
+  link: https://2022.nsspain.com/
+  start: 2022-09-15
+  end: 2022-09-16
+  location: Logroño (In person)
+  cocoa-only: true
+
 - name: plSwift
   link: https://plswift.com
   start: 2022-05-25
