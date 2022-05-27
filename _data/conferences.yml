@@ -29,6 +29,9 @@
   end: 2022-09-16
   location: Logroño (In person)
   cocoa-only: true
+  cfp:
+    link: https://2022.nsspain.com/index.html#c4p
+    deadline: 2022-06-27
 
 - name: plSwift
   link: https://plswift.com
