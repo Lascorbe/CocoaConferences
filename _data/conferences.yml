@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: iOSDC JAPAN 2022
+  link: https://iosdc.jp/2022/
+  start: 2022-08-27
+  end: 2022-08-29
+  location: 🇯🇵 Japan, Tokyo (In person and Online)
+  cocoa-only: true
+  cfp:
+    link: https://fortee.jp/iosdc-japan-2022/proposal/callfor
+    deadline: 2022-06-07
+
 - name: NSSpain 2022
   link: https://2022.nsspain.com/
   start: 2022-09-15
