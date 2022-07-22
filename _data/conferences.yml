@@ -1741,3 +1741,13 @@
   cfp:
     link: https://360idev.com/call-for-papers/
     deadline: 2021-05-07
+    
+- name: Swiftable
+  link: https://www.swiftable.co
+  start: 2022-12-1
+  end: 2022-12-2
+  location: Autonomous City of Buenos Aires, 🇦🇷 Argentina
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/swiftable2022
+    deadline: 2021-09-15
