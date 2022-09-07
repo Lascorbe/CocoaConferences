@@ -23,6 +23,15 @@
 #
 ##########################
 
+- name: ServerSide.swift
+  link: https://www.serversideswift.info
+  start: 2022-12-09
+  end: 2022-12-09
+  location: 🇬🇧 London, UK
+  cocoa-only: false
+  cfp:
+    link: https://docs.google.com/forms/d/e/1FAIpQLSfJNiYWK2-XeDhRavqkvOdDi0wKZrtNdhUdH9-J7gDgqs1erQ/viewform
+
 - name: Do iOS
   link: https://do-ios.com
   start: 2022-11-08
