@@ -38,6 +38,9 @@
   end: 2022-11-09
   location: 🇳🇱 Amsterdam, Netherlands
   cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/do-ios-2022
+    deadline: 2022-09-22
 
 - name: iOSDC JAPAN 2022
   link: https://iosdc.jp/2022/
