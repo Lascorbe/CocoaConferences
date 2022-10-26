@@ -36,7 +36,7 @@
   location: 🇰🇷 Seoul, South Korea
   cocoa-only: true
 
-- name: SyncSwift
+- name: AsyncSwift
   link: https://asyncswift.org
   start: 2022-11-12
   end: 2022-11-12
