@@ -23,6 +23,34 @@
 #
 ##########################
 
+- name: adiOS
+  link: tbd
+  start: 2022-12-18
+  end: 2020-12-18
+  location: 🇰🇷 Seoul, South Korea
+  cocoa-only: true
+
+- name: Let’Swift
+  link: https://letswift.kr/2022/
+  start: 2022-11-30
+  end: 2020-11-30
+  location: 🇰🇷 Seoul, South Korea
+  cocoa-only: true
+
+- name: SyncSwift
+  link: https://asyncswift.org
+  start: 2022-11-12
+  end: 2020-11-12
+  location: 🇰🇷 Pohang, South Korea
+  cocoa-only: true
+
+- name: Let us: Go!
+  link: https://let-us-go-2022-fall.vercel.app
+  start: 2022-11-05
+  end: 2020-11-05
+  location: 🇰🇷 Seoul, South Korea
+  cocoa-only: true
+
 - name: iOS Dev UK
   link: https://www.iosdevuk.com
   start: 2023-09-04
