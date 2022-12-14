@@ -49,6 +49,13 @@
   end: 2020-11-05
   location: 🇰🇷 Seoul, South Korea
   cocoa-only: true
+  
+- name: Flutter Forward
+  link: https://flutter.dev/events/flutter-forward
+  start: 2023-01-25
+  end: 2023-01-25
+  location: 🌐 Online and 🇰🇪 Nairobi, Kenya
+  cocoa-only: false
 
 - name: iOS Dev UK
   link: https://www.iosdevuk.com
