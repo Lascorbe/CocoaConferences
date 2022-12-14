@@ -50,7 +50,7 @@
   location: 🇰🇷 Seoul, South Korea
   cocoa-only: true
   
-  - name: FLutter Forward
+- name: Flutter Forward
   link: https://flutter.dev/events/flutter-forward
   start: 2023-01-25
   end: 2023-01-25
