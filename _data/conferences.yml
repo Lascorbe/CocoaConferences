@@ -71,6 +71,16 @@
   location: 🇺🇸 New York, USA (actual dates still pending, planned for sometime in April 2023)
   cocoa-only: true
 
+- name: Deep Dish Swift
+  link: https://deepdishswift.com
+  start: 2023-04-30
+  end: 2023-05-02
+  location: 🇺🇸 Chicago, USA
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/deep-dish-swift-2023
+    deadline: 2023-01-28
+
 - name: plSwift
   link: https://plswift.com
   start: 2023-05-30
