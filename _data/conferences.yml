@@ -74,6 +74,13 @@
   location: 🇬🇧 Aberystwyth, UK
   cocoa-only: true
 
+- name: Macoun
+  link: https://macoun.de
+  start: 2023-09-23
+  end: 2023-09-24
+  location: 🇩🇪 Frankfurt, Germany
+  cocoa-only: true
+
 - name: NYSwifty
   link: https://nyswifty.com
   start: 2023-04-01
