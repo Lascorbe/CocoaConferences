@@ -5,7 +5,7 @@
 
 ---
 
-List of Cocoa conferences for iOS & macOS developers.
+List of conferences for developers interested on Apple related ecosystems (iOS, iPadOS, macOS, watchOS, tvOS, UIKit, Swift, SwiftUI, ReactNative, Flutter...).
 
 ## Adding a new conference
 
@@ -24,6 +24,8 @@ When editing an existing conference, there is no need to manually remove the cor
       link: The url at which prospective speakers my respond to the Call For Papers
       deadline: the last day on which a talk proposal may be submitted (in "year-month-day" format)
 ```
+
+⚠️ The indentation is really important on `.yml` files, keep the same number of spaces as the rest of entries or it won't parse the file correctly. 
 
 ### Examples
 
