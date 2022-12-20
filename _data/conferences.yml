@@ -25,13 +25,13 @@
 
 - name: AppDevCon
   link: https://appdevcon.nl/
-  location: 🇳🇱 Amsterdam, Netherlands
   start: 2023-05-09
   end: 2023-05-12
+  location: 🇳🇱 Amsterdam, Netherlands
   cocoa-only: false
   cfp:
-      link: https://sessionize.com/appdevcon-endpointcon-2023/
-      deadline: 2023-02-01
+    link: https://sessionize.com/appdevcon-endpointcon-2023/
+    deadline: 2023-02-01
 
 - name: adiOS
   start: 2022-12-18
