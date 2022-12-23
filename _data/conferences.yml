@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: Swift Heroes
+  link: https://swiftheroes.com/2023/
+  start: 2023-05-04
+  end: 2023-05-05
+  location: 🌐 Online and 🇮🇹 Turin, Italy
+  cocoa-only: true
+  cfp:
+    link: https://sessionize.com/swift-heroes-2023/
+    deadline: 2023-02-27
+
 - name: AppDevCon
   link: https://appdevcon.nl/
   start: 2023-05-09
