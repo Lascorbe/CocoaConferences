@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: Swift TO
+  link: https://swiftconf.to
+  start: 2023-08-10
+  end: 2023-08-11
+  location: 🇨🇦 Toronto, Canada
+  cocoa-only: true
+  cfp:
+    link: https://forms.gle/hYCoi6x7ZmwLT3WH6
+    deadline: 2023-06-01
+    
 - name: Swift Heroes
   link: https://swiftheroes.com/2023/
   start: 2023-05-04
