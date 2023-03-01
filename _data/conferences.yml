@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: SwiftLeeds 2023
+  link: https://swiftleeds.co.uk/
+  start: 2023-10-18
+  end: 2023-10-19
+  location: 🇬🇧 Leeds, UK
+  cocoa-only: true
+  cfp:
+    link: https://sessionize.com/swiftleeds-ios-conference
+    deadline: 2023-04-30
+
 - name: try! Swift NYC 2023
   link: https://www.tryswift.co/events/2023/nyc/
   start: 2019-09-05
