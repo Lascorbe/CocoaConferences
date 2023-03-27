@@ -67,6 +67,16 @@
     link: https://sessionize.com/swift-heroes-2023/
     deadline: 2023-02-27
 
+- name: Pragma Conference
+  link: https://swiftheroes.com/2023/
+  start: 2023-10-05
+  end: 2023-10-06
+  location: 🇮🇹 Bologna, Italy
+  cocoa-only: true
+  cfp:
+    link: https://pragmaconference.com/speakers.html
+    deadline: 2023-06-30
+
 - name: AppDevCon
   link: https://appdevcon.nl/
   start: 2023-05-09
