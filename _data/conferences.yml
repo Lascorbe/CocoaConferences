@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: Swift Connection (once known as FrenchKit)
+  link: https://www.swiftconnection.io/
+  start: 2023-09-21
+  end: 2023-09-22
+  location: 🇫🇷 Paris, France
+  cocoa-only: true
+  cfp:
+    link: https://conference-hall.io/public/event/gwRy4mnF1Y0RUCzgNaaV
+    deadline: 2022-06-18
+
 - name: SwiftLeeds 2023
   link: https://swiftleeds.co.uk/
   start: 2023-10-09
