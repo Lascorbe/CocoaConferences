@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: DO iOS
+  link: https://do-ios.com/
+  start: 2023-11-8
+  end: 2023-11-9
+  location: 🇳🇱 Amsterdam, The Netherlands
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/do-ios-2023
+    deadline: 2023-06-01
+
 - name: NSSPAIN XI
   link: https://2023.nsspain.com/
   start: 2023-09-14
