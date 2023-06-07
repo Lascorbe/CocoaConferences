@@ -39,6 +39,9 @@
   end: 2023-09-15
   location: 🇪🇸 Logroño, Spain
   cocoa-only: true
+  cfp:
+    link: https://2023.nsspain.com
+    deadline: 2023-06-27
 
 - name: Swift Connection (once known as FrenchKit)
   link: https://www.swiftconnection.io/
