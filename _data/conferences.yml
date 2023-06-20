@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: Swiftable 2023
+  link: https://https://www.swiftable.co/
+  location: 🇦🇷 Buenos Aires, Argentina
+  start: 2023-11-29
+  end: 2023-12-1
+  cocoa-only: true
+  cfp:
+    link: https://https://www.papercall.io/swiftable2023
+    deadline: 2023-09-16
+
 - name: DO iOS
   link: https://do-ios.com/
   start: 2023-11-8
