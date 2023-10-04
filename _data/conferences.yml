@@ -23,6 +23,13 @@
 #
 ##########################
 
+- name: iOS Conf SG
+  link: https://iosconf.sg
+  start: 2024-01-18
+  end: 2024-01-19
+  location: 🇸🇬 Singapore
+  cocoa-only: true
+
 - name: Swiftable 2023
   link: https://www.swiftable.co/
   location: 🇦🇷 Buenos Aires, Argentina
@@ -79,7 +86,7 @@
   end: 2023-09-07
   location: 🇺🇸 New York City, NY, USA
   cocoa-only: true
-    
+
 - name: SwiftConf
   link: https://swiftconf.com/#/
   start: 2023-08-16
@@ -96,7 +103,7 @@
   cfp:
     link: https://forms.gle/hYCoi6x7ZmwLT3WH6
     deadline: 2023-06-01
-    
+
 - name: Swift Heroes
   link: https://swiftheroes.com/2023/
   start: 2023-05-04
@@ -153,7 +160,7 @@
   end: 2020-11-05
   location: 🇰🇷 Seoul, South Korea
   cocoa-only: true
-  
+
 - name: Flutter Forward
   link: https://flutter.dev/events/flutter-forward
   start: 2023-01-25
@@ -257,7 +264,7 @@
   cfp:
     link: https://sessionize.com/swift-heroes-2022/
     deadline: 2022-02-13
-    
+
 - name: FrenchKit
   link: https://www.frenchkit.fr/
   start: 2022-09-29
@@ -277,7 +284,7 @@
   cfp:
     link: https://swiftconf.com/#/cfp
     deadline: 2022-04-30
-  
+
 - name: NSSpain 2021 Remote Edition
   link: https://2021.nsspain.com/
   start: 2021-11-18
@@ -297,7 +304,7 @@
   cfp:
     link: https://360idev.com/call-for-papers/
     deadline: 2022-05-25
-  
+
 - name: iOS Conf SG
   link: http://iosconf.sg/
   start: 2022-01-20
@@ -341,7 +348,7 @@
   cfp:
     link: https://backtomac.org
     deadline: 2020-09-15
-  
+
 - name: Swift TO
   link: https://www.swiftconf.to/
   start: 2020-08-13
@@ -361,7 +368,7 @@
   cfp:
     link: https://docs.google.com/forms/d/e/1FAIpQLSd24Hp5KRDiaLkOh7kGkjQHol88cz-7ruRt--3nqumWoOVgow/viewform?usp=sf_link
     deadline: 2020-06-30
-    
+
 - name: FrenchKit SE
   link: https://www.frenchkit.fr/
   start: 2020-10-02
@@ -371,7 +378,7 @@
   cfp:
     link: https://www.papercall.io/frenchkit-2020
     deadline: 2020-08-24
-    
+
 - name: Let’s Swift
   link: http://letswift.kr/2020/
   start: 2020-11-30
@@ -402,7 +409,7 @@
   cfp:
     link: https://www.papercall.io/iosconfsg2021
     deadline: 2020-08-18
-    
+
 - name: "Hacking with Swift: Live!"
   link: https://www.hackingwithswift.com/live
   start: 2020-07-13
@@ -419,7 +426,7 @@
   cfp:
     link: https://360idev.com/call-for-papers/
     deadline: 2020-05-08
-    
+
 - name: WWDC
   link: https://developer.apple.com/wwdc/
   start: 2020-06-22
@@ -581,7 +588,7 @@
   cfp:
     link: https://docs.google.com/forms/d/e/1FAIpQLSdoCMmd4XKceV6TJYaZ-0KK10RrsGbS_r1qh_14L_hOx-11kg/viewform
     deadline: 2019-07-10
-    
+
 - name: try! Swift NYC 2019
   link: https://www.tryswift.co/events/2019/nyc/
   start: 2019-09-08
@@ -614,7 +621,7 @@
   cfp:
     link: https://goo.gl/forms/eoX2WfG1LRoZPxxo1
     deadline: 2019-02-28
- 
+
 - name: Swift by Midwest
   link: https://swiftbymidwest.com
   start: 2019-04-17
@@ -1775,7 +1782,7 @@
   end: 2019-07-04
   location: 🇳🇱 Texel, Netherlands
   cocoa-only: true
-  
+
 - name: FrenchKit
   link: https://frenchkit.fr
   start: 2019-10-07
@@ -1785,7 +1792,7 @@
   cfp:
     link: https://www.papercall.io/frenchkit-2019
     deadline: 2019-06-21
-  
+
 - name: SwiftConf
   link: https://swiftconf.com
   start: 2019-08-28
@@ -1795,7 +1802,7 @@
   cfp:
     link: https://swiftconf.com/#/cfp
     deadline: 2019-04-30
-    
+
 - name: WWDC
   link: https://developer.apple.com/wwdc/
   start: 2019-06-03
@@ -1919,7 +1926,7 @@
   cfp:
     link: https://forms.gle/gWpQGta1mpykU6sE8
     deadline: 2020-09-28
-    
+
 - name: Swift Heroes
   link: https://swiftheroes.com/2021/
   start: 2021-04-16
@@ -1939,7 +1946,7 @@
   cfp:
     link: https://360idev.com/call-for-papers/
     deadline: 2021-05-07
-    
+
 - name: Swiftable
   link: https://www.swiftable.co
   start: 2022-12-01
