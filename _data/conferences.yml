@@ -23,6 +23,26 @@
 #
 ##########################
 
+- name: NYSwifty
+  link: https://nyswifty.com
+  start: 2023-04-10
+  end: 2023-04-11
+  location: 🇺🇸 New York, USA
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/nyswifty24
+    deadline: 2023-11-30
+
+- name: Deep Dish Swift
+  link: https://deepdishswift.com
+  start: 2024-05-05
+  end: 2024-05-07
+  location: 🇺🇸 Chicago, USA
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/deep-dish-swift-2024
+    deadline: 2023-01-31
+
 - name: iOS Conf SG
   link: https://iosconf.sg
   start: 2024-01-18
