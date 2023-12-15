@@ -23,6 +23,16 @@
 #
 ##########################
 
+- name: Swift Craft
+  link: https://swiftcraft.uk
+  start: 2024-05-21
+  end: 2024-05-24
+  location: 🇬🇧 Folkestone, UK
+  cocoa-only: true
+  cfp:
+    link: https://speak.swiftcraft.uk
+    deadline: 2023-12-31
+
 - name: NYSwifty
   link: https://nyswifty.com
   start: 2024-04-10
