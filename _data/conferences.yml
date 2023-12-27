@@ -23,7 +23,13 @@
 #
 ##########################
 
-
+- name: vOS Conf ✌️
+  link: https://vosconf.com
+  start: 2024-04-15
+  end: 2024-04-16
+  location: 🇩🇪 Düren, Germany
+  cocoa-only: true
+    
 - name: iOS Dev UK
   link: https://www.iosdevuk.com
   start: 2024-09-02
