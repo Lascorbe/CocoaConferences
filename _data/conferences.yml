@@ -23,6 +23,15 @@
 #
 ##########################
 
+- name: SwiftLeeds
+  link: https://swiftleeds.co.uk
+  start: 2024-10-08
+  end: 2024-10-09
+  location: 🇬🇧 Leeds, UK
+  cocoa-only: true
+  cfp:
+    deadline: 2024-05-01
+
 - name: try! Swift Tokyo 2024
   link: https://tryswift.jp/_en
   start: 2024-03-22
