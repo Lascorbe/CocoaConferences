@@ -23,6 +23,14 @@
 #
 ##########################
 
+
+- name: Let's visionOS 2024
+  link: https://letsvisionos24.swiftgg.team/en
+  start: 2024-03-30
+  end: 2024-03-31
+  location: 🇨🇳 BEIJING, CHINA
+  cocoa-only: true
+
 - name: SwiftLeeds
   link: https://swiftleeds.co.uk
   start: 2024-10-08
