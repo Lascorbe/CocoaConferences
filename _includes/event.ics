@@ -1,7 +1,7 @@
 {%- assign conference = include.conference -%}
 BEGIN:VEVENT
 UID:{{ conference.name | url_encode }}{% if conference.start %}-{{ conference.start }}{% endif %}
-SUMMARY:{{ conference.name }}
+SUMMARY:{{ conference.name }}{% if conference.cancelled %} (Cancelled){% endif %}
 {% if conference.link %}URL:{{ conference.link }}{% endif %}
 LOCATION:{% if conference.location %}{{ conference.location }}{% else %}TBA{% endif %}
 {% if conference.start %}

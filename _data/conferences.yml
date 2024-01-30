@@ -19,6 +19,8 @@
 # If only the CFP deadline is included, the date will be formatted. There will not be a link.
 # If both the CFP deadline and link are omitted, the text will say "See website for details". There will not be a link.
 #
+# In the rare event that a conference has been cancelled, add "cancelled: true" to the conference definition.
+#
 # Special characters (like leading @ symbols) may need to be escaped. You can do so using a backslash. Eg: \@Swift
 #
 ##########################
@@ -80,6 +82,7 @@
   end: 2024-04-11
   location: 🇺🇸 New York, USA
   cocoa-only: true
+  cancelled: true
   cfp:
     link: https://www.papercall.io/nyswifty24
     deadline: 2023-11-30

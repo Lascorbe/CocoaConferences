@@ -186,17 +186,18 @@ const months = ["", "January", "February", "March", "April", "May", "June", "Jul
 function buildRow(conference, includeCFP) {
     const tr = document.createElement("tr");
     
-    const nameCell = document.createElement("td");
-    const conferenceName = document.createTextNode(conference.name);
+    var nameContents;
     if (conference.link !== null) {
         var linkNode = document.createElement("a");
         linkNode.setAttribute("href", conference.link);
         linkNode.setAttribute("title", conference.name);
-        linkNode.appendChild(conferenceName);
-        nameCell.appendChild(linkNode);
+        linkNode.appendChild(document.createTextNode(conference.name));
+        nameContents = linkNode;
     } else {
-        nameCell.appendChild(conferenceName);
+    	nameContents = document.createTextNode(conference.name);
     }
+    const nameCell = document.createElement("td");
+    nameCell.appendChild(checkForCancellation(conference, nameContents));
     tr.appendChild(nameCell);
     
     const dateNode = document.createElement("td");
@@ -219,15 +220,17 @@ function buildRow(conference, includeCFP) {
     }
     const strong = document.createElement("strong");
     strong.appendChild(document.createTextNode(dateString));
-    dateNode.appendChild(strong);
+    dateNode.appendChild(checkForCancellation(conference, strong));
     tr.appendChild(dateNode);
     
     const placeNode = document.createElement("td");
+    var placeContents;
     if (conference.location === null || conference.location.length == 0) {
-        placeNode.appendChild(document.createTextNode("TBA"));
+    	placeContents = document.createTextNode("TBA");
     } else {
-        placeNode.appendChild(document.createTextNode(conference.location));
+    	placeContents = document.createTextNode(conference.location);
     }
+	placeNode.appendChild(checkForCancellation(conference, placeContents));
     tr.appendChild(placeNode);
     
     if (includeCFP === true) {
@@ -244,55 +247,74 @@ function buildRow(conference, includeCFP) {
         
         var textNode = null;
         
-        if (cfpDeadline !== null && cfpDeadline !== undefined) {
-            const today = new Date();
-            
-            const year = today.getFullYear(); 
-            const dYear = cfpDeadline.year;
-            
-            const month = today.getMonth() + 1; 
-            const dMonth = cfpDeadline.month;
-            
-            const day = today.getDate(); 
-            const dDay = cfpDeadline.day;
-            
-            var deadlineHasPassed = false;
-            if (year > dYear) {
-                deadlineHasPassed = true;
-            } else if (year == dYear && month > dMonth) {
-                deadlineHasPassed = true;
-            } else if (year == dYear && month == dMonth && day > dDay) {
-                deadlineHasPassed = true;
-            }
-            
-            const text = months[cfpDeadline.month] + " " + cfpDeadline.day + ", " + cfpDeadline.year;
-            var node = document.createTextNode(text);
-            
-            if (deadlineHasPassed) {
-                var strike = document.createElement("del");
-                strike.appendChild(node);
-                textNode = strike;
-            } else {
-                textNode = node;
-            }
-        } else if (hasLink === true) {
-            textNode = document.createTextNode("Deadline not specified");
+        if (conference.cancelled === true) {
+        	cfpNode.appendChild(document.createTextNode("(Cancelled)"));
         } else {
-            textNode = document.createTextNode("See website for details");
-        }
-        
-        if (hasLink === true) {
-            // link
-            const link = document.createElement("a");
-            link.setAttribute("href", cfpLink);
-            link.appendChild(textNode);
-            cfpNode.appendChild(link);
-        } else {
-            // no link
-            cfpNode.appendChild(textNode);
-        }
+			if (cfpDeadline !== null && cfpDeadline !== undefined) {
+				const today = new Date();
+				
+				const year = today.getFullYear(); 
+				const dYear = cfpDeadline.year;
+				
+				const month = today.getMonth() + 1; 
+				const dMonth = cfpDeadline.month;
+				
+				const day = today.getDate(); 
+				const dDay = cfpDeadline.day;
+				
+				var deadlineHasPassed = false;
+				if (year > dYear) {
+					deadlineHasPassed = true;
+				} else if (year == dYear && month > dMonth) {
+					deadlineHasPassed = true;
+				} else if (year == dYear && month == dMonth && day > dDay) {
+					deadlineHasPassed = true;
+				}
+				
+				const text = months[cfpDeadline.month] + " " + cfpDeadline.day + ", " + cfpDeadline.year;
+				var node = document.createTextNode(text);
+				
+				if (deadlineHasPassed) {
+					var strike = document.createElement("del");
+					strike.appendChild(node);
+					textNode = strike;
+				} else {
+					textNode = node;
+				}
+			} else if (hasLink === true) {
+				textNode = document.createTextNode("Deadline not specified");
+			} else {
+				textNode = document.createTextNode("See website for details");
+			}
+			
+			if (hasLink === true) {
+				// link
+				const link = document.createElement("a");
+				link.setAttribute("href", cfpLink);
+				link.appendChild(textNode);
+				cfpNode.appendChild(link);
+			} else {
+				// no link
+				cfpNode.appendChild(textNode);
+			}
+		}
         tr.appendChild(cfpNode);
     }
     
     return tr;
+}
+
+function checkForCancellation(conference, node) {
+	if (conference.cancelled !== true) {
+		return node;
+	}
+	
+	const wrapper = document.createElement("span");
+	
+	const strike = document.createElement("s");
+	strike.appendChild(node);
+	
+	wrapper.appendChild(strike);
+	wrapper.appendChild(document.createTextNode(" (Cancelled)"));
+	return wrapper;
 }

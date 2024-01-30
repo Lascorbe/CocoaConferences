@@ -53,7 +53,8 @@ const conferences = [
       {% else %}
     	  deadline: null
       {% endif %}
-    }
+    }, 
+    cancelled: {% if conference.cancelled %} true {% else %} false {% endif %}
   },
 {% endfor %}
 ];
