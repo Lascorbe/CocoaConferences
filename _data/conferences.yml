@@ -78,8 +78,8 @@
 
 - name: NYSwifty
   link: https://nyswifty.com
-  start: 2024-04-10
-  end: 2024-04-11
+  start: 2024-04-23
+  end: 2024-04-24
   location: 🇺🇸 New York, USA
   cocoa-only: true
   cancelled: true
