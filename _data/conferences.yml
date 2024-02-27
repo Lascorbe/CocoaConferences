@@ -25,6 +25,15 @@
 #
 ##########################
 
+- name: iOSKonf24
+  link: https://www.ioskonf.mk
+  start: 2024-05-14
+  end: 2024-05-15
+  location: 🇲🇰 Skopje, Macedonia
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/ioskonf
+    deadline: 2024-02-29
 
 - name: Let's visionOS 2024
   link: https://letsvisionos24.swiftgg.team/en
