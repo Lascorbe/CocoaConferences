@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: Swift Connection
+  link: https://www.swiftconnection.io
+  start: 2024-09-23
+  end: 2024-09-24
+  location: 🇫🇷 Paris, France
+  cocoa-only: true
+
 - name: iOSKonf24
   link: https://www.ioskonf.mk
   start: 2024-05-14
