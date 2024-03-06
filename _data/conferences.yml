@@ -25,6 +25,16 @@
 #
 ##########################
 
+- name: DO iOS
+  link: https://do-ios.com/
+  start: 2024-11-13
+  end: 2024-11-14
+  location: 🇳🇱 Amsterdam, The Netherlands
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/do-ios-2024
+    deadline: 2024-07-31
+
 - name: Swift Connection
   link: https://www.swiftconnection.io
   start: 2024-09-23
