@@ -24,6 +24,15 @@
 # Special characters (like leading @ symbols) may need to be escaped. You can do so using a backslash. Eg: \@Swift
 #
 ##########################
+- name: SwiftConf
+  link: https://swiftconf.com
+  start: 2024-08-07
+  end: 2024-08-08
+  location: 🇩🇪 Cologne, Germany
+  cocoa-only: true
+  cfp:
+    link: https://swiftconf.com
+    deadline: 2024-04-30
 
 - name: DO iOS
   link: https://do-ios.com/
