@@ -25,6 +25,16 @@
 #
 ##########################
 
+- name: Pragma Conference 2024
+  link: https://pragmaconference.com/
+  location: 🇮🇹 Bologna, Italy
+  start: 2024-10-29
+  end: 2024-10-30
+  cocoa-only: true
+  cfp:
+      link: https://pragmaconference.com/speakers.html
+      deadline: 2024-06-30
+
 - name: WWDC
   link: https://developer.apple.com/wwdc/
   start: 2024-06-10
