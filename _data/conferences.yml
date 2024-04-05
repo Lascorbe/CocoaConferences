@@ -25,6 +25,16 @@
 #
 ##########################
 
+- name: /dev/world/2024
+  link: https://auc.edu.au/devworld
+  location: 🇦🇺 Melbourne, Australia
+  start: 2024-05-08
+  end: 2024-05-10
+  cocoa-only: true
+  cfp:
+      link: https://auc.edu.au/devworld/cfp/
+      deadline: 2024-04-06
+
 - name: Pragma Conference 2024
   link: https://pragmaconference.com/
   location: 🇮🇹 Bologna, Italy
