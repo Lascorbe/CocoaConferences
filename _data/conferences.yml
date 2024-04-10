@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: ARCtic Conference
+  link: https://arcticonference.com
+  location: 🇫🇮 Oulu, Finland
+  start: 2025-03-11
+  end: 2025-03-13
+  cocoa-only: true
+
 - name: /dev/world/2024
   link: https://auc.edu.au/devworld
   location: 🇦🇺 Melbourne, Australia
