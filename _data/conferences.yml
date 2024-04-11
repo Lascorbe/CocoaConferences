@@ -25,6 +25,16 @@
 #
 ##########################
 
+- name: One More Thing
+  link: https://omt-conf.com
+  location: 🇺🇸 Cupertino, USA
+  start: 2024-06-10
+  end: 2024-06-14
+  cocoa-only: true
+  cfp:
+      link: https://onemorething.typeform.com/proposal
+      deadline: 2024-04-28
+
 - name: ARCtic Conference
   link: https://arcticonference.com
   location: 🇫🇮 Oulu, Finland
