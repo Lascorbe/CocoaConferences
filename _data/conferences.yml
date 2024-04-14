@@ -25,6 +25,16 @@
 #
 ##########################
 
+- name: ServerSide.swift
+  link: https://www.serversideswift.info
+  location: 🇬🇧 London, UK
+  start: 2024-09-26
+  end: 2024-09-27
+  cocoa-only: true
+  cfp:
+      link: https://www.papercall.io/server-side-swift-2024
+      deadline: 2024-05-31
+
 - name: One More Thing
   link: https://omt-conf.com
   location: 🇺🇸 Cupertino, USA
