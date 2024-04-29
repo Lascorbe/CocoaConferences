@@ -25,6 +25,16 @@
 #
 ##########################
 
+- name: NSSPAIN XII
+  link: TBA
+  start: 2024-09-18
+  end: 2024-09-19
+  location: 🇪🇸 Logroño, Spain
+  cocoa-only: true
+  cfp:
+    link: TBA
+    deadline: 2024-06-24
+
 - name: ServerSide.swift
   link: https://www.serversideswift.info
   location: 🇬🇧 London, UK
