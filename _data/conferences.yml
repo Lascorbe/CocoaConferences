@@ -25,6 +25,14 @@
 #
 ##########################
 
+
+- name: Swift Island
+  link: https://swiftisland.nl
+  start: 2024-08-27
+  end: 2024-08-29
+  location: 🇳🇱 Texel, Netherlands
+  cocoa-only: true
+
 - name: NSSPAIN XII
   link: TBA
   start: 2024-09-18
