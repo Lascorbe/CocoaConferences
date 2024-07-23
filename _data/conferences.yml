@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: Deep Dish Swift
+  link: https://deepdishswift.com
+  start: 2025-04-27
+  end: 2025-04-29
+  location: 🇺🇸 Chicago, USA
+  cocoa-only: true
+
 - name: Swift Island
   link: https://swiftisland.nl
   start: 2024-08-27
