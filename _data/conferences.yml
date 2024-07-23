@@ -32,14 +32,14 @@
   location: 🇳🇱 Texel, Netherlands
   cocoa-only: true
 
-- name: NSSPAIN XII
-  link: TBA
+- name: NSSpain XII
+  link: https://2024.nsspain.com
   start: 2024-09-18
   end: 2024-09-19
   location: 🇪🇸 Logroño, Spain
   cocoa-only: true
   cfp:
-    link: TBA
+    link: https://2024.nsspain.com
     deadline: 2024-06-24
 
 - name: ServerSide.swift
