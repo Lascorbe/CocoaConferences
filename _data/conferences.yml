@@ -69,6 +69,16 @@
       link: https://onemorething.typeform.com/proposal
       deadline: 2024-04-28
 
+- name: iOS Conf SG
+  link: https://iosconf.sg
+  start: 2025-01-15
+  end: 2025-01-17
+  location: 🇸🇬 Singapore
+  cocoa-only: true
+  cfp:
+      link: https://www.papercall.io/iosconfsg2025
+      deadline: 2024-09-25
+
 - name: ARCtic Conference
   link: https://arcticonference.com
   location: 🇫🇮 Oulu, Finland
