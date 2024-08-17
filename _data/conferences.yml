@@ -78,6 +78,34 @@
   cfp:
       link: https://www.papercall.io/iosconfsg2025
       deadline: 2024-09-25
+  
+- name: try! Swift x AI San Jose
+  link: https://www.tryswift.co/ai
+  start: 2025-01-30
+  end: 2025-01-31
+  location: 🇺🇸 San Jose, California, USA
+  cocoa-only: true
+
+- name: try! Swift x AI Chicago
+  link: https://www.tryswift.co/ai
+  start: 2025-02-06
+  end: 2025-02-07
+  location: 🇺🇸 Chicago, USA
+  cocoa-only: true
+
+- name: try! Swift x AI NYC
+  link: https://www.tryswift.co/ai
+  start: 2025-02-13
+  end: 2025-02-14
+  location: 🇺🇸 NYC, USA
+  cocoa-only: true
+
+- name: try! Swift AI x Maize Conf, Copenhagen
+  link: https://www.tryswift.co/ai
+  start: 2025-02-19
+  end: 2025-02-21
+  location: 🇩🇰 Copenhagen, Denmark
+  cocoa-only: true
 
 - name: ARCtic Conference
   link: https://arcticonference.com
