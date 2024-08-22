@@ -78,7 +78,14 @@
   cfp:
       link: https://www.papercall.io/iosconfsg2025
       deadline: 2024-09-25
-  
+
+- name: try! Swift x AI Singapore
+  link: https://www.tryswift.co/ai
+  start: 2025-01-18
+  end: 2025-01-19
+  location: 🇸🇬 Singapore
+  cocoa-only: true
+
 - name: try! Swift x AI San Jose
   link: https://www.tryswift.co/ai
   start: 2025-01-30
