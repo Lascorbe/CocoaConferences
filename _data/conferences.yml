@@ -120,6 +120,9 @@
   start: 2025-03-11
   end: 2025-03-13
   cocoa-only: true
+  cfp:
+      link: https://forms.gle/7Z2qtfSKpFLM561K8
+      deadline: 2024-11-15
 
 - name: /dev/world/2024
   link: https://auc.edu.au/devworld
