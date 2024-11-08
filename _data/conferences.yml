@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: iOSKonf25
+  link: https://www.ioskonf.mk/
+  location: 🇲🇰 Skopje, Macedonia
+  start: 2025-05-13
+  end: 2025-05-15
+  cocoa-only: true
+
 - name: Deep Dish Swift
   link: https://deepdishswift.com
   start: 2025-04-27
