@@ -87,12 +87,12 @@
       deadline: 2024-09-25
 
 - name: Swift DevRoom at FOSDEM 2025
-link: https://swiftlang.github.io/event-fosdem/
-start: 2025-02-01
-end: 2025-02-02
-location: 🇧🇪 Brussels, Belgium
-cocoa-only: true
-cfp:
+  link: https://swiftlang.github.io/event-fosdem/
+  start: 2025-02-01
+  end: 2025-02-02
+  location: 🇧🇪 Brussels, Belgium
+  cocoa-only: false
+  cfp:
     link: https://swiftlang.github.io/event-fosdem/
     deadline: 2024-11-30
 
