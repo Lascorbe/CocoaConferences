@@ -73,6 +73,41 @@
       link: https://macadmins.psu.edu/conference/submit-proposals/
       deadline: 2025-03-26
 
+- name: try! Swift Tokyo 2025
+  link: https://tryswift.jp/en/
+  start: 2025-04-09
+  end: 2025-04-11
+  location: 🇯🇵 Tokyo, Japan
+  cocoa-only: true
+
+- name: Swift Heroes
+  link: https://swiftheroes.com/2025
+  start: 2025-04-08
+  end: 2025-04-09
+  location: 🌐 Online and 🇮🇹 Turin, Italy
+  cocoa-only: true
+
+- name: Swift Craft
+  link: https://swiftcraft.uk
+  start: 2025-05-19
+  end: 2025-05-21
+  location: 🇬🇧 Folkestone, UK
+  cocoa-only: true
+
+- name: Swift Connection
+  link: https://www.swiftconnection.io
+  start: 2025-10-06
+  end: 2025-10-07
+  location: 🇫🇷 Paris, France
+  cocoa-only: true
+
+- name: Pragma Conference 2025
+  link: https://pragmaconference.com/
+  location: 🇮🇹 Bologna, Italy
+  start: 2024-10-30
+  end: 2024-10-31
+  cocoa-only: true
+
 - name: Swift Island
   link: https://swiftisland.nl
   start: 2024-08-27
