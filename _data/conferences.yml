@@ -49,6 +49,30 @@
   location: 🇺🇸 Chicago, USA
   cocoa-only: true
 
+- name: DO iOS
+  link: https://do-ios.com/
+  start: 2025-11-12
+  end: 2025-11-14
+  location: 🇳🇱 Amsterdam, The Netherlands
+  cocoa-only: true
+
+- name: mDevCamp
+  link: https://mdevcamp.eu/
+  start: 2025-06-02
+  end: 2025-06-03
+  location: 🇨🇿 Prague, Czech Republic
+  cocoa-only: false
+
+- name: MacAdmins Conference
+  link: https://macadmins.psu.edu
+  location: 🇺🇸 State College, Pennsylvania, USA
+  start: 2025-07-15
+  end: 2025-07-18
+  cocoa-only: true
+  cfp:
+      link: https://macadmins.psu.edu/conference/submit-proposals/
+      deadline: 2025-03-26
+
 - name: Swift Island
   link: https://swiftisland.nl
   start: 2024-08-27
