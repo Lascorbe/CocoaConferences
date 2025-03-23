@@ -25,6 +25,16 @@
 #
 ##########################
 
+- name: SwiftLeeds
+  link: https://swiftleeds.co.uk
+  start: 2025-10-07
+  end: 2025-10-08
+  location: 🇬🇧 Leeds, UK
+  cocoa-only: true
+  cfp:
+    link: https://sessionize.com/swiftleeds-ios-conference-in-leeds
+    deadline: 2025-04-30
+
 - name: iOSKonf25
   link: https://www.ioskonf.mk/
   location: 🇲🇰 Skopje, Macedonia
