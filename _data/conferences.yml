@@ -49,6 +49,13 @@
   location: 🇺🇸 Chicago, USA
   cocoa-only: true
 
+- name: try! Swift AI x Dub Dub
+  link: https://www.tryswift.co/dub-dub-ai
+  start: 2025-06-12
+  end: 2025-06-13
+  location: 🇺🇸 San Jose, CA
+  cocoa-only: true
+
 - name: DO iOS
   link: https://do-ios.com/
   start: 2025-11-12
