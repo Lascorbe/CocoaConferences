@@ -32,6 +32,13 @@
   location: 🌐 Online
   cocoa-only: true
 
+- name: Let's visionOS 2025
+  link: https://letsvision.swiftgg.team/
+  start: 2025-03-01
+  end: 2025-03-02
+  location: 🇨🇳 Shanghai, China
+  cocoa-only: true
+
 - name: SwiftLeeds
   link: https://swiftleeds.co.uk
   start: 2025-10-07
