@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: WWDC
+  link: https://developer.apple.com/wwdc/
+  start: 2025-06-09
+  end: 2025-06-13
+  location: 🌐 Online
+  cocoa-only: true
+
 - name: SwiftLeeds
   link: https://swiftleeds.co.uk
   start: 2025-10-07
