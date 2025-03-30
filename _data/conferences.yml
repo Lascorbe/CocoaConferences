@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: Swift Island
+  link: https://swiftisland.nl
+  start: 2025-09-02
+  end: 2025-09-04
+  location: 🇳🇱 Texel, Netherlands
+  cocoa-only: true
+  
 - name: WWDC
   link: https://developer.apple.com/wwdc/
   start: 2025-06-09
