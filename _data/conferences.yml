@@ -2307,3 +2307,13 @@
   cfp:
     link: https://www.papercall.io/swiftable2022
     deadline: 2021-09-15
+
+- name: ServerSide.swift 2025
+  link: https://www.serversideswift.info
+  location: 🇬🇧 London, UK
+  start: 2025-10-02
+  end: 2025-10-03
+  cocoa-only: true
+  cfp:
+      link: https://www.papercall.io/serversideswift-2025
+      deadline: 2025-06-30
