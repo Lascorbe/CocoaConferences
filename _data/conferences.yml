@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: NSSpain XIII
+  link: https://2025.nsspain.com
+  start: 2025-09-18
+  end: 2025-09-19
+  location: 🇪🇸 Logroño, Spain
+  cocoa-only: true
+
 - name: Swift Island
   link: https://swiftisland.nl
   start: 2025-09-02
