@@ -90,6 +90,9 @@
   end: 2025-11-14
   location: 🇳🇱 Amsterdam, The Netherlands
   cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/do-ios-2025
+    deadline: 2025-07-31
 
 - name: mDevCamp
   link: https://mdevcamp.eu/
