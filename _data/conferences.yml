@@ -138,6 +138,9 @@
   end: 2025-10-07
   location: 🇫🇷 Paris, France
   cocoa-only: true
+  cfp:
+    link: https://sessionize.com/swift-connection-2025/
+    deadline: 2025-06-22
 
 - name: Pragma Conference 2025
   link: https://pragmaconference.com/
