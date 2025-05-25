@@ -284,7 +284,7 @@ function buildRow(conference, includeCFP) {
 			} else if (hasLink === true) {
 				textNode = document.createTextNode("Deadline not specified");
 			} else {
-				textNode = document.createTextNode("See website for details");
+				textNode = document.createTextNode("No information; see website for details");
 			}
 			
 			if (hasLink === true) {
