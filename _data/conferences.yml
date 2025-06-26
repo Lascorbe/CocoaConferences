@@ -39,6 +39,13 @@
   location: 🇪🇸 Logroño, Spain
   cocoa-only: true
 
+- name: /dev/world 2025
+  link: https://devworld.au
+  start: 2025-09-04
+  end: 2025-09-05
+  location: 🇦🇺 Melbourne, Australia
+  cocoa-only: true
+
 - name: Swift Island
   link: https://swiftisland.nl
   start: 2025-09-02
