@@ -38,6 +38,9 @@
   end: 2025-09-19
   location: 🇪🇸 Logroño, Spain
   cocoa-only: true
+  cfp:
+    link: https://2025.nsspain.com/#speakers
+    deadline: 2025-06-30
 
 - name: /dev/world 2025
   link: https://devworld.au
