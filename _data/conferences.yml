@@ -37,7 +37,7 @@
   start: 2025-09-26
   end: 2025-09-27
   location: 🇮🇳 Bengaluru, India
-  cocoa-only: false
+  cocoa-only: true
 
 - name: NSSpain XIII
   link: https://2025.nsspain.com
