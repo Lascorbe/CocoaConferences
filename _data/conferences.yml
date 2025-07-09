@@ -31,7 +31,14 @@
   end: 2026-03-13
   location: 🇳🇱 Amsterdam, The Netherlands
   cocoa-only: false
-  
+
+- name: Swift Bharat
+  link: https://swiftbharat.org
+  start: 2025-09-26
+  end: 2025-09-27
+  location: 🇮🇳 Bengaluru, India
+  cocoa-only: true
+
 - name: NSSpain XIII
   link: https://2025.nsspain.com
   start: 2025-09-18
