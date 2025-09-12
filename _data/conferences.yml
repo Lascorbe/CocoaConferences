@@ -32,6 +32,16 @@
   location: 🇳🇱 Amsterdam, The Netherlands
   cocoa-only: false
 
+- name: ARCtic Conference
+  link: https://arcticonference.com
+  location: 🇫🇮  Oulu, Finland
+  start: 2026-02-10
+  end: 2026-02-12
+  cocoa-only: true
+  cfp:
+    link: https://arcticonference.com/#Cfp
+    deadline: 2024-10-31
+
 - name: Swift Bharat
   link: https://swiftbharat.org
   start: 2025-09-26
