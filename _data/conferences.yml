@@ -25,6 +25,27 @@
 #
 ##########################
 
+- name: iOSDevUK
+  link: https://www.iosdevuk.com
+  start: 2026-09-07
+  end: 2026-09-10
+  location: 🇬🇧 Aberystwyth, UK
+  cocoa-only: true
+
+- name: Deep Dish Swift
+  link: https://deepdishswift.com
+  start: 2026-04-12
+  end: 2026-04-14
+  location: 🇺🇸 Chicago, USA
+  cocoa-only: true
+
+- name: try! Swift Tokyo
+  link: https://tryswift.jp/
+  start: 2026-04-12
+  end: 2026-04-14
+  location: 🇯🇵 Tokyo, Japan
+  cocoa-only: true
+
 - name: Appdevcon
   link: https://appdevcon.nl
   start: 2026-03-10
@@ -41,6 +62,13 @@
   cfp:
     link: https://arcticonference.com/#Cfp
     deadline: 2025-10-31
+
+- name: iOS Conf SG
+  link: https://iosconf.sg
+  start: 2026-01-21
+  end: 2026-01-23
+  location: 🇸🇬 Singapore
+  cocoa-only: true
 
 - name: Swift Bharat
   link: https://swiftbharat.org
