@@ -38,6 +38,9 @@
   end: 2026-04-14
   location: 🇺🇸 Chicago, USA
   cocoa-only: true
+  cfp:
+    link: https://tasteful-rosemary-0c5.notion.site/205aa30653af804cb165f76d264931d4
+    deadline: 2025-11-30
 
 - name: try! Swift Tokyo
   link: https://tryswift.jp/
