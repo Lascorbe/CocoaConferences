@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: mDevCamp
+  link: https://mdevcamp.eu/
+  start: 2026-06-03
+  end: 2026-06-04
+  location: 🇨🇿 Prague, Czech Republic
+  cocoa-only: false
+  
 - name: iOSDevUK
   link: https://www.iosdevuk.com
   start: 2026-09-07
