@@ -2401,3 +2401,13 @@
   cfp:
       link: https://www.papercall.io/serversideswift-2025
       deadline: 2025-06-30
+
+- name: mDevCamp
+  link: https://mdevcamp.eu/
+  start: 2026-06-03
+  end: 2026-06-04
+  location: 🇨🇿 Prague, Czech Republic
+  cocoa-only: false
+  cfp:
+    link: https://forms.gle/MWKkKDAk98fFLpLz8
+    deadline: 2025-11-30
