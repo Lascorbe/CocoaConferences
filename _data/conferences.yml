@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: iOSKonf26
+  link: https://www.ioskonf.mk/
+  location: 🇲🇰 Skopje, Macedonia
+  start: 2026-05-04
+  end: 2026-05-06
+  cocoa-only: true
+
 - name: iOSDevUK
   link: https://www.iosdevuk.com
   start: 2026-09-07
