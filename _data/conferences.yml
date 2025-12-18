@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: Swift Island 2026
+  link: http://www.swiftisland.nl/
+  start: 2026-09-07
+  end: 2018-09-11
+  location: 🇳🇱 Texel, Netherlands
+  cocoa-only: true
+
 - name: Swift Rockies 2026
   link: https://swiftrockies.com
   location: 🇨🇦 Calgary, Canada
