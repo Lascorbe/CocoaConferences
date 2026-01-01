@@ -62,6 +62,9 @@
   end: 2026-09-10
   location: 🇬🇧 Aberystwyth, UK
   cocoa-only: true
+  cfp:
+    link: https://www.iosdevuk.com/speakercall
+    deadline: 2026-02-16
 
 - name: Deep Dish Swift
   link: https://deepdishswift.com
