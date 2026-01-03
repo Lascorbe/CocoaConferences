@@ -25,6 +25,16 @@
 #
 ##########################
 
+- name: Swiftsonic '26
+  link: https://swiftsonicconf.com/
+  start: 2026-11-20
+  end: 2026-11-22
+  location: 🇺🇸 Nashville, Tennessee, USA
+  cocoa-only: true
+  cfp:
+    link: https://sessionize.com/swiftsonic-26
+    deadline: 2026-03-31
+
 - name: Swift Craft 2026
   link: https://swiftcraft.uk/
   start: 2026-05-18
