@@ -72,6 +72,9 @@
   start: 2026-05-04
   end: 2026-05-06
   cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/ioskonf26
+    deadline: 2026-01-31
 
 - name: iOSDevUK
   link: https://www.iosdevuk.com
