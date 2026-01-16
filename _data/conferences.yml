@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: swiftCon
+  link: https://www.nextappcon.com/swiftcon
+  start: 2026-10-07
+  end: 2026-10-09
+  location: 🇩🇪 Berlin, Germany
+  cocoa-only: false
+
 - name: Swiftsonic '26
   link: https://swiftsonicconf.com/
   start: 2026-11-20
