@@ -62,8 +62,8 @@
 - name: Swift Rockies 2026
   link: https://swiftrockies.com
   location: 🇨🇦 Calgary, Canada
-  start: 2026-07-15
-  end: 2026-07-16
+  start: 2026-07-22
+  end: 2026-07-23
   cocoa-only: true
 
 - name: iOSKonf26
