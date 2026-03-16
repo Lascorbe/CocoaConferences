@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: MacSysAdmin
+  link: https://macsysadmin.se
+  start: 2026-09-29
+  end: 2026-10-02
+  location: 🇸🇪 Gothenburg, Sweden
+  cocoa-only: true
+
 - name: swiftCon
   link: https://www.nextappcon.com/swiftcon
   start: 2026-10-07
