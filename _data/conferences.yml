@@ -25,6 +25,14 @@
 #
 ##########################
 
+
+- name: Do iOS 2026
+  link: https://do-ios.com/
+  start: 2026-11-10
+  end: 2026-11-12
+  location: 🇳🇱 Amsterdam, Netherlands
+  cocoa-only: true
+
 - name: MacSysAdmin
   link: https://macsysadmin.se
   start: 2026-09-29
