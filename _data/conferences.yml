@@ -25,6 +25,15 @@
 #
 ##########################
 
+- name: NSSpain XIV
+  link: https://2026.nsspain.com
+  start: 2026-09-17
+  end: 2026-09-18
+  location: 🇪🇸 Logroño, Spain
+  cocoa-only: true
+  cfp:
+    link: https://2026.nsspain.com/#speakers
+    deadline: 2026-06-22
 
 - name: Do iOS 2026
   link: https://do-ios.com/
