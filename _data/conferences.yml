@@ -42,6 +42,16 @@
   location: 🇳🇱 Amsterdam, Netherlands
   cocoa-only: true
 
+- name: Swift Bharat
+  link: https://swiftbharat.org
+  start: 2026-11-19
+  end: 2026-11-20
+  location: 🇮🇳 Mumbai, India
+  cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/swiftbharat-2026
+    deadline: 2026-06-30
+
 - name: Swift Connection
   link: https://swiftconnection.io
   start: 2026-11-02
