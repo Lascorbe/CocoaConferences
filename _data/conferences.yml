@@ -48,6 +48,9 @@
   end: 2026-11-12
   location: 🇳🇱 Amsterdam, Netherlands
   cocoa-only: true
+  cfp:
+    link: https://do-ios.com/#call-for-papers
+    deadline: 2026-08-16
 
 - name: Swift Bharat
   link: https://swiftbharat.org
@@ -65,6 +68,9 @@
   end: 2026-11-03
   location: 🇫🇷 Paris, France
   cocoa-only: true
+  cfp:
+    link: https://conference-hall.io/swift-connection-2026
+    deadline: 2026-06-28
 
 - name: MacSysAdmin
   link: https://macsysadmin.se
@@ -106,6 +112,7 @@
   end: 2026-09-11
   location: 🇳🇱 Texel, Netherlands
   cocoa-only: true
+  cancelled: true
 
 - name: Swift Rockies 2026
   link: https://swiftrockies.com
