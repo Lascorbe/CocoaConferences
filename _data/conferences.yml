@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: ARCtic Conference
+  link: https://arcticonference.com
+  start: 2027-02-02
+  end: 2027-02-04
+  location: 🇫🇮 Oulu, Finland
+  cocoa-only: true
+
 - name: NSSpain XIV
   link: https://2026.nsspain.com
   start: 2026-09-17
