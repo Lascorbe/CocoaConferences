@@ -98,6 +98,14 @@
   cfp:
     link: https://swiftcraft.uk/callforspeakers
     deadline: 2026-01-30
+    
+- name: Swift Island 2026
+  link: http://www.swiftisland.nl/
+  start: 2026-09-07
+  end: 2026-09-11
+  location: 🇳🇱 Texel, Netherlands
+  cocoa-only: true
+  cancelled: true
 
 - name: Swift Rockies 2026
   link: https://swiftrockies.com
