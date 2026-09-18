@@ -25,6 +25,15 @@
 #
 ##########################
 
+- name: try! Swift Tokyo
+  link: https://tryswift.jp/
+  start: 2027-03-02
+  end: 2027-03-04
+  location: 🇯🇵 Tokyo, Japan
+  cocoa-only: true
+  cfp:
+    link: https://cfp.tryswift.jp
+  
 - name: iOSDevUK
   link: https://www.iosdevuk.com
   start: 2027-09-06
