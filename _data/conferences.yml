@@ -1540,7 +1540,7 @@
 - name: iOS Remote Conf
   link: https://allremoteconfs.com/ios-2016
   start: 2016-04-13
-  end: 2016-04-01
+  end: 2016-04-15
   location: Remote
   cocoa-only: true
 
