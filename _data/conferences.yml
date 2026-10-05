@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: NSSpain XV
+  link: https://2027.nsspain.com
+  start: 2027-09-16
+  end: 2027-09-17
+  location: 🇪🇸 Logroño, Spain
+  cocoa-only: true
+
 - name: try! Swift Tokyo
   link: https://tryswift.jp/
   start: 2027-03-02
