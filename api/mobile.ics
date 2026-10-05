@@ -6,7 +6,7 @@ PRODID:-//lascorbe/CocoaConferences/mobile v1.0//EN
 CALSCALE:GREGORIAN
 NAME:Mobile Conferences
 {% for conference in site.data.conferences %}
-{%- if conference.cocoa-only == false -%}
+{%- if conference.cocoa-only != true -%}
 {%- include event.ics conference=conference -%}
 {%- endif -%}
 {% endfor %}

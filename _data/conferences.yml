@@ -730,7 +730,7 @@
 - name: "let us: Go!"
   link: https://let-us-go-2022-fall.vercel.app
   start: 2022-11-05
-  end: 2020-11-05
+  end: 2022-11-05
   location: 🇰🇷 Seoul, South Korea
   cocoa-only: true
 
@@ -1540,7 +1540,7 @@
 - name: iOS Remote Conf
   link: https://allremoteconfs.com/ios-2016
   start: 2016-04-13
-  end: 2016-04-01
+  end: 2016-04-15
   location: Remote
   cocoa-only: true
 
