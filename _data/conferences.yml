@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: Appdevcon
+  link: https://appdevcon.nl
+  start: 2027-03-16
+  end: 2027-03-18
+  location: 🇳🇱 Amsterdam, The Netherlands
+  cocoa-only: false
+    
 - name: NSSpain XV
   link: https://2027.nsspain.com
   start: 2027-09-16
