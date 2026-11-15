@@ -34,6 +34,12 @@
   cfp:
     link: https://deepdishswift.com/call-for-papers.html
     deadline: 2026-11-30
+- name: iOSKonf27
+  link: https://www.ioskonf.mk/
+  location: 🇲🇰 Skopje, North Macedonia
+  start: 2027-05-10
+  end: 2027-05-12
+  cocoa-only: true
 
 - name: Appdevcon
   link: https://appdevcon.nl
