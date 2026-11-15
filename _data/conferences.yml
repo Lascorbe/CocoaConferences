@@ -25,6 +25,16 @@
 #
 ##########################
 
+- name: Deep Dish Swift
+  link: https://deepdishswift.com
+  location: 🇺🇸 Rosemont (Chicago), IL, USA
+  start: 2027-04-04
+  end: 2027-04-06
+  cocoa-only: true
+  cfp:
+    link: https://deepdishswift.com/call-for-papers.html
+    deadline: 2026-11-30
+
 - name: Appdevcon
   link: https://appdevcon.nl
   start: 2027-03-16
