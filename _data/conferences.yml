@@ -25,6 +25,13 @@
 #
 ##########################
 
+- name: iOS Conf SG
+  link: https://iosconf.sg
+  start: 2027-01-20
+  end: 2027-01-22
+  location: 🇸🇬 Singapore
+  cocoa-only: true
+
 - name: Deep Dish Swift
   link: https://deepdishswift.com
   location: 🇺🇸 Chicago, USA
